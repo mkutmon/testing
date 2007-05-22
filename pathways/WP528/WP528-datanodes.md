@@ -1,0 +1,9 @@
+| Label | Type | ID | Database |
+| ---- | ---- | ---- | ---- |
+|PDHA1 | GeneProduct | 5160 | Entrez Gene |
+|PDHA2 | GeneProduct | 5161 | Entrez Gene |
+|PEMT | GeneProduct | 10400 | Entrez Gene |
+|PCYT1A | GeneProduct | 5130 | Entrez Gene |
+|CHKA | GeneProduct | 1119 | Entrez Gene |
+|ACHE | GeneProduct | 43 | Entrez Gene |
+|CHAT | GeneProduct | 1103 | Entrez Gene |
