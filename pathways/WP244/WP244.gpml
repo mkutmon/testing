@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alpha6-Beta4 Integrin Signaling Pathway" Data-Source="WikiPathways" Version="WP244_r6293" Author="A.Pandey" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alpha6-Beta4 Integrin Signaling Pathway" Data-Source="WikiPathways" Version="WP244_r6896" Author="A.Pandey | 212.48.140.65" Organism="Homo sapiens">
   <Graphics BoardWidth="1863.3333333333333" BoardHeight="1333.3333333333335" />
   <DataNode TextLabel="SMAD3" GraphId="a08" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="SMAD3" />
@@ -63,7 +63,7 @@
   </DataNode>
   <DataNode TextLabel="SHC1" GraphId="ae8" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="SHC1" />
-    <Graphics CenterX="1083.3333333333333" CenterY="570.0" Width="43.56328" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1082.3333333333333" CenterY="571.0" Width="43.56328" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="6464" />
   </DataNode>
   <DataNode TextLabel="ITGB4BP" GraphId="aea" Type="GeneProduct">
