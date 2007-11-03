@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r6298" Author="A.Kwa" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r7455" Author="A.Kwa | MaintBot" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Graphics BoardWidth="925.1666666666667" BoardHeight="622.8333333333334" />
   <DataNode TextLabel="F10" GraphId="a0e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F10 | coagulation factor X" />
