@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Calcium Regulation in the Cardiac Cell" Data-Source="WikiPathways" Version="WP536_r7458" Author="Nsalomonis | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Calcium Regulation in the Cardiac Cell" Data-Source="WikiPathways" Version="WP536_r7591" Author="Nsalomonis | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="1504.3333333333333" BoardHeight="1010.0" />
   <DataNode TextLabel="ADRA1D" GraphId="a07" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ADRA1D | adrenergic alpha-1D- receptor" />
@@ -304,7 +304,7 @@
     <Xref Database="Entrez Gene" ID="64407" />
   </DataNode>
   <DataNode TextLabel="PRKAR1A" GraphId="c38" Type="GeneProduct">
-    <Comment Source="GenMAPP remarks">KAP0_HUMAN</Comment>
+    <Comment Source="GenMAPP remarks">KAP0 HUMAN</Comment>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRKAR1A | protein kinase cAMP-dependent regul..." />
     <Graphics CenterX="1113.3333333333333" CenterY="186.66666666666666" Width="66.66666666666667" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5573" />
@@ -320,7 +320,7 @@
     <Xref Database="Entrez Gene" ID="5331" />
   </DataNode>
   <DataNode TextLabel="PRKD1" GraphId="c54" Type="GeneProduct">
-    <Comment Source="GenMAPP remarks">KPCM_HUMAN</Comment>
+    <Comment Source="GenMAPP remarks">KPCM HUMAN</Comment>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRKD1 | protein kinase D1" />
     <Graphics CenterX="1423.3333333333333" CenterY="593.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5587" />
@@ -637,7 +637,7 @@
     <Xref Database="Entrez Gene" ID="7533" />
   </DataNode>
   <DataNode TextLabel="ADCY1" GraphId="eae" Type="GeneProduct">
-    <Comment Source="GenMAPP remarks">CYA1_HUMAN</Comment>
+    <Comment Source="GenMAPP remarks">CYA1 HUMAN</Comment>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ADCY1 | adenylate cyclase 1 (brain)" />
     <Graphics CenterX="1113.3333333333333" CenterY="53.333333333333336" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="107" />
@@ -648,7 +648,7 @@
     <Xref Database="Entrez Gene" ID="5997" />
   </DataNode>
   <DataNode TextLabel="PRKCE" GraphId="ed6" Type="GeneProduct">
-    <Comment Source="GenMAPP remarks">This EST is listed on the Affymetrix Murine6500 chip.  The SwissProt entry name is KPCE_MOUSE.</Comment>
+    <Comment Source="GenMAPP remarks">This EST is listed on the Affymetrix Murine6500 chip.  The SwissProt entry name is KPCE MOUSE.</Comment>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRKCE | protein kinase C epsilon" />
     <Graphics CenterX="1330.0" CenterY="633.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5581" />
