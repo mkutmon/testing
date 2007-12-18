@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alpha6-Beta4 Integrin Signaling Pathway" Data-Source="WikiPathways" Version="WP244_r7192" Author="A.Pandey | 212.48.140.65 | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alpha6-Beta4 Integrin Signaling Pathway" Data-Source="WikiPathways" Version="WP244_r7573" Author="A.Pandey | 212.48.140.65 | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="1863.3333333333333" BoardHeight="1333.3333333333335" />
   <DataNode TextLabel="SMAD3" GraphId="a08" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="SMAD3" />
@@ -1877,7 +1877,7 @@
   <Label TextLabel="Palmitoylation" GraphId="b12">
     <Graphics CenterX="160.0" CenterY="793.3333333333334" Width="97.33333333333333" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
   </Label>
-  <Label TextLabel="Accession Number: NetPath_1; cellmap:1" GraphId="b16">
+  <Label TextLabel="Accession Number: NetPath 1; cellmap:1" GraphId="b16">
     <Graphics CenterX="190.0" CenterY="290.0" Width="323.3333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Deubiquitination" GraphId="b42">
