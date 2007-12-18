@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="B Cell Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP23_r7201" Author="A.Pandey | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="B Cell Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP23_r7582" Author="A.Pandey | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="2096.718193333333" BoardHeight="1820.1236666666664" />
   <DataNode TextLabel="ELK1" GraphId="a06" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ELK1" />
@@ -5684,7 +5684,7 @@
   <Label TextLabel="Ubiquitination" GraphId="eae">
     <Graphics CenterX="160.0" CenterY="1490.0" Width="71.97526666666666" Height="14.487386666666668" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
   </Label>
-  <Label TextLabel="Accesion Number: NetPath_12" GraphId="eb3">
+  <Label TextLabel="Accesion Number: NetPath 12" GraphId="eb3">
     <Graphics CenterX="136.66666666666666" CenterY="860.0" Width="222.64406666666667" Height="17.38486" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Deacetylation" GraphId="eb9">
