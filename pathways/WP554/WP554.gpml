@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway (Homo Sapiens)" Data-Source="WikiPathways" Version="WP554_r7449" Author="C.F.Thorn | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway (Homo Sapiens)" Data-Source="WikiPathways" Version="WP554_r7561" Author="C.F.Thorn | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="711.6666666666666" BoardHeight="550.0" />
   <DataNode TextLabel="AGT" GraphId="a57" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AGT | angiotensinogen (serine (or cysteine) pro..." />
