@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r7455" Author="A.Kwa | MaintBot" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r7588" Author="A.Kwa | MaintBot" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Graphics BoardWidth="925.1666666666667" BoardHeight="622.8333333333334" />
   <DataNode TextLabel="F10" GraphId="a0e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F10 | coagulation factor X" />
@@ -401,13 +401,13 @@
   <Label TextLabel="Fibrin Split Products" GraphId="e5b">
     <Graphics CenterX="783.3333333333334" CenterY="583.3333333333334" Width="161.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Label TextLabel="_" GraphId="e69">
+  <Label TextLabel=" " GraphId="e69">
     <Graphics CenterX="673.3333333333334" CenterY="506.6666666666667" Width="14.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="+" GraphId="ea2">
     <Graphics CenterX="560.0" CenterY="223.33333333333334" Width="14.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Label TextLabel="_" GraphId="ebe">
+  <Label TextLabel=" " GraphId="ebe">
     <Graphics CenterX="316.6666666666667" CenterY="503.3333333333333" Width="14.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Fibrin Monomer" GraphId="fa8">
