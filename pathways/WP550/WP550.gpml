@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r7585" Author="AlexanderPico | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r7920" Author="AlexanderPico | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="680.0" BoardHeight="656.7" />
   <DataNode TextLabel="GAD2" GraphId="a07" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
