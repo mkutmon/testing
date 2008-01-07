@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Calcium Regulation in the Cardiac Cell" Data-Source="WikiPathways" Version="WP536_r7591" Author="Nsalomonis | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Calcium Regulation in the Cardiac Cell" Data-Source="WikiPathways" Version="WP536_r7932" Author="Nsalomonis | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="1504.3333333333333" BoardHeight="1010.0" />
   <DataNode TextLabel="ADRA1D" GraphId="a07" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ADRA1D | adrenergic alpha-1D- receptor" />
