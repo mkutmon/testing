@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="B Cell Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP23_r7582" Author="A.Pandey | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="B Cell Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP23_r7914" Author="A.Pandey | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="2096.718193333333" BoardHeight="1820.1236666666664" />
   <DataNode TextLabel="ELK1" GraphId="a06" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ELK1" />
