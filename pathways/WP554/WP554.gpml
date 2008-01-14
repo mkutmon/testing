@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway (Homo Sapiens)" Data-Source="WikiPathways" Version="WP554_r7872" Author="C.F.Thorn | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway (Homo Sapiens)" Data-Source="WikiPathways" Version="WP554_r10186" Author="C.F.Thorn | MaintBot" Organism="Homo sapiens">
+  <BiopaxRef>b93</BiopaxRef>
   <Graphics BoardWidth="711.6666666666666" BoardHeight="550.0" />
   <DataNode TextLabel="AGT" GraphId="a57" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AGT | angiotensinogen (serine (or cysteine) pro..." />
@@ -142,5 +143,24 @@
   </Shape>
   <InfoBox CenterX="1.6666666666666667" CenterY="38.333333333333336" />
   <Legend CenterX="681.6666666666666" CenterY="118.33333333333333" />
+  <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b93">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17464936</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The emerging role of ACE2 in physiology and disease.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Pathol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hamming I</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cooper ME</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Haagmans BL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hooper NM</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Korstanje R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Osterhaus AD</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Timens W</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turner AJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Navis G</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">van Goor H</bp:AUTHORS>
+    </bp:PublicationXref>
+  </Biopax>
 </Pathway>
 
