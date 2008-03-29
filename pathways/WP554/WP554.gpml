@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway (Homo Sapiens)" Data-Source="WikiPathways" Version="WP554_r10186" Author="C.F.Thorn | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway (Homo Sapiens)" Data-Source="WikiPathways" Version="WP554_r11445" Author="C.F.Thorn | MaintBot | Jinwook" Organism="Homo sapiens">
   <BiopaxRef>b93</BiopaxRef>
   <Graphics BoardWidth="711.6666666666666" BoardHeight="550.0" />
   <DataNode TextLabel="AGT" GraphId="a57" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AGT | angiotensinogen (serine (or cysteine) pro..." />
-    <Graphics CenterX="156.66666666666666" CenterY="150.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="151.66666666666666" CenterY="151.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="183" />
   </DataNode>
   <DataNode TextLabel="ACE" GraphId="ab9" Type="GeneProduct">
@@ -44,7 +44,7 @@
   </DataNode>
   <DataNode TextLabel="KNG1" GraphId="d3f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="KNG1 | kininogen 1" />
-    <Graphics CenterX="456.6666666666667" CenterY="246.66666666666666" Width="93.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="453.6666666666667" CenterY="241.66666666666666" Width="93.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3827" />
   </DataNode>
   <DataNode TextLabel="Aldosterone" GraphId="d49" Type="GeneProduct">
@@ -59,7 +59,7 @@
   </DataNode>
   <DataNode TextLabel="ACE Inhibitor" GraphId="de7" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACE Inhibitor" />
-    <Graphics CenterX="286.6666666666667" CenterY="206.66666666666666" Width="93.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="284.6666666666667" CenterY="211.66666666666666" Width="93.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="REN" GraphId="ea3" Type="GeneProduct">
