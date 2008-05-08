@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway (Homo Sapiens)" Data-Source="WikiPathways" Version="WP554_r11445" Author="C.F.Thorn | MaintBot | Jinwook" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway (Homo Sapiens)" Data-Source="WikiPathways" Version="WP554_r11883" Author="C.F.Thorn | MaintBot | Jinwook | Khanspers" Organism="Homo sapiens">
   <BiopaxRef>b93</BiopaxRef>
   <Graphics BoardWidth="711.6666666666666" BoardHeight="550.0" />
   <DataNode TextLabel="AGT" GraphId="a57" Type="GeneProduct">
