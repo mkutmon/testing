@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r12977" Author="A.Kwa | MaintBot" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r13043" Author="A.Kwa | MaintBot" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Graphics BoardWidth="925.1666666666667" BoardHeight="622.8333333333334" />
   <DataNode TextLabel="F10" GraphId="a0e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F10 | coagulation factor X" />
@@ -15,6 +15,10 @@
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F12 | coagulation factor XII (Hageman factor)" />
     <Graphics CenterX="53.333333333333336" CenterY="73.33333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2161" />
+  </DataNode>
+  <DataNode TextLabel="Fibrin" GraphId="a53">
+    <Graphics CenterX="780.0" CenterY="510.0" Width="49.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="9001-31-4" />
   </DataNode>
   <DataNode TextLabel="FGG" GraphId="aa3" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FGG | fibrinogen gamma chain" />
@@ -343,9 +347,6 @@
   </Interaction>
   <Label TextLabel="Fibrin Polymer" GraphId="a3f">
     <Graphics CenterX="780.0" CenterY="453.3333333333333" Width="116.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Fibrin" GraphId="a53">
-    <Graphics CenterX="780.0" CenterY="510.0" Width="49.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Intrinsic Pathway" GraphId="ae4">
     <Graphics CenterX="83.33333333333333" CenterY="33.333333333333336" Width="136.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
