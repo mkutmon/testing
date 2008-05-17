@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r7878" Author="A.Kwa | MaintBot" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r13035" Author="A.Kwa | MaintBot" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Graphics BoardWidth="870.0000000000001" BoardHeight="622.8666666666667" />
   <DataNode TextLabel="PCYT1A" GraphId="a69" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PCYT1A | phosphate cytidylyltransferase 1 chol..." />
@@ -21,10 +21,34 @@
     <Graphics CenterX="116.66666666666667" CenterY="266.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5160" />
   </DataNode>
+  <DataNode TextLabel="Phosphorylcholine" GraphId="ca8">
+    <Graphics CenterX="716.6666666666666" CenterY="333.3666666666667" Width="150.33333333333334" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="645-84-1" />
+  </DataNode>
+  <DataNode TextLabel="Acetylcholine" GraphId="cc9">
+    <Graphics CenterX="260.0" CenterY="450.03333333333336" Width="108.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="51-84-3" />
+  </DataNode>
+  <DataNode TextLabel="Choline" GraphId="d2e">
+    <Graphics CenterX="416.6666666666667" CenterY="583.3666666666667" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="62-49-7" />
+  </DataNode>
+  <DataNode TextLabel="Glycerophosphocholine" GraphId="d6e">
+    <Graphics CenterX="430.0" CenterY="253.36666666666667" Width="189.33333333333334" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="28319-77-9" />
+  </DataNode>
+  <DataNode TextLabel="Acetyl CoA" GraphId="dfe">
+    <Graphics CenterX="116.66666666666667" CenterY="330.03333333333336" Width="89.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="72-89-9" />
+  </DataNode>
   <DataNode TextLabel="PEMT" GraphId="e2a" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PEMT | phosphatidylethanolamine N-methyltransfe..." />
     <Graphics CenterX="416.6666666666667" CenterY="133.36666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="10400" />
+  </DataNode>
+  <DataNode TextLabel="Acetate" GraphId="e42">
+    <Graphics CenterX="116.66666666666667" CenterY="583.3666666666667" Width="62.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="64-19-7" />
   </DataNode>
   <DataNode TextLabel="CHKA" GraphId="ea5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHKA | choline kinase alpha" />
@@ -35,6 +59,10 @@
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHAT | choline acetyltransferase" />
     <Graphics CenterX="253.33333333333334" CenterY="393.3666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1103" />
+  </DataNode>
+  <DataNode TextLabel="Choline" GraphId="f74">
+    <Graphics CenterX="416.6666666666667" CenterY="330.03333333333336" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="62-49-7" />
   </DataNode>
   <Interaction GraphId="id1e8d62d8">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
@@ -219,29 +247,8 @@
   <Label TextLabel="Pyruvate from Glycolysis" GraphId="bf0">
     <Graphics CenterX="116.66666666666667" CenterY="226.7" Width="195.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Label TextLabel="Phosphorylcholine" GraphId="ca8">
-    <Graphics CenterX="716.6666666666666" CenterY="333.3666666666667" Width="150.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Acetylcholine" GraphId="cc9">
-    <Graphics CenterX="260.0" CenterY="450.03333333333336" Width="108.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
   <Label TextLabel="Phosphatidylcholine" GraphId="ccf">
     <Graphics CenterX="423.3333333333333" CenterY="193.36666666666667" Width="162.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Choline" GraphId="d2e">
-    <Graphics CenterX="416.6666666666667" CenterY="583.3666666666667" Width="64.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Glycerophosphocholine" GraphId="d6e">
-    <Graphics CenterX="430.0" CenterY="253.36666666666667" Width="189.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Acetyl CoA" GraphId="dfe">
-    <Graphics CenterX="116.66666666666667" CenterY="330.03333333333336" Width="89.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Acetate" GraphId="e42">
-    <Graphics CenterX="116.66666666666667" CenterY="583.3666666666667" Width="62.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Choline" GraphId="f74">
-    <Graphics CenterX="416.6666666666667" CenterY="330.03333333333336" Width="64.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <InfoBox CenterX="8.333333333333334" CenterY="11.666666666666666" />
   <Legend CenterX="702.7" CenterY="474.6" />

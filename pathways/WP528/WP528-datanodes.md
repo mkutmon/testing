@@ -7,3 +7,10 @@
 |CHKA | GeneProduct | 1119 | Entrez Gene |
 |ACHE | GeneProduct | 43 | Entrez Gene |
 |CHAT | GeneProduct | 1103 | Entrez Gene |
+|Glycerophosphocholine | Unknown | 28319-77-9 | CAS |
+|Choline | Unknown | 62-49-7 | CAS |
+|Acetyl CoA | Unknown | 72-89-9 | CAS |
+|Acetate | Unknown | 64-19-7 | CAS |
+|Choline | Unknown | 62-49-7 | CAS |
+|Phosphorylcholine | Unknown | 645-84-1 | CAS |
+|Acetylcholine | Unknown | 51-84-3 | CAS |
