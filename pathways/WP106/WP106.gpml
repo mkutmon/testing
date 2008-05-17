@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r7890" Author="L.M.Ferrante | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r13037" Author="L.M.Ferrante | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="1313.8333333333333" BoardHeight="1216.6666666666667" />
   <DataNode TextLabel="3.5.1.3" GraphId="a3a" Type="GeneProduct">
     <Graphics CenterX="373.3333333333333" CenterY="1006.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -13,6 +13,10 @@
   <DataNode TextLabel="3.4.13.3" GraphId="a77" Type="GeneProduct">
     <Graphics CenterX="810.0" CenterY="493.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="3.4.13.3" />
+  </DataNode>
+  <DataNode TextLabel="L-Alanine" GraphId="ab0">
+    <Graphics CenterX="940.0" CenterY="236.66666666666666" Width="58.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="6912-68-1" />
   </DataNode>
   <DataNode TextLabel="ASL" GraphId="ac6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASL | argininosuccinate lyase" />
@@ -46,6 +50,11 @@
     <Graphics CenterX="736.6666666666666" CenterY="950.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="443" />
   </DataNode>
+  <DataNode TextLabel="D-Alanine" GraphId="b23">
+    <Comment Source="GenMAPP remarks">D-Alanine</Comment>
+    <Graphics CenterX="1110.0" CenterY="236.66666666666666" Width="59.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="6912-68-1" />
+  </DataNode>
   <DataNode TextLabel="5.1.1.1" GraphId="b27" Type="GeneProduct">
     <Graphics CenterX="1020.0" CenterY="236.66666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="5.1.1.1" />
@@ -53,6 +62,11 @@
   <DataNode TextLabel="2.6.1.12" GraphId="b8d" Type="GeneProduct">
     <Graphics CenterX="736.6666666666666" CenterY="186.66666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="2.6.1.12" />
+  </DataNode>
+  <DataNode TextLabel="b-Alanine" GraphId="b94">
+    <Comment Source="GenMAPP remarks">beta-alanine</Comment>
+    <Graphics CenterX="720.0" CenterY="476.6666666666667" Width="58.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="6912-68-1" />
   </DataNode>
   <DataNode TextLabel="DARS" GraphId="ba3" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DARS | aspartyl-tRNA synthetase" />
@@ -71,6 +85,11 @@
   <DataNode TextLabel="1.2.1.18" GraphId="c1a" Type="GeneProduct">
     <Graphics CenterX="606.6666666666666" CenterY="546.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="1.2.1.18" />
+  </DataNode>
+  <DataNode TextLabel="Acetyl-CoA" GraphId="c39">
+    <Comment Source="GenMAPP remarks">Acetyl-CoA</Comment>
+    <Graphics CenterX="536.6666666666666" CenterY="476.6666666666667" Width="67.33333333333333" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="72-89-9" />
   </DataNode>
   <DataNode TextLabel="5.1.1.13" GraphId="c41" Type="GeneProduct">
     <Graphics CenterX="800.0" CenterY="846.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -104,6 +123,11 @@
   <DataNode TextLabel="1.4.3.15" GraphId="cfc" Type="GeneProduct">
     <Graphics CenterX="620.0" CenterY="836.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="1.4.3.15" />
+  </DataNode>
+  <DataNode TextLabel="Malate" GraphId="d06">
+    <Comment Source="GenMAPP remarks">(S)-Malate</Comment>
+    <Graphics CenterX="120.0" CenterY="960.0" Width="43.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="617-48-1" />
   </DataNode>
   <DataNode TextLabel="3.5.1.1" GraphId="d0b" Type="GeneProduct">
     <Graphics CenterX="876.6666666666666" CenterY="986.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -142,6 +166,20 @@
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD1 | glutamate decarboxylase 1 (brain 67kDa)..." />
     <Graphics CenterX="840.0" CenterY="373.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2571" />
+  </DataNode>
+  <DataNode TextLabel="L-Asparagine" GraphId="eab">
+    <Comment Source="GenMAPP remarks">L-Asparagine</Comment>
+    <Graphics CenterX="950.0" CenterY="1050.0" Width="81.33333333333333" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="70-47-3" />
+  </DataNode>
+  <DataNode TextLabel="O-Acetylcarnitine" GraphId="ed0">
+    <Graphics CenterX="503.3333333333333" CenterY="383.3333333333333" Width="103.33333333333333" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="3040-38-8" />
+  </DataNode>
+  <DataNode TextLabel="Carnosine" GraphId="ee9">
+    <Comment Source="GenMAPP remarks">Carnosine</Comment>
+    <Graphics CenterX="883.3333333333334" CenterY="476.6666666666667" Width="63.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="305-84-0" />
   </DataNode>
   <DataNode TextLabel="1.4.3.1" GraphId="f00" Type="GeneProduct">
     <Graphics CenterX="620.0" CenterY="856.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -992,9 +1030,6 @@
     <Comment Source="GenMAPP remarks">Citrate</Comment>
     <Graphics CenterX="540.0" CenterY="960.0" Width="43.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
   </Label>
-  <Label TextLabel="L-Alanine" GraphId="ab0">
-    <Graphics CenterX="940.0" CenterY="236.66666666666666" Width="58.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
-  </Label>
   <Label TextLabel="Oxaloacetate" GraphId="afb">
     <Comment Source="GenMAPP remarks">Oxaloacetate</Comment>
     <Graphics CenterX="370.0" CenterY="960.0" Width="81.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
@@ -1005,10 +1040,6 @@
   </Label>
   <Label TextLabel="D-Ala metabolism" GraphId="b15">
     <Graphics CenterX="1080.0" CenterY="63.333333333333336" Width="105.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" Color="0000ff" />
-  </Label>
-  <Label TextLabel="D-Alanine" GraphId="b23">
-    <Comment Source="GenMAPP remarks">D-Alanine</Comment>
-    <Graphics CenterX="1110.0" CenterY="236.66666666666666" Width="59.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
   </Label>
   <Label TextLabel="Nicotinate and nicotinamide metabolism" GraphId="b41">
     <Graphics CenterX="140.0" CenterY="903.3333333333334" Width="232.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" Color="0000ff" />
@@ -1029,20 +1060,12 @@
   <Label TextLabel="Selenoamino acid metabolism" GraphId="b8e">
     <Graphics CenterX="776.6666666666666" CenterY="130.0" Width="176.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" Color="0000ff" />
   </Label>
-  <Label TextLabel="b-Alanine" GraphId="b94">
-    <Comment Source="GenMAPP remarks">beta-alanine</Comment>
-    <Graphics CenterX="720.0" CenterY="476.6666666666667" Width="58.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
-  </Label>
   <Label TextLabel="Malonate semialdehyde" GraphId="be6">
     <Graphics CenterX="740.0" CenterY="586.6666666666666" Width="139.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
   </Label>
   <Label TextLabel="2-Oxoglutarate" GraphId="c0f">
     <Comment Source="GenMAPP remarks">2-Oxoglutarate</Comment>
     <Graphics CenterX="373.3333333333333" CenterY="1116.6666666666667" Width="90.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Acetyl-CoA" GraphId="c39">
-    <Comment Source="GenMAPP remarks">Acetyl-CoA</Comment>
-    <Graphics CenterX="536.6666666666666" CenterY="476.6666666666667" Width="67.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
   </Label>
   <Label TextLabel="Nicotinate and nicotinamide metabolism" GraphId="c67">
     <Graphics CenterX="1146.6666666666667" CenterY="430.0" Width="232.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" Color="0000ff" />
@@ -1057,10 +1080,6 @@
   <Label TextLabel="L-Aspartyl-" GraphId="cf3">
     <Comment Source="GenMAPP remarks">L-Aspartyl-tRNA(Asn)</Comment>
     <Graphics CenterX="1083.3333333333333" CenterY="1160.0" Width="67.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Malate" GraphId="d06">
-    <Comment Source="GenMAPP remarks">(S)-Malate</Comment>
-    <Graphics CenterX="120.0" CenterY="960.0" Width="43.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
   </Label>
   <Label TextLabel="Glycolysis / Gluconeogenesis" GraphId="d18">
     <Graphics CenterX="540.0" CenterY="163.33333333333334" Width="169.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" Color="0000ff" />
@@ -1096,26 +1115,15 @@
   <Label TextLabel="Gly, Ser and Thr metabolism" GraphId="e9e">
     <Graphics CenterX="1110.0" CenterY="483.3333333333333" Width="164.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" Color="0000ff" />
   </Label>
-  <Label TextLabel="L-Asparagine" GraphId="eab">
-    <Comment Source="GenMAPP remarks">L-Asparagine</Comment>
-    <Graphics CenterX="950.0" CenterY="1050.0" Width="81.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
-  </Label>
   <Label TextLabel="Citrate cycle (TCA cycle)" GraphId="ead">
     <Graphics CenterX="210.0" CenterY="1060.0" Width="173.33333333333334" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="11" Valign="Middle" Color="0000ff" />
   </Label>
   <Label TextLabel="Adenylosuccinate" GraphId="ebb">
     <Graphics CenterX="1210.0" CenterY="746.6666666666666" Width="106.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
   </Label>
-  <Label TextLabel="O-Acetylcarnitine" GraphId="ed0">
-    <Graphics CenterX="503.3333333333333" CenterY="383.3333333333333" Width="103.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
-  </Label>
   <Label TextLabel="Protein" GraphId="ed4">
     <Comment Source="GenMAPP remarks">Protein</Comment>
     <Graphics CenterX="1213.3333333333333" CenterY="190.0" Width="46.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Carnosine" GraphId="ee9">
-    <Comment Source="GenMAPP remarks">Carnosine</Comment>
-    <Graphics CenterX="883.3333333333334" CenterY="476.6666666666667" Width="63.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" />
   </Label>
   <Label TextLabel="L-Aspartate" GraphId="f24">
     <Comment Source="GenMAPP remarks">L-Aspartate</Comment>
