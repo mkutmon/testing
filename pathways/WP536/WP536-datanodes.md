@@ -152,3 +152,9 @@
 |GNAI3 | GeneProduct | 2773 | Entrez Gene |
 |GNAO1 | GeneProduct | 2775 | Entrez Gene |
 |GNAZ | GeneProduct | 2781 | Entrez Gene |
+|ATP | Unknown | 1927-31-7 | CAS |
+|Acetylcholine | Unknown | 51-84-3 | CAS |
+|ATP | Unknown | 1927-31-7 | CAS |
+|ADP | Unknown | 58-64-0 | CAS |
+|ATP | Unknown | 1927-31-7 | CAS |
+|ATP | Unknown | 1927-31-7 | CAS |
