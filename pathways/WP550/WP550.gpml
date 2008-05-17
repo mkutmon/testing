@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r7920" Author="AlexanderPico | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r13040" Author="AlexanderPico | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="680.0" BoardHeight="656.7" />
   <DataNode TextLabel="GAD2" GraphId="a07" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
@@ -11,10 +11,22 @@
     <Graphics CenterX="166.66666666666666" CenterY="293.3666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1644" />
   </DataNode>
+  <DataNode TextLabel="Choline" GraphId="a7b">
+    <Graphics CenterX="63.333333333333336" CenterY="250.03333333333333" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="62-49-7" />
+  </DataNode>
+  <DataNode TextLabel="5-hydroxy-tryptophan" GraphId="b36">
+    <Graphics CenterX="413.3333333333333" CenterY="250.03333333333333" Width="171.33333333333334" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="4350-09-8" />
+  </DataNode>
   <DataNode TextLabel="TPH1" GraphId="b44" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TPH1 | tryptophan hydroxylase 1 (tryptophan 5-m..." />
     <Graphics CenterX="413.3333333333333" CenterY="193.36666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7166" />
+  </DataNode>
+  <DataNode TextLabel="Acetylserotonin" GraphId="b72">
+    <Graphics CenterX="413.3333333333333" CenterY="423.3666666666667" Width="125.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="1210-83-9" />
   </DataNode>
   <DataNode TextLabel="HDC" GraphId="beb" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HDC | histidine decarboxylase" />
@@ -36,15 +48,31 @@
     <Graphics CenterX="573.3333333333334" CenterY="196.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7054" />
   </DataNode>
+  <DataNode TextLabel="L-DOPA" GraphId="c6b">
+    <Graphics CenterX="576.6666666666666" CenterY="250.03333333333333" Width="66.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="59-92-7" />
+  </DataNode>
+  <DataNode TextLabel="Histidine" GraphId="c6d">
+    <Graphics CenterX="166.66666666666666" CenterY="250.03333333333333" Width="72.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="71-001" />
+  </DataNode>
   <DataNode TextLabel="PNMT" GraphId="ce1" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PNMT | phenylethanolamine N-methyltransferase" />
     <Graphics CenterX="573.3333333333334" CenterY="466.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5409" />
   </DataNode>
+  <DataNode TextLabel="Dopamine" GraphId="d52">
+    <Graphics CenterX="576.6666666666666" CenterY="333.3666666666667" Width="83.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="62-31-7" />
+  </DataNode>
   <DataNode TextLabel="ACHE" GraphId="d77" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACHE | acetylcholinesterase (YT blood group)" />
     <Graphics CenterX="63.333333333333336" CenterY="376.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="43" />
+  </DataNode>
+  <DataNode TextLabel="Acetylcholine" GraphId="d7b">
+    <Graphics CenterX="63.333333333333336" CenterY="333.3666666666667" Width="108.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="51-84-3" />
   </DataNode>
   <DataNode TextLabel="COMT" GraphId="d8e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="COMT | catechol-O-methyltransferase" />
@@ -56,30 +84,58 @@
     <Graphics CenterX="573.3333333333334" CenterY="103.36666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5053" />
   </DataNode>
+  <DataNode TextLabel="Tyrosine" GraphId="db9">
+    <Graphics CenterX="576.6666666666666" CenterY="156.7" Width="72.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="60-18-4" />
+  </DataNode>
   <DataNode TextLabel="CHAT" GraphId="dbf" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHAT | choline acetyltransferase" />
     <Graphics CenterX="63.333333333333336" CenterY="283.3666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1103" />
+  </DataNode>
+  <DataNode TextLabel="Serotonin" GraphId="dc9">
+    <Graphics CenterX="413.3333333333333" CenterY="333.3666666666667" Width="80.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="50-67-9" />
   </DataNode>
   <DataNode TextLabel="AANAT" GraphId="dd5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AANAT | arylalkylamine N-acetyltransferase" />
     <Graphics CenterX="413.3333333333333" CenterY="370.03333333333336" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="15" />
   </DataNode>
+  <DataNode TextLabel="Phenylalanine" GraphId="ddb">
+    <Graphics CenterX="576.6666666666666" CenterY="60.03333333333333" Width="113.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="63-91-2" />
+  </DataNode>
   <DataNode TextLabel="GAD1" GraphId="e25" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD1 | glutamate decarboxylase 1 (brain 67kDa)..." />
     <Graphics CenterX="263.3333333333333" CenterY="273.3666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2571" />
+  </DataNode>
+  <DataNode TextLabel="Glutamate" GraphId="e8f">
+    <Graphics CenterX="266.6666666666667" CenterY="250.03333333333333" Width="82.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="56-86-0" />
   </DataNode>
   <DataNode TextLabel="MAOA" GraphId="e9e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MAOA | monoamine oxidase A" />
     <Graphics CenterX="413.3333333333333" CenterY="586.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4128" />
   </DataNode>
+  <DataNode TextLabel="Tryptophan" GraphId="f3d">
+    <Graphics CenterX="416.6666666666667" CenterY="156.7" Width="94.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="73-22-3" />
+  </DataNode>
   <DataNode TextLabel="ASMT" GraphId="f4d" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASMT | acetylserotonin O-methyltransferase" />
     <Graphics CenterX="413.3333333333333" CenterY="466.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="438" />
+  </DataNode>
+  <DataNode TextLabel="Norepinephrine" GraphId="f5c">
+    <Graphics CenterX="573.3333333333334" CenterY="423.3666666666667" Width="124.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="51-41-2" />
+  </DataNode>
+  <DataNode TextLabel="Histamine" GraphId="f6f">
+    <Graphics CenterX="166.66666666666666" CenterY="333.3666666666667" Width="81.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="CAS" ID="51-45-6" />
   </DataNode>
   <DataNode TextLabel="MAOA" GraphId="fc6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MAOA | monoamine oxidase A" />
@@ -258,56 +314,14 @@
   <Label TextLabel="follow solid arrows through enzymatic steps," GraphId="a77">
     <Graphics CenterX="156.66666666666666" CenterY="180.0" Width="287.3333333333333" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
   </Label>
-  <Label TextLabel="Choline" GraphId="a7b">
-    <Graphics CenterX="63.333333333333336" CenterY="250.03333333333333" Width="64.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="5-hydroxy-tryptophan" GraphId="b36">
-    <Graphics CenterX="413.3333333333333" CenterY="250.03333333333333" Width="171.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
   <Label TextLabel="while degradation steps follow dashed arrows." GraphId="b4c">
     <Graphics CenterX="163.33333333333334" CenterY="196.66666666666666" Width="301.3333333333333" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Acetylserotonin" GraphId="b72">
-    <Graphics CenterX="413.3333333333333" CenterY="423.3666666666667" Width="125.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="L-DOPA" GraphId="c6b">
-    <Graphics CenterX="576.6666666666666" CenterY="250.03333333333333" Width="66.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Histidine" GraphId="c6d">
-    <Graphics CenterX="166.66666666666666" CenterY="250.03333333333333" Width="72.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Dopamine" GraphId="d52">
-    <Graphics CenterX="576.6666666666666" CenterY="333.3666666666667" Width="83.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="000080" />
-  </Label>
-  <Label TextLabel="Acetylcholine" GraphId="d7b">
-    <Graphics CenterX="63.333333333333336" CenterY="333.3666666666667" Width="108.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="000080" />
-  </Label>
-  <Label TextLabel="Tyrosine" GraphId="db9">
-    <Graphics CenterX="576.6666666666666" CenterY="156.7" Width="72.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Serotonin" GraphId="dc9">
-    <Graphics CenterX="413.3333333333333" CenterY="333.3666666666667" Width="80.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="000080" />
-  </Label>
-  <Label TextLabel="Phenylalanine" GraphId="ddb">
-    <Graphics CenterX="576.6666666666666" CenterY="60.03333333333333" Width="113.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Melatonin" GraphId="e55">
     <Graphics CenterX="413.3333333333333" CenterY="520.0333333333333" Width="79.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="000080" />
   </Label>
-  <Label TextLabel="Glutamate" GraphId="e8f">
-    <Graphics CenterX="266.6666666666667" CenterY="250.03333333333333" Width="82.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
   <Label TextLabel="Synthesis pathways for biogenic amines (in blue)" GraphId="ef9">
     <Graphics CenterX="170.0" CenterY="163.33333333333334" Width="315.3333333333333" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Tryptophan" GraphId="f3d">
-    <Graphics CenterX="416.6666666666667" CenterY="156.7" Width="94.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Norepinephrine" GraphId="f5c">
-    <Graphics CenterX="573.3333333333334" CenterY="423.3666666666667" Width="124.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="000080" />
-  </Label>
-  <Label TextLabel="Histamine" GraphId="f6f">
-    <Graphics CenterX="166.66666666666666" CenterY="333.3666666666667" Width="81.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="000080" />
   </Label>
   <Label TextLabel="Epinephrine" GraphId="ff4">
     <Graphics CenterX="573.3333333333334" CenterY="520.0333333333333" Width="98.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" Color="000080" />
