@@ -34,3 +34,4 @@
 |Acetylcholine | Unknown | 51-84-3 | CAS |
 |Epinephrine | Metabolite | HMDB00068 | HMDB |
 |Melatonin | Metabolite | HMDB01389 | HMDB |
+|GABA | Metabolite | HMDB00112 | HMDB |
