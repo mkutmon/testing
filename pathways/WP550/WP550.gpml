@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r14395" Author="AlexanderPico | MaintBot | Khanspers" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r14397" Author="AlexanderPico | MaintBot | Khanspers" Organism="Homo sapiens">
   <Graphics BoardWidth="668.3333333333335" BoardHeight="678.0" />
   <DataNode TextLabel="GAD2" GraphId="a07" Type="GeneProduct" GroupRef="e4dfc">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
@@ -420,18 +420,9 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Label TextLabel="follow solid arrows through enzymatic steps," GraphId="a77">
-    <Graphics CenterX="156.66666666666666" CenterY="180.0" Width="287.3333333333333" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
+  <Label TextLabel="&#xA;Synthesis pathways for biogenic amines&#xA;follow solid arrows through enzymatic steps,&#xA;while degradation steps follow dashed arrows.&#xA;" GraphId="ef9">
+    <Graphics CenterX="162.16666666666666" CenterY="159.0" Width="293.6666666666667" Height="60.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" ShapeType="Rectangle" />
   </Label>
-  <Label TextLabel="while degradation steps follow dashed arrows." GraphId="b4c">
-    <Graphics CenterX="163.33333333333334" CenterY="196.66666666666666" Width="301.3333333333333" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Synthesis pathways for biogenic amines (in blue)" GraphId="ef9">
-    <Graphics CenterX="170.0" CenterY="163.33333333333334" Width="315.3333333333333" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
-  </Label>
-  <Shape GraphId="a03">
-    <Graphics CenterX="170.0" CenterY="180.0" Width="320.0" Height="60.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
-  </Shape>
   <Group GroupId="da2ca" GraphId="b3433" TextLabel="new group" />
   <Group GroupId="d082a" GraphId="d0ba6" TextLabel="new group" />
   <Group GroupId="e4dfc" GraphId="e3e52" TextLabel="new group" />
