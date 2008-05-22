@@ -32,3 +32,5 @@
 |Glutamate | Unknown | 56-86-0 | CAS |
 |Choline | Unknown | 62-49-7 | CAS |
 |Acetylcholine | Unknown | 51-84-3 | CAS |
+|Epinephrine | Metabolite | HMDB00068 | HMDB |
+|Melatonin | Metabolite | HMDB01389 | HMDB |
