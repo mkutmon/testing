@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r14400" Author="A.Kwa | MaintBot | Khanspers" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r14402" Author="A.Kwa | MaintBot | Khanspers" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Graphics BoardWidth="925.1666666666667" BoardHeight="621.8333333333334" />
   <DataNode TextLabel="F10" GraphId="a0e" Type="GeneProduct" GroupRef="fd46e">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F10 | coagulation factor X" />
@@ -40,7 +40,7 @@
     <Graphics CenterX="180.0" CenterY="173.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2158" />
   </DataNode>
-  <DataNode TextLabel="F8A1" GraphId="c42" Type="GeneProduct">
+  <DataNode TextLabel="F8A1" GraphId="c42" Type="GeneProduct" GroupRef="f4f2f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F8A1 | coagulation factor VIII-associated (intr..." />
     <Graphics CenterX="516.6666666666666" CenterY="90.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8263" />
@@ -99,7 +99,7 @@
     <Graphics CenterX="299.0" CenterY="459.6666666666667" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5054" />
   </DataNode>
-  <DataNode TextLabel="F8" GraphId="fc4" Type="GeneProduct">
+  <DataNode TextLabel="F8" GraphId="fc4" Type="GeneProduct" GroupRef="f4f2f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F8 | coagulation factor VIII procoagulant comp..." />
     <Graphics CenterX="516.6666666666666" CenterY="70.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2157" />
@@ -155,6 +155,13 @@
       <Point X="210.0" Y="173.33333333333334" GraphRef="c3c" RelX="1.0" RelY="0.0" />
       <Point X="315.5" Y="173.33333333333334" GraphRef="ca8" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.5402843601895735" Shape="None" GraphId="c8106" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id3d87766e">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="523.900644909142" Y="114.68821181458998" GraphRef="fd90f" RelX="0.0" RelY="1.0" />
+      <Point X="486.0833333333333" Y="163.83333333333334" GraphRef="d8b" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -228,13 +235,6 @@
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="92.33333333333334" Y="72.33333333333333" GraphRef="a29" RelX="1.0" RelY="0.0" />
       <Point X="142.5" Y="72.33333333333333" GraphRef="cd4" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id9e9954e">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="513.3333333333334" Y="106.66666666666667" />
-      <Point X="483.19895448954486" Y="156.66666666666669" GraphRef="d8b" RelX="-0.07380073800738007" RelY="-1.7543859649122806" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -410,8 +410,8 @@
   <Label TextLabel="Factor Va" GraphId="fbe">
     <Graphics CenterX="616.6666666666666" CenterY="223.33333333333334" Width="78.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Shape GraphId="c1b">
-    <Graphics CenterX="613.3333333333334" CenterY="80.0" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Brace" Rotation="4.71238898038469" />
+  <Shape GraphId="c1b" GroupRef="f4f2f">
+    <Graphics CenterX="563.3333333333334" CenterY="80.0" Width="53.333333333333336" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Brace" Rotation="1.5758467889039693" />
   </Shape>
   <Shape GraphId="fa1" GroupRef="cc726">
     <Graphics CenterX="562.6666666666666" CenterY="398.6666666666667" Width="73.33333333333333" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Brace" Rotation="1.5648792360888693" />
@@ -419,6 +419,7 @@
   <Group GroupId="d6cba" GraphId="d27b6" TextLabel="new group" />
   <Group GroupId="fd46e" GraphId="e677e" TextLabel="new group" />
   <Group GroupId="cc726" GraphId="fa7f8" TextLabel="new group" />
+  <Group GroupId="f4f2f" GraphId="fd90f" TextLabel="new group" />
   <InfoBox CenterX="2.066666666666667" CenterY="550.6666666666666" />
   <Legend CenterX="1.7666666666666666" CenterY="421.2" />
 </Pathway>
