@@ -23,3 +23,4 @@
 |F8A1 | GeneProduct | 8263 | Entrez Gene |
 |Prothrombinase Complex | GeneProduct |  | SwissProt |
 |Fibrin | Unknown | 9001-31-4 | CAS |
+|Metabolite | Metabolite |  |  |
