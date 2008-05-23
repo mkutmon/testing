@@ -49,4 +49,3 @@
 |Malate | Unknown | 617-48-1 | CAS |
 |b-Alanine | Unknown | 6912-68-1 | CAS |
 |L-Alanine | Unknown | 6912-68-1 | CAS |
-|Metabolite | Metabolite |  |  |
