@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r14397" Author="AlexanderPico | MaintBot | Khanspers" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r15389" Author="AlexanderPico | MaintBot | Khanspers" Organism="Homo sapiens">
   <Graphics BoardWidth="668.3333333333335" BoardHeight="678.0" />
   <DataNode TextLabel="GAD2" GraphId="a07" Type="GeneProduct" GroupRef="e4dfc">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
@@ -234,13 +234,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id365d4ba6">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="414.3333333333333" Y="576.7" GraphRef="e9e" RelX="0.0" RelY="-1.0" />
-      <Point X="413.3333333333333" Y="585.7" GraphRef="e68a3" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id377b796d">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="417.3333333333333" Y="184.36666666666667" GraphRef="b44" RelX="0.0" RelY="-1.0" />
@@ -253,13 +246,6 @@
       <Point X="166.66666666666666" Y="244.53333333333333" GraphRef="c6d" RelX="0.0" RelY="1.0" />
       <Point X="166.66666666666666" Y="336.8666666666667" GraphRef="f6f" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="c53c0" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id5b88c675">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="588.3333333333334" Y="563.7" GraphRef="d0ba6" RelX="0.0" RelY="-1.0" />
-      <Point X="590.0" Y="608.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -308,15 +294,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id803b1f19">
-    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="413.3333333333333" Y="557.7" />
-      <Point X="413.3333333333333" Y="627.7" ArrowHead="Arrow" />
-      <Anchor Position="0.018571428571428572" Shape="None" GraphId="dc756" />
-      <Anchor Position="0.4" Shape="None" GraphId="e68a3" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id85849389">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
       <Point X="618.3333333333335" Y="333.3666666666667" GraphRef="d52" RelX="1.0" RelY="0.0" />
@@ -328,12 +305,12 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id99c5f757">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="378.16666666666663" Y="333.3666666666667" GraphRef="dc9" RelX="-1.0" RelY="0.0" />
-      <Point X="338.0" Y="443.18333333333334" />
-      <Point X="375.6666666666667" Y="553.0" />
-      <Point X="413.3333333333333" Y="559.0" GraphRef="dc756" RelX="0.0" RelY="0.0" />
+  <Interaction GraphId="id9523e75a">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
+      <Point X="413.3333333333333" Y="557.7" />
+      <Point X="414.3333333333333" Y="627.7" ArrowHead="Arrow" />
+      <Anchor Position="0.018571428571428572" Shape="None" GraphId="dc756" />
+      <Anchor Position="0.4" Shape="None" GraphId="e68a3" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -364,6 +341,27 @@
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="418.3333333333333" Y="272.7" GraphRef="c29" RelX="0.0" RelY="-1.0" />
       <Point X="417.4333333333333" Y="285.26666666666665" GraphRef="cc4bf" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd25ddc0d">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="588.3333333333334" Y="563.7" GraphRef="d0ba6" RelX="0.0" RelY="-1.0" />
+      <Point X="587.8" Y="592.8" GraphRef="baab6" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="iddb9cddaa">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="414.3333333333333" Y="576.7" GraphRef="e9e" RelX="0.0" RelY="-1.0" />
+      <Point X="413.7333333333333" Y="585.7" GraphRef="e68a3" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ide24b838b">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
+      <Point X="378.16666666666663" Y="333.3666666666667" GraphRef="dc9" RelX="-1.0" RelY="0.0" />
+      <Point X="413.35190476190473" Y="559.0" GraphRef="dc756" RelX="0.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
