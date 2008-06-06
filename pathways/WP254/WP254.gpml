@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis Mechanisms" Data-Source="WikiPathways" Version="WP254_r14128" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis Mechanisms" Data-Source="WikiPathways" Version="WP254_r15853" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description"></Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="IRF4" GraphId="a02" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF4 | interferon regulatory factor 4" />
@@ -844,6 +845,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="idb67105e">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="391.33333333333326" Y="190.0" GraphRef="dc2d0" RelX="0.0" RelY="-1.0" />
+      <Point X="393.1954333333333" Y="177.51666666666665" GraphRef="cac70" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idbad62299">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="426.6666666666667" Y="676.6666666666666" GraphRef="a21" RelX="-1.0" RelY="0.0" />
@@ -855,13 +863,6 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="546.0" Y="332.0" GraphRef="a93" RelX="0.0" RelY="1.0" />
       <Point X="560.0" Y="403.33333333333337" GraphRef="ce7" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="idbbdd8175">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="391.33333333333326" Y="190.0" GraphRef="dc2d0" RelX="0.0" RelY="-1.0" />
-      <Point X="393.1954333333333" Y="177.51666666666665" GraphRef="cac70" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1016,16 +1017,14 @@
   <Shape GraphId="d22">
     <Graphics CenterX="1020.0" CenterY="540.0" Width="466.75693333333334" Height="113.2878" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
-  <Group GroupId="ebfe0" TextLabel="new group" GroupRef="b6d5d" />
-  <Group GroupId="c537f" TextLabel="new group" />
-  <Group GroupId="b6d5d" TextLabel="new group" />
-  <Group GroupId="d7a6b" TextLabel="new group" />
   <Group GroupId="f06d3" GraphId="a995e" TextLabel="new group" />
+  <Group GroupId="d7a6b" GraphId="afd71" TextLabel="new group" />
   <Group GroupId="d59c4" GraphId="b4533" TextLabel="new group" GroupRef="e97a7" />
   <Group GroupId="ffcf1" GraphId="b4dc4" TextLabel="new group" />
   <Group GroupId="dfd25" GraphId="bfaa1" TextLabel="new group" GroupRef="e97a7" />
   <Group GroupId="defd7" GraphId="c5179" TextLabel="new group" />
   <Group GroupId="ff56d" GraphId="ce6a7" TextLabel="new group" />
+  <Group GroupId="b6d5d" GraphId="d5663" TextLabel="new group" />
   <Group GroupId="a85e8" GraphId="dc2d0" TextLabel="new group" />
   <Group GroupId="a904c" GraphId="dce7b" TextLabel="new group" />
   <Group GroupId="e97a7" GraphId="e0f51" TextLabel="new group" />
@@ -1034,6 +1033,8 @@
   <Group GroupId="dbe72" GraphId="f02c5" TextLabel="new group" />
   <Group GroupId="c2232" GraphId="f3348" TextLabel="new group" />
   <Group GroupId="c5ac6" GraphId="f33ed" TextLabel="new group" />
+  <Group GroupId="ebfe0" GraphId="f6030" TextLabel="new group" GroupRef="b6d5d" />
+  <Group GroupId="c537f" GraphId="f97a6" TextLabel="new group" />
   <Group GroupId="e38bb" GraphId="fa658" TextLabel="new group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="1162.2" CenterY="8.847126666666666" />
