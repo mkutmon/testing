@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r15387" Author="A.Kwa | MaintBot | Khanspers" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r16330" Author="A.Kwa | MaintBot | Khanspers | Hubert" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description"></Comment>
   <Graphics BoardWidth="838.0" BoardHeight="622.8666666666667" />
   <DataNode TextLabel="PCYT1A" GraphId="a69" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PCYT1A | phosphate cytidylyltransferase 1 chol..." />
