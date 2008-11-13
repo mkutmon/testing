@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis Mechanisms" Data-Source="WikiPathways" Version="WP254_r21213" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r22525" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description"></Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="IRF4" GraphId="a02" Type="GeneProduct" GroupRef="c537f">
@@ -845,13 +845,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="idb67105e">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="391.33333333333326" Y="190.0" GraphRef="dc2d0" RelX="0.0" RelY="-1.0" />
-      <Point X="393.1954333333333" Y="177.51666666666665" GraphRef="cac70" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="idbad62299">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="426.6666666666667" Y="676.6666666666666" GraphRef="a21" RelX="-1.0" RelY="0.0" />
@@ -919,6 +912,13 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
       <Point X="457.3333333333333" Y="122.0" GraphRef="ecf" RelX="0.5" RelY="1.0" />
       <Point X="488.33333333333326" Y="144.66666666666666" GraphRef="ef1a2" RelX="-0.5" RelY="-1.0" ArrowHead="TBar" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd81a7d98">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="391.33333333333326" Y="190.0" GraphRef="dc2d0" RelX="0.0" RelY="-1.0" />
+      <Point X="393.1954333333333" Y="177.51666666666665" GraphRef="cac70" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
