@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Androgen Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP138_r7902" Author="A.Pandey | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Androgen Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP138_r20973" Author="A.Pandey | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="1850.0000000000002" BoardHeight="1495.711" />
   <DataNode TextLabel="CDC2" GraphId="a01" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDC2" />
