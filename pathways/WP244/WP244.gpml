@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alpha6-Beta4 Integrin Signaling Pathway" Data-Source="WikiPathways" Version="WP244_r7896" Author="A.Pandey | 212.48.140.65 | MaintBot" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alpha6-Beta4 Integrin Signaling Pathway" Data-Source="WikiPathways" Version="WP244_r21193" Author="A.Pandey | 212.48.140.65 | MaintBot" Organism="Homo sapiens">
   <Graphics BoardWidth="1863.3333333333333" BoardHeight="1333.3333333333335" />
   <DataNode TextLabel="SMAD3" GraphId="a08" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="SMAD3" />
