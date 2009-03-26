@@ -15,3 +15,6 @@
 |Phosphorylcholine | Unknown | 645-84-1 | CAS |
 |Acetylcholine | Unknown | 51-84-3 | CAS |
 |Phosphatidylethanolamine | Metabolite | HMDB01222 | HMDB |
+|Pyruvate from Glycolysis | Metabolite | HMDB00243 | HMDB |
+|Phosphatidylcholine | Metabolite | HMDB00564 | HMDB |
+|Cytidine diphosphate choline | Metabolite | HMDB01413 | HMDB |
