@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r29046" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r29048" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description"></Comment>
   <Graphics BoardWidth="823.0" BoardHeight="622.8666666666667" />
   <DataNode TextLabel="PCYT1A" GraphId="a69" Type="GeneProduct">
@@ -32,7 +32,7 @@
   </DataNode>
   <DataNode TextLabel="Phosphorylcholine" GraphId="ca8">
     <Graphics CenterX="717.75" CenterY="329.3666666666667" Width="102.5" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="645-84-1" />
+    <Xref Database="HMDB" ID="HMDB01565" />
   </DataNode>
   <DataNode TextLabel="Acetylcholine" GraphId="cc9">
     <Graphics CenterX="252.91666666666666" CenterY="449.03333333333336" Width="74.16666666666667" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
