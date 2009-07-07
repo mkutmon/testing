@@ -10,7 +10,7 @@
 |AGTR1 | GeneProduct | 185 | Entrez Gene |
 |BDKRB2 | GeneProduct | 624 | Entrez Gene |
 |ACE Inhibitor | Metabolite |  |  |
-|Angiotensin II | Metabolite | 65143 | PubChem |
+|Angiotensin II | Metabolite | HMDB01035 | HMDB |
 |Angiotensin I | Metabolite | 3081372 | PubChem |
 |Bradykinin | Metabolite | HMDB04246 | HMDB |
 |Aldosterone | Metabolite | C01780 | Kegg Compound |
