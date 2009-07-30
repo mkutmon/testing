@@ -23,3 +23,6 @@
 |F8A1 | GeneProduct | 8263 | Entrez Gene |
 |Prothrombinase Complex | GeneProduct |  | SwissProt |
 |Fibrin | Unknown | 9001-31-4 | CAS |
+|Zinc | Metabolite | HMDB01303 | HMDB |
+|KLKB1 | GeneProduct | 3818 | Entrez Gene |
+|KLK1 | GeneProduct | 3816 | Entrez Gene |
