@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r31692" Author="L.M.Ferrante | MaintBot | Khanspers" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r32205" Author="L.M.Ferrante | MaintBot | Khanspers" Organism="Homo sapiens">
   <Graphics BoardWidth="1311.4999999999998" BoardHeight="1216.6666666666667" />
   <DataNode TextLabel="3.5.1.3" GraphId="a3a" Type="GeneProduct">
     <Graphics CenterX="371.3333333333333" CenterY="1006.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -1007,7 +1007,7 @@
     <Comment Source="GenMAPP remarks">Succinate</Comment>
     <Graphics CenterX="113.33333333333333" CenterY="1116.6666666666667" Width="62.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Label TextLabel="L-Aspartyl-&amp;#xA;tRNA (Asn)&amp;#xA;" GraphId="cf3">
+  <Label TextLabel="L-Aspartyl-&#xA;tRNA (Asn)&#xA;" GraphId="cf3">
     <Comment Source="GenMAPP remarks">L-Aspartyl-tRNA(Asn)</Comment>
     <Graphics CenterX="1075.5" CenterY="1159.25" Width="77.0" Height="31.5" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
@@ -1024,7 +1024,7 @@
     <Comment Source="GenMAPP remarks">Pyruvate</Comment>
     <Graphics CenterX="536.6666666666666" CenterY="230.0" Width="55.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Label TextLabel="Reductive carboxylate&amp;#xA;cycle (CO2 fixation)&amp;#xA;" GraphId="e01">
+  <Label TextLabel="Reductive carboxylate&#xA;cycle (CO2 fixation)&#xA;" GraphId="e01">
     <Graphics CenterX="225.33333333333334" CenterY="1018.4166666666666" Width="115.33333333333333" Height="25.166666666666668" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" Color="0000ff" />
   </Label>
   <Label TextLabel="L-Alanyl-tRNA" GraphId="e08">
