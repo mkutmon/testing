@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r31111" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r32022" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Graphics BoardWidth="935.1666666666667" BoardHeight="728.9999999999999" />
   <DataNode TextLabel="F10" GraphId="a0e" Type="GeneProduct" GroupRef="fd46e">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F10 | coagulation factor X" />
@@ -199,6 +199,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="bac31">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="103.33333396911621" Y="181.0" GraphRef="f2b4c" RelX="1.0" RelY="0.0" />
+      <Point X="152.5" Y="173.33333333333334" GraphRef="cd4" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="bc161">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="521.0" Y="642.0" GraphRef="b6a" RelX="1.0" RelY="0.0" />
@@ -367,13 +374,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="idc6286cc9">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="103.33333396911621" Y="181.0" GraphRef="f2b4c" RelX="1.0" RelY="0.0" />
-      <Point X="152.5" Y="173.33333333333334" GraphRef="cd4" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Label TextLabel="Fibrin Polymer" GraphId="a3f">
     <Graphics CenterX="790.0" CenterY="553.3333333333334" Width="116.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
@@ -443,11 +443,11 @@
   <Shape GraphId="fa1" GroupRef="cc726">
     <Graphics CenterX="582.6666666666666" CenterY="598.6666666666666" Width="73.33333333333333" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Brace" Rotation="1.5648792360888693" />
   </Shape>
-  <Group GroupId="d6cba" GraphId="d27b6" TextLabel="new group" />
-  <Group GroupId="fd46e" GraphId="e677e" TextLabel="new group" />
-  <Group GroupId="ab77b" GraphId="f2b4c" Style="Group" TextLabel="Group object" />
-  <Group GroupId="cc726" GraphId="fa7f8" TextLabel="new group" />
-  <Group GroupId="f4f2f" GraphId="fd90f" TextLabel="new group" />
+  <Group GroupId="d6cba" GraphId="d27b6" />
+  <Group GroupId="fd46e" GraphId="e677e" />
+  <Group GroupId="ab77b" GraphId="f2b4c" Style="Group" />
+  <Group GroupId="cc726" GraphId="fa7f8" />
+  <Group GroupId="f4f2f" GraphId="fd90f" />
   <InfoBox CenterX="2.066666666666667" CenterY="550.6666666666666" />
   <Legend CenterX="1.7666666666666666" CenterY="421.2" />
 </Pathway>
