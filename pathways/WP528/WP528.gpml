@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r29049" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r32140" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Acetylcholine is an important neurotransmitter. It can be rapidly released in the synaptic cleft upon activation of the neuron. In the synaptic cleft the compound is degraded rapidly into choline and acetate, this is essential for proper neuronal functioning. Choline and Acetate are taken up into the cytosol and recycled for the next activation.</Comment>
   <Graphics BoardWidth="823.0" BoardHeight="622.8666666666667" />
   <DataNode TextLabel="PCYT1A" GraphId="a69" Type="GeneProduct">
@@ -268,7 +268,7 @@
   <Label TextLabel="*Cytosol*" GraphId="ab5">
     <Graphics CenterX="470.0" CenterY="473.3666666666667" Width="76.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Group GroupId="dc39d" GraphId="d74e5" TextLabel="new group" />
+  <Group GroupId="dc39d" GraphId="d74e5" />
   <InfoBox CenterX="8.333333333333334" CenterY="11.666666666666666" />
   <Legend CenterX="702.7" CenterY="474.6" />
 </Pathway>
