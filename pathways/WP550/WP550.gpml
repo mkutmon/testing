@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r32146" Author="AlexanderPico | MaintBot | Khanspers" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r32463" Author="AlexanderPico | MaintBot | Khanspers" Organism="Homo sapiens">
   <Graphics BoardWidth="668.3333333333335" BoardHeight="678.0" />
   <DataNode TextLabel="GAD2" GraphId="a07" Type="GeneProduct" GroupRef="e4dfc">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
@@ -418,7 +418,7 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Label TextLabel="&amp;#xA;Synthesis pathways for biogenic amines&amp;#xA;follow solid arrows through enzymatic steps,&amp;#xA;while degradation steps follow dashed arrows.&amp;#xA;" GraphId="ef9">
+  <Label TextLabel="&#xA;Synthesis pathways for biogenic amines&#xA;follow solid arrows through enzymatic steps,&#xA;while degradation steps follow dashed arrows.&#xA;" GraphId="ef9">
     <Graphics CenterX="162.16666666666666" CenterY="159.0" Width="293.6666666666667" Height="60.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" ShapeType="Rectangle" />
   </Label>
   <Group GroupId="da2ca" GraphId="b3433" />
