@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r32140" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r33205" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Acetylcholine is an important neurotransmitter. It can be rapidly released in the synaptic cleft upon activation of the neuron. In the synaptic cleft the compound is degraded rapidly into choline and acetate, this is essential for proper neuronal functioning. Choline and Acetate are taken up into the cytosol and recycled for the next activation.</Comment>
   <Graphics BoardWidth="823.0" BoardHeight="622.8666666666667" />
   <DataNode TextLabel="PCYT1A" GraphId="a69" Type="GeneProduct">
@@ -35,7 +35,7 @@
     <Xref Database="HMDB" ID="HMDB01565" />
   </DataNode>
   <DataNode TextLabel="Acetylcholine" GraphId="cc9">
-    <Graphics CenterX="252.91666666666666" CenterY="449.03333333333336" Width="74.16666666666667" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="253.91666666666666" CenterY="450.03333333333336" Width="74.16666666666667" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="51-84-3" />
   </DataNode>
   <DataNode TextLabel="Choline" GraphId="d2e">
@@ -60,7 +60,7 @@
   </DataNode>
   <DataNode TextLabel="PEMT" GraphId="e2a" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PEMT | phosphatidylethanolamine N-methyltransfe..." />
-    <Graphics CenterX="469.6666666666667" CenterY="128.36666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="417.6666666666667" CenterY="126.36666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="10400" />
   </DataNode>
   <DataNode TextLabel="Acetate" GraphId="e42">
@@ -83,7 +83,7 @@
   </DataNode>
   <Interaction GraphId="a063b">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
-      <Point X="253.98447176688398" Y="555.5886030577007" GraphRef="bf069" RelX="0.0" RelY="0.0" />
+      <Point X="253.0131392741751" Y="556.5886030577007" GraphRef="bf069" RelX="0.0" RelY="0.0" />
       <Point X="254.0" Y="569.4776348621837" />
       <Point X="144.83333333333334" Y="583.3666666666667" GraphRef="e42" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
@@ -108,7 +108,7 @@
   <Interaction GraphId="a9da6">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="272.3333333333333" Y="515.0333333333333" GraphRef="afe" RelX="-1.0" RelY="0.0" />
-      <Point X="253.53906229449294" Y="515.1043082440652" GraphRef="f846e" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="253.39002421235213" Y="516.1043082440652" GraphRef="f846e" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -138,7 +138,7 @@
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
       <Point X="385.5" Y="328.03333333333336" GraphRef="f74" RelX="-1.0" RelY="0.0" />
       <Point X="254.0" Y="348.01666666666665" />
-      <Point X="252.99473484848485" Y="366.89869696969697" GraphRef="a482c" RelX="0.0" RelY="0.0" />
+      <Point X="253.05791666666667" Y="366.9618787878788" GraphRef="a482c" RelX="0.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -166,8 +166,8 @@
   </Interaction>
   <Interaction GraphId="c1f99">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="252.91666666666666" Y="458.53333333333336" GraphRef="cc9" RelX="0.0" RelY="1.0" />
-      <Point X="254.0" Y="557.0" />
+      <Point X="253.91666666666666" Y="459.53333333333336" GraphRef="cc9" RelX="0.0" RelY="1.0" />
+      <Point X="253.0" Y="558.0" />
       <Anchor Position="0.9856662463544418" Shape="None" GraphId="bf069" />
       <Anchor Position="0.5745190410703984" Shape="None" GraphId="f846e" />
     </Graphics>
@@ -191,7 +191,7 @@
   <Interaction GraphId="c8f4e">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="275.3333333333333" Y="393.3666666666667" GraphRef="f01" RelX="-1.0" RelY="0.0" />
-      <Point X="252.96666666666667" Y="393.0133333333333" GraphRef="d7914" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="253.36666666666667" Y="393.41333333333336" GraphRef="d7914" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -205,7 +205,7 @@
   <Interaction GraphId="d02d4">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="253.0" Y="362.0" />
-      <Point X="252.91666666666666" Y="439.53333333333336" GraphRef="cc9" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="253.91666666666666" Y="440.53333333333336" GraphRef="cc9" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.06318181818181819" Shape="None" GraphId="a482c" />
       <Anchor Position="0.4" Shape="None" GraphId="d7914" />
     </Graphics>
@@ -227,7 +227,7 @@
   </Interaction>
   <Interaction GraphId="d82f8">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="439.6666666666667" Y="128.36666666666667" GraphRef="e2a" RelX="-1.0" RelY="0.0" />
+      <Point X="387.6666666666667" Y="126.36666666666667" GraphRef="e2a" RelX="-1.0" RelY="0.0" />
       <Point X="417.2" Y="128.6" GraphRef="c7814" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -241,7 +241,7 @@
   </Interaction>
   <Interaction GraphId="e3599">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
-      <Point X="253.98447176688398" Y="555.5886030577007" GraphRef="bf069" RelX="0.0" RelY="0.0" />
+      <Point X="253.0131392741751" Y="556.5886030577007" GraphRef="bf069" RelX="0.0" RelY="0.0" />
       <Point X="254.0" Y="568.9776348621837" />
       <Point X="386.5" Y="582.3666666666667" GraphRef="d2e" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
@@ -258,7 +258,7 @@
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
       <Point X="159.33333333333331" Y="329.03333333333336" GraphRef="dfe" RelX="1.0" RelY="0.0" />
       <Point X="253.0" Y="348.51666666666665" />
-      <Point X="252.99473484848485" Y="366.89869696969697" GraphRef="a482c" RelX="0.0" RelY="0.0" />
+      <Point X="253.05791666666667" Y="366.9618787878788" GraphRef="a482c" RelX="0.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
