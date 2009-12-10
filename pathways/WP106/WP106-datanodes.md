@@ -41,11 +41,11 @@
 |ASPA | GeneProduct | 443 | Entrez Gene |
 |GAD1 | GeneProduct | 2571 | Entrez Gene |
 |GOT1 | GeneProduct | 2805 | Entrez Gene |
-|O-Acetylcarnitine | Unknown | 3040-38-8 | CAS |
-|Acetyl-CoA | Unknown | 72-89-9 | CAS |
-|Carnosine | Unknown | 305-84-0 | CAS |
-|D-Alanine | Unknown | 6912-68-1 | CAS |
-|L-Asparagine | Unknown | 70-47-3 | CAS |
-|Malate | Unknown | 617-48-1 | CAS |
-|b-Alanine | Unknown | 6912-68-1 | CAS |
-|L-Alanine | Unknown | 6912-68-1 | CAS |
+|O-Acetylcarnitine | Metabolite | 3040-38-8 | CAS |
+|Acetyl-CoA | Metabolite | 72-89-9 | CAS |
+|Carnosine | Metabolite | 305-84-0 | CAS |
+|D-Alanine | Metabolite | 6912-68-1 | CAS |
+|L-Asparagine | Metabolite | 70-47-3 | CAS |
+|Malate | Metabolite | 617-48-1 | CAS |
+|b-Alanine | Metabolite | 6912-68-1 | CAS |
+|L-Alanine | Metabolite | 6912-68-1 | CAS |

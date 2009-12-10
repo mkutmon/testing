@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r32205" Author="L.M.Ferrante | MaintBot | Khanspers" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r34472" Author="L.M.Ferrante | MaintBot | Khanspers" Organism="Homo sapiens">
   <Graphics BoardWidth="1311.4999999999998" BoardHeight="1216.6666666666667" />
   <DataNode TextLabel="3.5.1.3" GraphId="a3a" Type="GeneProduct">
     <Graphics CenterX="371.3333333333333" CenterY="1006.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -14,7 +14,7 @@
     <Graphics CenterX="817.0" CenterY="510.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="3.4.13.3" />
   </DataNode>
-  <DataNode TextLabel="L-Alanine" GraphId="ab0">
+  <DataNode TextLabel="L-Alanine" GraphId="ab0" Type="Metabolite">
     <Graphics CenterX="936.0" CenterY="235.66666666666666" Width="58.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="6912-68-1" />
   </DataNode>
@@ -50,7 +50,7 @@
     <Graphics CenterX="800.6666666666666" CenterY="953.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="443" />
   </DataNode>
-  <DataNode TextLabel="D-Alanine" GraphId="b23">
+  <DataNode TextLabel="D-Alanine" GraphId="b23" Type="Metabolite">
     <Comment Source="GenMAPP remarks">D-Alanine</Comment>
     <Graphics CenterX="1112.0" CenterY="236.66666666666666" Width="59.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="6912-68-1" />
@@ -63,7 +63,7 @@
     <Graphics CenterX="735.6666666666666" CenterY="161.66666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="2.6.1.12" />
   </DataNode>
-  <DataNode TextLabel="b-Alanine" GraphId="b94">
+  <DataNode TextLabel="b-Alanine" GraphId="b94" Type="Metabolite">
     <Comment Source="GenMAPP remarks">beta-alanine</Comment>
     <Graphics CenterX="717.0833333333334" CenterY="477.5833333333333" Width="58.166666666666664" Height="16.833333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="6912-68-1" />
@@ -86,7 +86,7 @@
     <Graphics CenterX="595.6666666666666" CenterY="587.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="1.2.1.18" />
   </DataNode>
-  <DataNode TextLabel="Acetyl-CoA" GraphId="c39">
+  <DataNode TextLabel="Acetyl-CoA" GraphId="c39" Type="Metabolite">
     <Comment Source="GenMAPP remarks">Acetyl-CoA</Comment>
     <Graphics CenterX="535.6666666666666" CenterY="477.6666666666667" Width="67.33333333333333" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="72-89-9" />
@@ -124,7 +124,7 @@
     <Graphics CenterX="579.0" CenterY="883.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="" ID="1.4.3.15" />
   </DataNode>
-  <DataNode TextLabel="Malate" GraphId="d06">
+  <DataNode TextLabel="Malate" GraphId="d06" Type="Metabolite">
     <Comment Source="GenMAPP remarks">(S)-Malate</Comment>
     <Graphics CenterX="120.0" CenterY="960.0" Width="43.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="617-48-1" />
@@ -167,16 +167,16 @@
     <Graphics CenterX="864.0" CenterY="318.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2571" />
   </DataNode>
-  <DataNode TextLabel="L-Asparagine" GraphId="eab">
+  <DataNode TextLabel="L-Asparagine" GraphId="eab" Type="Metabolite">
     <Comment Source="GenMAPP remarks">L-Asparagine</Comment>
     <Graphics CenterX="950.0" CenterY="1055.0" Width="81.33333333333333" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="70-47-3" />
   </DataNode>
-  <DataNode TextLabel="O-Acetylcarnitine" GraphId="ed0">
+  <DataNode TextLabel="O-Acetylcarnitine" GraphId="ed0" Type="Metabolite">
     <Graphics CenterX="523.3333333333334" CenterY="382.3333333333333" Width="103.33333333333333" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="3040-38-8" />
   </DataNode>
-  <DataNode TextLabel="Carnosine" GraphId="ee9">
+  <DataNode TextLabel="Carnosine" GraphId="ee9" Type="Metabolite">
     <Comment Source="GenMAPP remarks">Carnosine</Comment>
     <Graphics CenterX="908.3333333333334" CenterY="476.6666666666667" Width="63.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="305-84-0" />
