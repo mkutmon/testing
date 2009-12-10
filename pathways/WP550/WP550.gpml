@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r32463" Author="AlexanderPico | MaintBot | Khanspers" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r34443" Author="AlexanderPico | MaintBot | Khanspers" Organism="Homo sapiens">
   <Graphics BoardWidth="668.3333333333335" BoardHeight="678.0" />
   <DataNode TextLabel="GAD2" GraphId="a07" Type="GeneProduct" GroupRef="e4dfc">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
@@ -11,7 +11,7 @@
     <Graphics CenterX="167.66666666666666" CenterY="292.3666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1644" />
   </DataNode>
-  <DataNode TextLabel="Choline" GraphId="a7b">
+  <DataNode TextLabel="Choline" GraphId="a7b" Type="Metabolite">
     <Graphics CenterX="65.33333333333333" CenterY="235.03333333333333" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="62-49-7" />
   </DataNode>
@@ -19,7 +19,7 @@
     <Graphics CenterX="578.0" CenterY="521.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB00068" />
   </DataNode>
-  <DataNode TextLabel="5-hydroxy-tryptophan" GraphId="b36">
+  <DataNode TextLabel="5-hydroxy-tryptophan" GraphId="b36" Type="Metabolite">
     <Graphics CenterX="416.8333333333333" CenterY="250.03333333333333" Width="126.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="4350-09-8" />
   </DataNode>
@@ -28,7 +28,7 @@
     <Graphics CenterX="417.3333333333333" CenterY="194.36666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7166" />
   </DataNode>
-  <DataNode TextLabel="Acetylserotonin" GraphId="b72">
+  <DataNode TextLabel="Acetylserotonin" GraphId="b72" Type="Metabolite">
     <Graphics CenterX="417.8333333333333" CenterY="424.3666666666667" Width="90.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="1210-83-9" />
   </DataNode>
@@ -56,11 +56,11 @@
     <Graphics CenterX="577.3333333333334" CenterY="196.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7054" />
   </DataNode>
-  <DataNode TextLabel="L-DOPA" GraphId="c6b">
+  <DataNode TextLabel="L-DOPA" GraphId="c6b" Type="Metabolite">
     <Graphics CenterX="576.6666666666666" CenterY="250.03333333333333" Width="66.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="59-92-7" />
   </DataNode>
-  <DataNode TextLabel="Histidine" GraphId="c6d">
+  <DataNode TextLabel="Histidine" GraphId="c6d" Type="Metabolite">
     <Graphics CenterX="166.66666666666666" CenterY="235.03333333333333" Width="72.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="71-001" />
   </DataNode>
@@ -69,7 +69,7 @@
     <Graphics CenterX="577.3333333333334" CenterY="469.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5409" />
   </DataNode>
-  <DataNode TextLabel="Dopamine" GraphId="d52">
+  <DataNode TextLabel="Dopamine" GraphId="d52" Type="Metabolite">
     <Graphics CenterX="576.6666666666666" CenterY="333.3666666666667" Width="83.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="62-31-7" />
   </DataNode>
@@ -78,7 +78,7 @@
     <Graphics CenterX="66.33333333333333" CenterY="373.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="43" />
   </DataNode>
-  <DataNode TextLabel="Acetylcholine" GraphId="d7b">
+  <DataNode TextLabel="Acetylcholine" GraphId="d7b" Type="Metabolite">
     <Graphics CenterX="65.58333333333333" CenterY="339.3666666666667" Width="80.83333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="51-84-3" />
   </DataNode>
@@ -92,7 +92,7 @@
     <Graphics CenterX="577.3333333333334" CenterY="100.36666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5053" />
   </DataNode>
-  <DataNode TextLabel="Tyrosine" GraphId="db9">
+  <DataNode TextLabel="Tyrosine" GraphId="db9" Type="Metabolite">
     <Graphics CenterX="576.6666666666666" CenterY="156.7" Width="72.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="60-18-4" />
   </DataNode>
@@ -101,7 +101,7 @@
     <Graphics CenterX="65.33333333333333" CenterY="277.3666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1103" />
   </DataNode>
-  <DataNode TextLabel="Serotonin" GraphId="dc9">
+  <DataNode TextLabel="Serotonin" GraphId="dc9" Type="Metabolite">
     <Graphics CenterX="418.3333333333333" CenterY="333.3666666666667" Width="80.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="50-67-9" />
   </DataNode>
@@ -110,7 +110,7 @@
     <Graphics CenterX="418.3333333333333" CenterY="377.03333333333336" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="15" />
   </DataNode>
-  <DataNode TextLabel="Phenylalanine" GraphId="ddb">
+  <DataNode TextLabel="Phenylalanine" GraphId="ddb" Type="Metabolite">
     <Graphics CenterX="576.6666666666666" CenterY="60.03333333333333" Width="113.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="63-91-2" />
   </DataNode>
@@ -123,7 +123,7 @@
     <Graphics CenterX="266.3333333333333" CenterY="274.3666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2571" />
   </DataNode>
-  <DataNode TextLabel="Glutamate" GraphId="e8f">
+  <DataNode TextLabel="Glutamate" GraphId="e8f" Type="Metabolite">
     <Graphics CenterX="264.6666666666667" CenterY="234.03333333333333" Width="82.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="56-86-0" />
   </DataNode>
@@ -132,7 +132,7 @@
     <Graphics CenterX="414.3333333333333" CenterY="586.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4128" />
   </DataNode>
-  <DataNode TextLabel="Tryptophan" GraphId="f3d">
+  <DataNode TextLabel="Tryptophan" GraphId="f3d" Type="Metabolite">
     <Graphics CenterX="416.6666666666667" CenterY="156.7" Width="94.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="73-22-3" />
   </DataNode>
@@ -141,11 +141,11 @@
     <Graphics CenterX="420.3333333333333" CenterY="465.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="438" />
   </DataNode>
-  <DataNode TextLabel="Norepinephrine" GraphId="f5c">
+  <DataNode TextLabel="Norepinephrine" GraphId="f5c" Type="Metabolite">
     <Graphics CenterX="577.0833333333334" CenterY="423.3666666666667" Width="85.83333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="51-41-2" />
   </DataNode>
-  <DataNode TextLabel="Histamine" GraphId="f6f">
+  <DataNode TextLabel="Histamine" GraphId="f6f" Type="Metabolite">
     <Graphics CenterX="166.66666666666666" CenterY="346.3666666666667" Width="81.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="51-45-6" />
   </DataNode>

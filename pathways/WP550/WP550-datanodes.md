@@ -18,20 +18,20 @@
 |ACHE | GeneProduct | 43 | Entrez Gene |
 |MAOA | GeneProduct | 4128 | Entrez Gene |
 |AANAT | GeneProduct | 15 | Entrez Gene |
-|Tyrosine | Unknown | 60-18-4 | CAS |
-|L-DOPA | Unknown | 59-92-7 | CAS |
-|Dopamine | Unknown | 62-31-7 | CAS |
-|Norepinephrine | Unknown | 51-41-2 | CAS |
-|Phenylalanine | Unknown | 63-91-2 | CAS |
-|Tryptophan | Unknown | 73-22-3 | CAS |
-|5-hydroxy-tryptophan | Unknown | 4350-09-8 | CAS |
-|Serotonin | Unknown | 50-67-9 | CAS |
-|Acetylserotonin | Unknown | 1210-83-9 | CAS |
-|Histidine | Unknown | 71-001 | CAS |
-|Histamine | Unknown | 51-45-6 | CAS |
-|Glutamate | Unknown | 56-86-0 | CAS |
-|Choline | Unknown | 62-49-7 | CAS |
-|Acetylcholine | Unknown | 51-84-3 | CAS |
+|Tyrosine | Metabolite | 60-18-4 | CAS |
+|L-DOPA | Metabolite | 59-92-7 | CAS |
+|Dopamine | Metabolite | 62-31-7 | CAS |
+|Norepinephrine | Metabolite | 51-41-2 | CAS |
+|Phenylalanine | Metabolite | 63-91-2 | CAS |
+|Tryptophan | Metabolite | 73-22-3 | CAS |
+|5-hydroxy-tryptophan | Metabolite | 4350-09-8 | CAS |
+|Serotonin | Metabolite | 50-67-9 | CAS |
+|Acetylserotonin | Metabolite | 1210-83-9 | CAS |
+|Histidine | Metabolite | 71-001 | CAS |
+|Histamine | Metabolite | 51-45-6 | CAS |
+|Glutamate | Metabolite | 56-86-0 | CAS |
+|Choline | Metabolite | 62-49-7 | CAS |
+|Acetylcholine | Metabolite | 51-84-3 | CAS |
 |Epinephrine | Metabolite | HMDB00068 | HMDB |
 |Melatonin | Metabolite | HMDB01389 | HMDB |
 |GABA | Metabolite | HMDB00112 | HMDB |
