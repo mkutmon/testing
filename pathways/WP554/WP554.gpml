@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway" Data-Source="WikiPathways" Version="WP554_r34804" Author="C.F.Thorn | MaintBot | Jinwook | Khanspers | AlexanderPico | Thomas" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway" Data-Source="WikiPathways" Version="WP554_r34805" Author="C.F.Thorn | MaintBot | Jinwook | Khanspers | AlexanderPico | Thomas" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The renin-angiotensin-aldosterone system (RAAS) is central to the control of blood pressure and the target of several types of anti-hypertensive drugs. This pathway depicts a simplified representation of the pharmacodynamics (PD) of RAAS-acting drugs including candidate genes for the pharmacogenomics (PGx) of ACE inhibitors, angiotensin receptor blockers (ARBs), renin inhibitor aliskiren and aldosterone receptor antagonists.
-Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathway)
-Copyright PharmGKB</Comment>
+Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathway)</Comment>
   <BiopaxRef>b93</BiopaxRef>
   <Graphics BoardWidth="711.6666666666666" BoardHeight="497.0" />
   <DataNode TextLabel="AGT" GraphId="a57" Type="GeneProduct">
