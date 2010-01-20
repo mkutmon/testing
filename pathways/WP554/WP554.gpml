@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway" Data-Source="WikiPathways" Version="WP554_r34801" Author="C.F.Thorn | MaintBot | Jinwook | Khanspers | AlexanderPico | Thomas" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway" Data-Source="WikiPathways" Version="WP554_r34802" Author="C.F.Thorn | MaintBot | Jinwook | Khanspers | AlexanderPico | Thomas" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The renin-angiotensin-aldosterone system (RAAS) is central to the control of blood pressure and the target of several types of anti-hypertensive drugs. This pathway depicts a simplified representation of the pharmacodynamics (PD) of RAAS-acting drugs including candidate genes for the pharmacogenomics (PGx) of ACE inhibitors, angiotensin receptor blockers (ARBs), renin inhibitor aliskiren and aldosterone receptor antagonists.
 Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathway)</Comment>
   <BiopaxRef>b93</BiopaxRef>
-  <BiopaxRef>ce2</BiopaxRef>
   <BiopaxRef>b59</BiopaxRef>
   <Graphics BoardWidth="711.6666666666666" BoardHeight="497.0" />
   <DataNode TextLabel="AGT" GraphId="a57" Type="GeneProduct">
@@ -169,18 +168,6 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
   <InfoBox CenterX="1.6666666666666667" CenterY="38.333333333333336" />
   <Legend CenterX="681.6666666666666" CenterY="118.33333333333333" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ce2">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathway</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathway</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:YEAR>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b93">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17464936</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
