@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r32014" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r34958" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today. </Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="IRF4" GraphId="a02" Type="GeneProduct" GroupRef="c537f">
@@ -367,9 +367,9 @@
     <Graphics CenterX="860.0" CenterY="540.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7161" />
   </DataNode>
-  <DataNode TextLabel="TRP63" GraphId="ebc" Type="GeneProduct" GroupRef="ebfe0">
+  <DataNode TextLabel="TP63" GraphId="ebc" Type="GeneProduct" GroupRef="ebfe0">
     <Graphics CenterX="860.0" CenterY="560.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="" />
+    <Xref Database="Entrez Gene" ID="8626" />
   </DataNode>
   <DataNode TextLabel="IRF6" GraphId="ecc" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF6 | interferon regulatory factor 6" />
