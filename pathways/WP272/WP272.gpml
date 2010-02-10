@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r35079" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r35087" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Coagulation is a complex process by which blood forms clots. It is an important part of hemostasis (the cessation of blood loss from a damaged vessel), wherein a damaged blood vessel wall is covered by a platelet and fibrin-containing clot to stop bleeding and begin repair of the damaged vessel. Disorders of coagulation can lead to an increased risk of bleeding (hemorrhage) or clotting (thrombosis).
 
 Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
@@ -7,7 +7,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   <Graphics BoardWidth="935.1666666666667" BoardHeight="733.6666666666666" />
   <DataNode TextLabel="F10" GraphId="a0e" Type="GeneProduct" GroupRef="fd46e">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F10 | coagulation factor X" />
-    <Graphics CenterX="388.3333333333333" CenterY="455.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="397.3333333333333" CenterY="431.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2159" />
   </DataNode>
   <DataNode TextLabel="F2" GraphId="a1d" Type="GeneProduct">
@@ -30,7 +30,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="FGG" GraphId="aa3" Type="GeneProduct" GroupRef="cc726">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FGG | fibrinogen gamma chain" />
-    <Graphics CenterX="546.0" CenterY="619.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="546.0" CenterY="519.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2266" />
   </DataNode>
   <DataNode TextLabel="Zinc" GraphId="ab8bc" Type="Metabolite" GroupRef="ab77b">
@@ -39,7 +39,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="F10" GraphId="b58" Type="GeneProduct" GroupRef="fd46e">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="F10 | coagulation factor X" />
-    <Graphics CenterX="389.3333333333333" CenterY="423.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="398.3333333333333" CenterY="399.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2159" />
   </DataNode>
   <DataNode TextLabel="PLG" GraphId="b6a" Type="GeneProduct">
@@ -64,7 +64,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="FGB" GraphId="c8e" Type="GeneProduct" GroupRef="cc726">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FGB | fibrinogen beta chain" />
-    <Graphics CenterX="546.0" CenterY="599.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="546.0" CenterY="499.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2244" />
   </DataNode>
   <DataNode TextLabel="KLK1" GraphId="c997e" Type="GeneProduct" GroupRef="ab77b">
@@ -127,7 +127,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="FGA" GraphId="fcc" Type="GeneProduct" GroupRef="cc726">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FGA | fibrinogen alpha chain" />
-    <Graphics CenterX="546.0" CenterY="579.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="546.0" CenterY="479.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2243" />
   </DataNode>
   <Interaction GraphId="a4187">
@@ -140,7 +140,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   <Interaction GraphId="a6f86">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="456.54166666666663" Y="279.8333333333333" GraphRef="d8b" RelX="-0.5" RelY="1.0" />
-      <Point X="455.3094890510949" Y="374.6442822384428" GraphRef="f84a5" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="459.2905109489051" Y="364.02822384428225" GraphRef="f84a5" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -218,7 +218,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </Interaction>
   <Interaction GraphId="c99a9">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="584.0" Y="599.0" GraphRef="fa7f8" RelX="1.0" RelY="0.0" />
+      <Point X="584.0" Y="499.0" GraphRef="fa7f8" RelX="1.0" RelY="0.0" />
       <Point X="683.0" Y="499.0" GraphRef="fa8" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.5936508450275423" Shape="None" GraphId="fc0e6" />
     </Graphics>
@@ -298,7 +298,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </Interaction>
   <Interaction GraphId="eaa53">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="427.3333333333333" Y="439.3333333333333" GraphRef="e677e" RelX="1.0" RelY="0.0" />
+      <Point X="436.3333333333333" Y="415.3333333333333" GraphRef="e677e" RelX="1.0" RelY="0.0" />
       <Point X="477.5" Y="323.3333333333333" GraphRef="bfc" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.5576642335766423" Shape="None" GraphId="f84a5" />
     </Graphics>
@@ -329,7 +329,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   <Interaction GraphId="f20f6">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="326.9166666666666" Y="371.8333333333333" GraphRef="c25" RelX="0.5" RelY="-1.0" />
-      <Point X="455.3094890510949" Y="374.6442822384428" GraphRef="f84a5" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="459.2905109489051" Y="364.02822384428225" GraphRef="f84a5" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -343,28 +343,21 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   <Interaction GraphId="fb5de">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="642.0" Y="429.5" GraphRef="aef" RelX="0.0" RelY="1.0" />
-      <Point X="642.7714336577267" Y="539.6349154972457" GraphRef="fc0e6" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="642.7714336577267" Y="499.0" GraphRef="fc0e6" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id7b30186">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="379.375" Y="294.8333333333333" GraphRef="ca8" RelX="0.5" RelY="1.0" />
-      <Point X="455.3094890510949" Y="374.6442822384428" GraphRef="f84a5" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ida1e86765">
+  <Interaction GraphId="id95bef876">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="536.25" Y="332.8333333333333" GraphRef="bfc" RelX="0.5" RelY="1.0" />
       <Point X="571.3333333333334" Y="365.0" GraphRef="f4e" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="ide4e2d05d">
+  <Interaction GraphId="idafb7647e">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="521.0" Y="642.0" GraphRef="b6a" RelX="1.0" RelY="0.0" />
-      <Point X="546.0" Y="637.0" GraphRef="fa7f8" RelX="0.0" RelY="1.0" />
+      <Point X="379.375" Y="294.8333333333333" GraphRef="ca8" RelX="0.5" RelY="1.0" />
+      <Point X="459.2905109489051" Y="364.02822384428225" GraphRef="f84a5" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
