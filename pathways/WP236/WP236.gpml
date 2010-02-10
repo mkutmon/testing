@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Adipogenesis" Data-Source="WikiPathways" Version="WP236_r35010" Author="M.Patti | MaintBot | Khanspers | Nsalomonis" Maintainer="Meagan Lizarazo and Joyclyn Yee" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Adipogenesis" Data-Source="WikiPathways" Version="WP236_r35011" Author="M.Patti | MaintBot | Khanspers | Nsalomonis" Maintainer="Meagan Lizarazo and Joyclyn Yee" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The different classess of factors involved in adipogenesis are shown. Adipogenesis is the process by which fat cells differentiate from predadipocytes to adipocytes (fat cells). Adipose tissue, composed of white and brown adipose tissue, is composed of adipocytes. This pathway is primarily studied to understand factors that contribute to obesity and diabetes. Transcriptional and hormonal regulators of adipocyte formation are indicated. For more information see: http://www.ncbi.nlm.nih.gov/pubmed/11031233.
 
 </Comment>
+  <BiopaxRef>b10</BiopaxRef>
   <Graphics BoardWidth="1354.3333333333333" BoardHeight="1056.6666666666665" />
   <DataNode TextLabel="STAT5A" GraphId="a05" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="STAT5A | signal transducer and activator of tra..." />
@@ -827,5 +828,16 @@
   </Shape>
   <InfoBox CenterX="5.1" CenterY="8.333333333333334" />
   <Legend CenterX="341.3333333333333" CenterY="118.53333333333333" />
+  <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b10">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11031233</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Molecular regulation of adipogenesis.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Annu Rev Cell Dev Biol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2000</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rosen ED</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spiegelman BM</bp:AUTHORS>
+    </bp:PublicationXref>
+  </Biopax>
 </Pathway>
 
