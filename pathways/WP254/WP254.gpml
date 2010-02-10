@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r34958" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r35090" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today. </Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="IRF4" GraphId="a02" Type="GeneProduct" GroupRef="c537f">
@@ -183,8 +183,9 @@
     <Xref Database="Entrez Gene" ID="834" />
   </DataNode>
   <DataNode TextLabel="TP53" GraphId="cbf" Type="GeneProduct">
+    <BiopaxRef>c76</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TP53 | tumor protein p53 (Li-Fraumeni syndrome)..." />
-    <Graphics CenterX="430.0" CenterY="626.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="432.0" CenterY="605.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7157" />
   </DataNode>
   <DataNode TextLabel="CASP4" GraphId="cc5" Type="GeneProduct">
@@ -543,7 +544,7 @@
   </Interaction>
   <Interaction GraphId="abe2d">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="430.0" Y="616.6666666666666" GraphRef="cbf" RelX="0.0" RelY="-1.0" />
+      <Point X="432.0" Y="595.6666666666666" GraphRef="cbf" RelX="0.0" RelY="-1.0" />
       <Point X="398.3333333333333" Y="443.3333333333333" GraphRef="fac" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -557,7 +558,7 @@
   </Interaction>
   <Interaction GraphId="b1289">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="460.0" Y="626.6666666666666" GraphRef="cbf" RelX="1.0" RelY="0.0" />
+      <Point X="462.0" Y="605.6666666666666" GraphRef="cbf" RelX="1.0" RelY="0.0" />
       <Point X="488.66666666666674" Y="627.6666666666667" GraphRef="ce6a7" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -692,7 +693,7 @@
   <Interaction GraphId="c3757">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
       <Point X="385.0" Y="580.0" GraphRef="f68" RelX="0.5" RelY="1.0" />
-      <Point X="415.0" Y="616.6666666666666" GraphRef="cbf" RelX="-0.5" RelY="-1.0" ArrowHead="TBar" />
+      <Point X="417.0" Y="595.6666666666666" GraphRef="cbf" RelX="-0.5" RelY="-1.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -812,7 +813,7 @@
   <Interaction GraphId="dcdb3">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="456.6666666666667" Y="666.6666666666666" GraphRef="a21" RelX="0.0" RelY="-1.0" />
-      <Point X="430.0" Y="636.6666666666666" GraphRef="cbf" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="432.0" Y="615.6666666666666" GraphRef="cbf" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1038,5 +1039,16 @@
   <Group GroupId="e38bb" GraphId="fa658" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="1162.2" CenterY="8.847126666666666" />
+  <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of p53 in response to DNA damage.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lakin ND</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson SP</bp:AUTHORS>
+    </bp:PublicationXref>
+  </Biopax>
 </Pathway>
 
