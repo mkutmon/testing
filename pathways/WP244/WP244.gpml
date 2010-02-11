@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alpha6-Beta4 Integrin Signaling Pathway" Data-Source="WikiPathways" Version="WP244_r35242" Author="A.Pandey | 212.48.140.65 | MaintBot | Nsalomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alpha6-Beta4 Integrin Signaling Pathway" Data-Source="WikiPathways" Version="WP244_r35283" Author="A.Pandey | 212.48.140.65 | MaintBot | Nsalomonis" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">"The integrin alpha6-beta4 is a receptor for various Iaminin isofoms. It is strongly expressed on basal keratinocytes, in which it is concentrated in specialized adhesion structures called hemidesmosomes. Abnormal expression of the integrin alpha6-beta4 in the suprabasal cell layers has been associated with an increased malignancy of squamous cell carcinomas. The continued expression of alpha6-beta4, when cells leave the basement membrane and migrate into the upper layers, may contribute to a reduced dependence of growth on anchorage and thus to an increased cell proliferation. Recent studies have identified the alpha6-beta4 integrin as a sigalling molecule that rates proliferation in response to the interaction of cells with Iaminin." Source: Dr. A. Sonnenberg - http://www.onderzoekinformatie.nl/en/oi/nod/onderzoek/OND1270125/
 
 </Comment>
@@ -51,7 +51,7 @@
   </DataNode>
   <DataNode TextLabel="PRKCA" GraphId="a8d" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRKCA" />
-    <Graphics CenterX="1073.3333333333333" CenterY="453.3333333333333" Width="54.03666" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1063.3333333333333" CenterY="452.3333333333333" Width="54.03666" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5578" />
   </DataNode>
   <DataNode TextLabel="LAMA2" GraphId="a9c" Type="GeneProduct">
@@ -141,7 +141,7 @@
   </DataNode>
   <DataNode TextLabel="PRKCD" GraphId="ba5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRKCD" />
-    <Graphics CenterX="1023.3333333333334" CenterY="423.3333333333333" Width="54.03666" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1027.3333333333333" CenterY="421.3333333333333" Width="54.03666" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5580" />
   </DataNode>
   <DataNode TextLabel="PIK3R1" GraphId="bf8" Type="GeneProduct">
@@ -454,6 +454,14 @@
     <Graphics CenterX="1516.6666666666667" CenterY="826.6666666666666" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="367" />
   </DataNode>
+  <Interaction GraphId="e8947">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0" Color="0000ff">
+      <Point X="1076.842498333333" Y="442.3333333333333" GraphRef="a8d" RelX="0.5" RelY="-1.0" />
+      <Point X="1145.0879158333332" Y="350.0" />
+      <Point X="1203.3333333333333" Y="280.0" GraphRef="f6d" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id10497fad">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="bfbf00">
       <Point X="46.666666666666664" Y="673.3333333333334" />
@@ -825,13 +833,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id45d81142">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
-      <Point X="1203.3333333333333" Y="353.3333333333333" />
-      <Point X="1036.6666666666667" Y="353.3333333333333" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id45fffdb">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="008080">
       <Point X="1060.0" Y="260.0" />
@@ -857,13 +858,6 @@
     <Graphics ZOrder="12288" LineThickness="1.0" Color="008080">
       <Point X="1426.6666666666667" Y="260.0" />
       <Point X="1426.6666666666667" Y="223.33333333333334" ArrowHead="ReceptorRound" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="id4a9add27">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
-      <Point X="1203.3333333333333" Y="353.3333333333333" />
-      <Point X="1203.3333333333333" Y="280.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1105,13 +1099,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id7b6b83bc">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
-      <Point X="1036.6666666666667" Y="413.3333333333333" />
-      <Point X="1036.6666666666667" Y="353.3333333333333" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id7bb1856c">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0" Color="800040">
       <Point X="1370.0" Y="696.6666666666666" />
@@ -1254,8 +1241,8 @@
   </Interaction>
   <Interaction GraphId="id9c1f18e5">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
-      <Point X="1030.0" Y="413.3333333333333" />
-      <Point X="1030.0" Y="280.0" ArrowHead="Arrow" />
+      <Point X="1027.3333333333333" Y="411.3333333333333" GraphRef="ba5" RelX="0.0" RelY="-1.0" />
+      <Point X="1041.6666666666667" Y="280.0" GraphRef="e7c" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1814,8 +1801,8 @@
   </Interaction>
   <Interaction GraphId="idfe6ab7e4">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
-      <Point X="1070.0" Y="443.3333333333333" />
-      <Point X="1070.0" Y="280.0" ArrowHead="Arrow" />
+      <Point X="1063.333333333333" Y="442.3333333333333" GraphRef="a8d" RelX="0.0" RelY="-1.0" />
+      <Point X="1066.6666666666667" Y="280.0" GraphRef="e7c" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
