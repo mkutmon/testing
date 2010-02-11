@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r35156" Author="AlexanderPico | MaintBot | Khanspers | Thomas" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">Biogenic amines are one of two broad classes of classical neurotransmitters (the other being amino acids) and include: acetylcholine, serotonin, histamine, and the catecholamines epinephrine, norepinephrine, and dopamine. http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.html</Comment>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r35157" Author="AlexanderPico | MaintBot | Khanspers | Thomas" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">Biogenic amines are one of two broad classes of classical neurotransmitters (the other being amino acids) and include: acetylcholine, serotonin, histamine, and the catecholamines epinephrine, norepinephrine, and dopamine.
+
+Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.html</Comment>
+  <BiopaxRef>d64</BiopaxRef>
   <Graphics BoardWidth="668.3333333333335" BoardHeight="678.0" />
   <DataNode TextLabel="GAD2" GraphId="a07" Type="GeneProduct" GroupRef="e4dfc">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
@@ -427,5 +430,21 @@
   <Group GroupId="e4dfc" GraphId="e3e52" />
   <InfoBox CenterX="15.0" CenterY="15.0" />
   <Legend CenterX="11.666666666666666" CenterY="425.0" />
+  <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d64">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neuroscience</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=neurosci&amp;part=A405</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2001</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Purves, Dale</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Augustine, George J.</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fitzpatrick, David</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Katz, Lawrence C.</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">LaMantia, Anthony-Samuel</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">McNamara, James O.</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Williams, S. Mark.</bp:AUTHORS>
+    </bp:PublicationXref>
+  </Biopax>
 </Pathway>
 
