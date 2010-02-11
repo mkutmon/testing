@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r34443" Author="AlexanderPico | MaintBot | Khanspers" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r35156" Author="AlexanderPico | MaintBot | Khanspers | Thomas" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">Biogenic amines are one of two broad classes of classical neurotransmitters (the other being amino acids) and include: acetylcholine, serotonin, histamine, and the catecholamines epinephrine, norepinephrine, and dopamine. http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.html</Comment>
   <Graphics BoardWidth="668.3333333333335" BoardHeight="678.0" />
   <DataNode TextLabel="GAD2" GraphId="a07" Type="GeneProduct" GroupRef="e4dfc">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
