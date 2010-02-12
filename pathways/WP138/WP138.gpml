@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Androgen Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP138_r35427" Author="A.Pandey | MaintBot | Nsalomonis | Andra" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">"The androgen receptor is a member of the nuclear receptor family of ligand activated transcription factors. These receptors bind to steroid hormones, thyroid hormone, retinoids and vitamin D among others, dimerize and bind to DNA. Its ligands include testosterone, dehydroepiandrosterone and androstenedione. Stimulation of the receptor activates the SMAD signaling module." Source: http://www.netpath.org/pathways?path_id=NetPath_2</Comment>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Androgen Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP138_r35667" Author="A.Pandey | MaintBot | Nsalomonis | Andra | AlexanderPico" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">The androgen receptor is a member of the nuclear receptor family of ligand activated transcription factors. These receptors bind to steroid hormones, thyroid hormone, retinoids and vitamin D among others, dimerize and bind to DNA. Its ligands include testosterone, dehydroepiandrosterone and androstenedione. Stimulation of the receptor activates the SMAD signaling module.
+Source: http://www.netpath.org/pathways?path_id=NetPath_2</Comment>
   <BiopaxRef>d12</BiopaxRef>
   <BiopaxRef>b28</BiopaxRef>
   <BiopaxRef>c47</BiopaxRef>
@@ -3161,6 +3162,24 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Morley JE</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Korenman SG</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a5d">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12351684</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The roles of androgen receptors and androgen-binding proteins in nongenomic androgen actions.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Endocrinol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heinlein CA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chang C</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f05">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16633980</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Androgen physiology.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semin Reprod Med</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Davison SL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bell R</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c47">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12600226</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -3195,24 +3214,6 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Brown T</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Isomaa VV</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J�nne OA</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f05">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16633980</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Androgen physiology.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Semin Reprod Med</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2006</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Davison SL</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bell R</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a5d">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12351684</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The roles of androgen receptors and androgen-binding proteins in nongenomic androgen actions.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Endocrinol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2002</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Heinlein CA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chang C</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
