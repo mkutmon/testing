@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r36236" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r36237" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim" Maintainer="Nathan Salomonis" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Coagulation is a complex process by which blood forms clots. It is an important part of hemostasis (the cessation of blood loss from a damaged vessel), wherein a damaged blood vessel wall is covered by a platelet and fibrin-containing clot to stop bleeding and begin repair of the damaged vessel. Disorders of coagulation can lead to an increased risk of bleeding (hemorrhage) or clotting (thrombosis).
 
 Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
@@ -362,7 +362,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="id603aeed6">
-    <Graphics ZOrder="12288" LineThickness="1.0">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff3333">
       <Point X="531.9999999999997" Y="111.99999999999996" />
       <Point X="531.9999999999997" Y="177.3333333333334" ArrowHead="TBar" />
     </Graphics>
@@ -397,14 +397,21 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="idc7ce0d04">
-    <Graphics ZOrder="12288" LineThickness="1.0">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="533.3333333333334" Y="112.0" />
       <Point X="604.0" Y="178.66666666666666" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="ide68660b4">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0" Color="ff3333">
+      <Point X="528.5" Y="235.0" />
+      <Point X="495.625" Y="260.8333333333333" GraphRef="d8b" RelX="0.5" RelY="-1.0" ArrowHead="TBar" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idfbd5bdb3">
-    <Graphics ZOrder="12288" LineThickness="1.0">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff3333">
       <Point X="467.33333333333326" Y="242.6666666666666" />
       <Point X="476.6666666666666" Y="229.33333333333326" />
     </Graphics>
@@ -483,7 +490,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
     <Graphics CenterX="626.6666666666666" CenterY="323.3333333333333" Width="78.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Shape GraphId="d7a62">
-    <Graphics CenterX="501.11657357584147" CenterY="174.7135347318623" Width="137.30887210555395" Height="69.14360700941538" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Arc" Rotation="2.023455367112967" />
+    <Graphics CenterX="501.11657357584147" CenterY="174.7135347318623" Width="137.30887210555395" Height="69.14360700941538" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Arc" Color="ff3333" Rotation="2.023455367112967" />
   </Shape>
   <Group GroupId="d6cba" GraphId="d27b6" />
   <Group GroupId="fd46e" GraphId="e677e" />
