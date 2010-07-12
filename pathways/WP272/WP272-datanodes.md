@@ -26,3 +26,6 @@
 |Zinc | Metabolite | HMDB01303 | HMDB |
 |KLKB1 | GeneProduct | 3818 | Entrez Gene |
 |KLK1 | GeneProduct | 3816 | Entrez Gene |
+|Factor Xa | GeneProduct | 2159 | Entrez Gene |
+|Thrombin | GeneProduct | 2147 | Entrez Gene |
+|Factor Va | GeneProduct | 2153 | Entrez Gene |
