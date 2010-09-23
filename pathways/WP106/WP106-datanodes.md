@@ -49,3 +49,4 @@
 |Malate | Metabolite | 617-48-1 | CAS |
 |b-Alanine | Metabolite | 6912-68-1 | CAS |
 |L-Alanine | Metabolite | 6912-68-1 | CAS |
+|Glycolysis & gluconeogenesis | Pathway | WP534 | WikiPathways |

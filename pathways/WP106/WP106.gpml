@@ -1,221 +1,225 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r35516" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r38640" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel" Organism="Homo sapiens">
   <BiopaxRef>e65</BiopaxRef>
   <BiopaxRef>f1b</BiopaxRef>
   <Graphics BoardWidth="1311.4999999999998" BoardHeight="1216.6666666666667" />
   <DataNode TextLabel="3.5.1.3" GraphId="a3a" Type="GeneProduct">
-    <Graphics CenterX="371.3333333333333" CenterY="1006.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="371.3333333333333" CenterY="1006.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="3.5.1.3" />
   </DataNode>
   <DataNode TextLabel="GOT2" GraphId="a43" Type="GeneProduct" GroupRef="b134d">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GOT2 | glutamic-oxaloacetic transaminase 2 mit..." />
-    <Graphics CenterX="722.6666666666666" CenterY="784.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="722.6666666666666" CenterY="784.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2806" />
   </DataNode>
   <DataNode TextLabel="3.4.13.3" GraphId="a77" Type="GeneProduct">
-    <Graphics CenterX="817.0" CenterY="510.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="817.0" CenterY="510.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="3.4.13.3" />
   </DataNode>
   <DataNode TextLabel="L-Alanine" GraphId="ab0" Type="Metabolite">
-    <Graphics CenterX="936.0" CenterY="235.66666666666666" Width="58.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="936.0" CenterY="235.66666666666666" Width="58.333333333333336" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="6912-68-1" />
   </DataNode>
   <DataNode TextLabel="ASL" GraphId="ac6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASL | argininosuccinate lyase" />
-    <Graphics CenterX="1165.6666666666667" CenterY="953.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1165.6666666666667" CenterY="953.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="435" />
   </DataNode>
   <DataNode TextLabel="ABAT" GraphId="aca" Type="GeneProduct" GroupRef="ba4cb">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ABAT | 4-aminobutyrate aminotransferase" />
-    <Graphics CenterX="744.5000203450521" CenterY="536.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="744.5000203450521" CenterY="536.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="18" />
   </DataNode>
   <DataNode TextLabel="4.1.1.11" GraphId="adf" Type="GeneProduct" GroupRef="a9af5">
-    <Graphics CenterX="864.0" CenterY="358.6666971842448" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="864.0" CenterY="358.6666971842448" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="4.1.1.11" />
   </DataNode>
   <DataNode TextLabel="1.4.3.2" GraphId="ae1" Type="GeneProduct" GroupRef="dfc9e">
-    <Graphics CenterX="709.6666666666666" CenterY="910.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="709.6666666666666" CenterY="910.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="1.4.3.2" />
   </DataNode>
   <DataNode TextLabel="4.1.1.12" GraphId="afd" Type="GeneProduct">
-    <Graphics CenterX="952.0" CenterY="369.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="952.0" CenterY="369.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="4.1.1.12" />
   </DataNode>
   <DataNode TextLabel="DARS" GraphId="aff" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DARS | aspartyl-tRNA synthetase" />
-    <Graphics CenterX="1073.6666666666667" CenterY="1081.6666666666667" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1073.6666666666667" CenterY="1081.6666666666667" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1615" />
   </DataNode>
   <DataNode TextLabel="ASPA" GraphId="b10" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASPA | aspartoacylase (aminoacylase 2 Canavan ..." />
-    <Graphics CenterX="800.6666666666666" CenterY="953.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="800.6666666666666" CenterY="953.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="443" />
   </DataNode>
   <DataNode TextLabel="D-Alanine" GraphId="b23" Type="Metabolite">
     <Comment Source="GenMAPP remarks">D-Alanine</Comment>
-    <Graphics CenterX="1112.0" CenterY="236.66666666666666" Width="59.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="1112.0" CenterY="236.66666666666666" Width="59.333333333333336" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="6912-68-1" />
   </DataNode>
   <DataNode TextLabel="5.1.1.1" GraphId="b27" Type="GeneProduct">
-    <Graphics CenterX="1032.0" CenterY="235.66666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1032.0" CenterY="235.66666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="5.1.1.1" />
   </DataNode>
   <DataNode TextLabel="2.6.1.12" GraphId="b8d" Type="GeneProduct">
-    <Graphics CenterX="735.6666666666666" CenterY="161.66666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="735.6666666666666" CenterY="161.66666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="2.6.1.12" />
   </DataNode>
   <DataNode TextLabel="b-Alanine" GraphId="b94" Type="Metabolite">
     <Comment Source="GenMAPP remarks">beta-alanine</Comment>
-    <Graphics CenterX="717.0833333333334" CenterY="477.5833333333333" Width="58.166666666666664" Height="16.833333333333332" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="717.0833333333334" CenterY="477.5833333333333" Width="58.166666666666664" Height="16.833333333333332" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="6912-68-1" />
   </DataNode>
   <DataNode TextLabel="DARS" GraphId="ba3" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DARS | aspartyl-tRNA synthetase" />
-    <Graphics CenterX="887.0" CenterY="681.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="887.0" CenterY="681.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1615" />
   </DataNode>
   <DataNode TextLabel="AGXT" GraphId="bcc" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AGXT | alanine-glyoxylate aminotransferase (oxa..." />
-    <Graphics CenterX="734.6666666666666" CenterY="295.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="734.6666666666666" CenterY="295.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="189" />
   </DataNode>
   <DataNode TextLabel="6.3.1.1" GraphId="c02" Type="GeneProduct">
-    <Graphics CenterX="946.0" CenterY="980.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="946.0" CenterY="980.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.3.1.1" />
   </DataNode>
   <DataNode TextLabel="1.2.1.18" GraphId="c1a" Type="GeneProduct">
-    <Graphics CenterX="595.6666666666666" CenterY="587.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="595.6666666666666" CenterY="587.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="1.2.1.18" />
   </DataNode>
   <DataNode TextLabel="Acetyl-CoA" GraphId="c39" Type="Metabolite">
     <Comment Source="GenMAPP remarks">Acetyl-CoA</Comment>
-    <Graphics CenterX="535.6666666666666" CenterY="477.6666666666667" Width="67.33333333333333" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="535.6666666666666" CenterY="477.6666666666667" Width="67.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="72-89-9" />
   </DataNode>
   <DataNode TextLabel="5.1.1.13" GraphId="c41" Type="GeneProduct">
-    <Graphics CenterX="806.0" CenterY="879.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="806.0" CenterY="879.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="5.1.1.13" />
   </DataNode>
   <DataNode TextLabel="GPT" GraphId="c4f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GPT | glutamic-pyruvate transaminase (alanine a..." />
-    <Graphics CenterX="745.6666666666666" CenterY="232.33333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="745.6666666666666" CenterY="232.33333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2875" />
   </DataNode>
   <DataNode TextLabel="3.5.1.7" GraphId="c70" Type="GeneProduct">
-    <Graphics CenterX="815.6666666666666" CenterY="786.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="815.6666666666666" CenterY="786.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="3.5.1.7" />
   </DataNode>
   <DataNode TextLabel="6.3.5.6" GraphId="ca3" Type="GeneProduct">
-    <Graphics CenterX="1003.6666666666666" CenterY="1159.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1003.6666666666666" CenterY="1159.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.3.5.6" />
   </DataNode>
   <DataNode TextLabel="3.5.1.38" GraphId="cba" Type="GeneProduct" GroupRef="cf1aa">
-    <Graphics CenterX="874.6666666666666" CenterY="965.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="874.6666666666666" CenterY="965.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="3.5.1.38" />
   </DataNode>
   <DataNode TextLabel="4.3.1.1" GraphId="cc2" Type="GeneProduct">
-    <Graphics CenterX="1128.0" CenterY="1014.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1128.0" CenterY="1014.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="4.3.1.1" />
   </DataNode>
   <DataNode TextLabel="2.3.1.7" GraphId="cc7" Type="GeneProduct">
-    <Graphics CenterX="497.3333333333333" CenterY="436.3333333333333" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="497.3333333333333" CenterY="436.3333333333333" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="2.3.1.7" />
   </DataNode>
   <DataNode TextLabel="1.4.3.15" GraphId="cfc" Type="GeneProduct" GroupRef="dd7c3">
-    <Graphics CenterX="579.0" CenterY="883.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="579.0" CenterY="883.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="1.4.3.15" />
   </DataNode>
   <DataNode TextLabel="Malate" GraphId="d06" Type="Metabolite">
     <Comment Source="GenMAPP remarks">(S)-Malate</Comment>
-    <Graphics CenterX="120.0" CenterY="960.0" Width="43.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="120.0" CenterY="960.0" Width="43.333333333333336" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="617-48-1" />
   </DataNode>
   <DataNode TextLabel="3.5.1.1" GraphId="d0b" Type="GeneProduct" GroupRef="cf1aa">
-    <Graphics CenterX="874.6666666666666" CenterY="985.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="874.6666666666666" CenterY="985.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="3.5.1.1" />
   </DataNode>
   <DataNode TextLabel="6.3.2.11" GraphId="d4b" Type="GeneProduct">
-    <Graphics CenterX="805.0" CenterY="443.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="805.0" CenterY="443.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.3.2.11" />
   </DataNode>
   <DataNode TextLabel="1.4.3.16" GraphId="d6e" Type="GeneProduct" GroupRef="dfc9e">
-    <Graphics CenterX="709.6666666666666" CenterY="930.6667073567709" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="709.6666666666666" CenterY="930.6667073567709" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="1.4.3.16" />
   </DataNode>
   <DataNode TextLabel="6.1.1.22" GraphId="d73" Type="GeneProduct">
-    <Graphics CenterX="950.0" CenterY="1102.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="950.0" CenterY="1102.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.1.1.22" />
   </DataNode>
   <DataNode TextLabel="2.6.1.18" GraphId="d7d" Type="GeneProduct" GroupRef="ba4cb">
-    <Graphics CenterX="693.6666666666666" CenterY="536.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="693.6666666666666" CenterY="536.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="2.6.1.18" />
   </DataNode>
   <DataNode TextLabel="2.6.1.14" GraphId="daf" Type="GeneProduct">
-    <Graphics CenterX="715.3333333333334" CenterY="1051.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="715.3333333333334" CenterY="1051.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="2.6.1.14" />
   </DataNode>
   <DataNode TextLabel="6.1.1.7" GraphId="e4d" Type="GeneProduct">
-    <Graphics CenterX="1014.6666666666666" CenterY="202.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1014.6666666666666" CenterY="202.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.1.1.7" />
   </DataNode>
   <DataNode TextLabel="GAD2" GraphId="e52" Type="GeneProduct" GroupRef="a9af5">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
-    <Graphics CenterX="864.0" CenterY="338.50001017252606" Width="55.0" Height="20.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="864.0" CenterY="338.50001017252606" Width="55.0" Height="20.333333333333332" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2572" />
   </DataNode>
   <DataNode TextLabel="GAD1" GraphId="e7a" Type="GeneProduct" GroupRef="a9af5">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD1 | glutamate decarboxylase 1 (brain 67kDa)..." />
-    <Graphics CenterX="864.0" CenterY="318.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="864.0" CenterY="318.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2571" />
   </DataNode>
   <DataNode TextLabel="L-Asparagine" GraphId="eab" Type="Metabolite">
     <Comment Source="GenMAPP remarks">L-Asparagine</Comment>
-    <Graphics CenterX="950.0" CenterY="1055.0" Width="81.33333333333333" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="950.0" CenterY="1055.0" Width="81.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="70-47-3" />
   </DataNode>
   <DataNode TextLabel="O-Acetylcarnitine" GraphId="ed0" Type="Metabolite">
-    <Graphics CenterX="523.3333333333334" CenterY="382.3333333333333" Width="103.33333333333333" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="523.3333333333334" CenterY="382.3333333333333" Width="103.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="3040-38-8" />
   </DataNode>
   <DataNode TextLabel="Carnosine" GraphId="ee9" Type="Metabolite">
     <Comment Source="GenMAPP remarks">Carnosine</Comment>
-    <Graphics CenterX="908.3333333333334" CenterY="476.6666666666667" Width="63.333333333333336" Height="15.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="908.3333333333334" CenterY="476.6666666666667" Width="63.333333333333336" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="305-84-0" />
   </DataNode>
   <DataNode TextLabel="1.4.3.1" GraphId="f00" Type="GeneProduct" GroupRef="dd7c3">
-    <Graphics CenterX="579.0" CenterY="903.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="579.0" CenterY="903.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="1.4.3.1" />
   </DataNode>
   <DataNode TextLabel="ASS" GraphId="f21" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASS | argininosuccinate synthetase" />
-    <Graphics CenterX="1031.0" CenterY="835.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1031.0" CenterY="835.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="445" />
   </DataNode>
   <DataNode TextLabel="6.3.4.4" GraphId="f29" Type="GeneProduct">
-    <Graphics CenterX="1044.6666666666667" CenterY="752.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1044.6666666666667" CenterY="752.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.3.4.4" />
   </DataNode>
+  <DataNode TextLabel="Glycolysis &amp; gluconeogenesis" GraphId="f52d0" Type="Pathway">
+    <Graphics CenterX="536.0" CenterY="152.0" Width="192.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Xref Database="WikiPathways" ID="WP534" />
+  </DataNode>
   <DataNode TextLabel="2.1.3.2" GraphId="fa3" Type="GeneProduct">
-    <Graphics CenterX="819.6666666666666" CenterY="711.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="819.6666666666666" CenterY="711.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="2.1.3.2" />
   </DataNode>
   <DataNode TextLabel="4.3.2.2" GraphId="fa7" Type="GeneProduct">
-    <Graphics CenterX="1216.3333333333333" CenterY="926.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1216.3333333333333" CenterY="926.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="4.3.2.2" />
   </DataNode>
   <DataNode TextLabel="PC" GraphId="fb4" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PC | pyruvate carboxylase" />
-    <Graphics CenterX="370.3333333333333" CenterY="603.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="370.3333333333333" CenterY="603.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5091" />
   </DataNode>
   <DataNode TextLabel="GOT1" GraphId="fc5" Type="GeneProduct" GroupRef="b134d">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GOT1 | glutamic-oxaloacetic transaminase 1 sol..." />
-    <Graphics CenterX="722.6666666666666" CenterY="764.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="722.6666666666666" CenterY="764.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2805" />
   </DataNode>
   <DataNode TextLabel="6.3.5.4" GraphId="fd0" Type="GeneProduct">
-    <Graphics CenterX="1016.6666666666666" CenterY="974.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1016.6666666666666" CenterY="974.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.3.5.4" />
   </DataNode>
   <Interaction GraphId="a00c8">
@@ -443,7 +447,7 @@
   </Interaction>
   <Interaction GraphId="c5667">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="537.0" Y="167.83333333333334" GraphRef="d18" RelX="0.0" RelY="1.0" />
+      <Point X="536.0" Y="162.0" GraphRef="f52d0" RelX="0.0" RelY="1.0" />
       <Point X="536.6666666666666" Y="222.5" GraphRef="de4" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1013,9 +1017,6 @@
     <Comment Source="GenMAPP remarks">L-Aspartyl-tRNA(Asn)</Comment>
     <Graphics CenterX="1075.5" CenterY="1159.25" Width="77.0" Height="31.5" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Label TextLabel="Glycolysis / Gluconeogenesis" GraphId="d18">
-    <Graphics CenterX="537.0" CenterY="160.33333333333334" Width="169.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
-  </Label>
   <Label TextLabel="L-Aspartyl-tRNA(Asp)" GraphId="d33">
     <Graphics CenterX="869.3333333333334" CenterY="626.6666666666666" Width="125.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
@@ -1085,14 +1086,6 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="133.33333333333334" CenterY="129.95553333333334" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f1b">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19455135 </bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1105,6 +1098,14 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cornish-Bowden A</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C�rdenas ML</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dumas R</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
