@@ -1,474 +1,474 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r35092" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r38801" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau" Maintainer="Alexander C. Zambon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today. </Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="IRF4" GraphId="a02" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF4 | interferon regulatory factor 4" />
-    <Graphics CenterX="1096.6666666666667" CenterY="523.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1096.6666666666667" CenterY="523.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3662" />
   </DataNode>
   <DataNode TextLabel="MYC" GraphId="a21" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MYC | v-myc myelocytomatosis viral oncogene hom..." />
-    <Graphics CenterX="456.6666666666667" CenterY="676.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="456.6666666666667" CenterY="676.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4609" />
   </DataNode>
   <DataNode TextLabel="CYCS" GraphId="a28" Type="GeneProduct" GroupRef="f06d3">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CYCS | cytochrome c somatic" />
-    <Graphics CenterX="550.0" CenterY="463.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="550.0" CenterY="463.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="54205" />
   </DataNode>
   <DataNode TextLabel="CYCT" GraphId="a32" Type="GeneProduct" GroupRef="f06d3">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CYCT" />
-    <Graphics CenterX="550.0" CenterY="483.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="550.0" CenterY="483.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="CASP8" GraphId="a45" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP8 | caspase 8 apoptosis-related cysteine p..." />
-    <Graphics CenterX="780.0" CenterY="280.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="780.0" CenterY="280.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="841" />
   </DataNode>
   <DataNode TextLabel="DFFB" GraphId="a5f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DFFB | DNA fragmentation factor 40kDa beta po..." />
-    <Graphics CenterX="590.0" CenterY="682.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="590.0" CenterY="682.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1677" />
   </DataNode>
   <DataNode TextLabel="BIRC2" GraphId="a68" Type="GeneProduct" GroupRef="dbe72">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BIRC2 | baculoviral IAP repeat-containing 2" />
-    <Graphics CenterX="88.33333333333333" CenterY="283.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="88.33333333333333" CenterY="283.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="329" />
   </DataNode>
   <DataNode TextLabel="IRF5" GraphId="a6a" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF5 | interferon regulatory factor 5" />
-    <Graphics CenterX="1096.6666666666667" CenterY="543.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1096.6666666666667" CenterY="543.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3663" />
   </DataNode>
   <DataNode TextLabel="DIABLO" GraphId="a6b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DIABLO | diablo homolog (Drosophila)" />
-    <Graphics CenterX="626.6666666666666" CenterY="456.6666666666667" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="626.6666666666666" CenterY="456.6666666666667" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="56616" />
   </DataNode>
   <DataNode TextLabel="TNFRSF21" GraphId="a75" Type="GeneProduct" GroupRef="dfd25">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TNFRSF21 | tumor necrosis factor receptor super..." />
-    <Graphics CenterX="193.33333333333334" CenterY="204.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="193.33333333333334" CenterY="204.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="27242" />
   </DataNode>
   <DataNode TextLabel="BNIP3L" GraphId="a93" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BNIP3L | BCL2/adenovirus E1B 19kDa interacting ..." />
-    <Graphics CenterX="546.0" CenterY="322.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="546.0" CenterY="322.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="665" />
   </DataNode>
   <DataNode TextLabel="TNFSF10" GraphId="a9b" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TNFSF10 | tumor necrosis factor (ligand) superf..." />
-    <Graphics CenterX="190.0" CenterY="103.33333333333333" Width="66.66666666666667" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="190.0" CenterY="103.33333333333333" Width="66.66666666666667" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8743" />
   </DataNode>
   <DataNode TextLabel="JUN" GraphId="a9e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="JUN | v-jun sarcoma virus 17 oncogene homolog (..." />
-    <Graphics CenterX="370.0" CenterY="710.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="370.0" CenterY="710.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3725" />
   </DataNode>
   <DataNode TextLabel="NFKBIB" GraphId="aa1" Type="GeneProduct" GroupRef="defd7">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NFKBIB | nuclear factor of kappa light polypept..." />
-    <Graphics CenterX="117.33333333333333" CenterY="480.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="117.33333333333333" CenterY="480.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4793" />
   </DataNode>
   <DataNode TextLabel="APAF1" GraphId="aa8" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="APAF1 | apoptotic protease activating factor" />
-    <Graphics CenterX="696.6666666666666" CenterY="316.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="696.6666666666666" CenterY="316.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="317" />
   </DataNode>
   <DataNode TextLabel="RELA" GraphId="aba" Type="GeneProduct" GroupRef="defd7">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RELA | v-rel reticuloendotheliosis viral oncoge..." />
-    <Graphics CenterX="117.33333333333333" CenterY="560.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="117.33333333333333" CenterY="560.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5970" />
   </DataNode>
   <DataNode TextLabel="TNF" GraphId="ac5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TNF | tumor necrosis factor (TNF superfamily m..." />
-    <Graphics CenterX="286.6666666666667" CenterY="103.33333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="286.6666666666667" CenterY="103.33333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7124" />
   </DataNode>
   <DataNode TextLabel="CASP6" GraphId="ac6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP6 | caspase 6 apoptosis-related cysteine p..." />
-    <Graphics CenterX="1110.6666666666667" CenterY="260.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1110.6666666666667" CenterY="260.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="839" />
   </DataNode>
   <DataNode TextLabel="IRF2" GraphId="af7" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF2 | interferon regulatory factor 2" />
-    <Graphics CenterX="1010.0" CenterY="546.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1010.0" CenterY="546.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3660" />
   </DataNode>
   <DataNode TextLabel="LTA" GraphId="b09" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="LTA | lymphotoxin alpha (TNF superfamily membe..." />
-    <Graphics CenterX="110.0" CenterY="103.33333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="110.0" CenterY="103.33333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4049" />
   </DataNode>
   <DataNode TextLabel="NFKB1" GraphId="b67" Type="GeneProduct" GroupRef="c5ac6">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NFKB1 | nuclear factor of kappa light polypepti..." />
-    <Graphics CenterX="153.33333333333334" CenterY="662.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="153.33333333333334" CenterY="662.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4790" />
   </DataNode>
   <DataNode TextLabel="CDKN2A" GraphId="b98" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDKN2A | cyclin-dependent kinase inhibitor 2A (..." />
-    <Graphics CenterX="390.0" CenterY="656.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="390.0" CenterY="656.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1029" />
   </DataNode>
   <DataNode TextLabel="CASP7" GraphId="ba6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP7 | caspase 7 apoptosis-related cysteine p..." />
-    <Graphics CenterX="990.0" CenterY="336.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="990.0" CenterY="336.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="840" />
   </DataNode>
   <DataNode TextLabel="CRADD" GraphId="bd4" Type="GeneProduct" GroupRef="a85e8">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CRADD | CASP2 and RIPK1 domain containing adapt..." />
-    <Graphics CenterX="391.3333333333333" CenterY="228.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="391.3333333333333" CenterY="228.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8738" />
   </DataNode>
   <DataNode TextLabel="BAD" GraphId="bd8" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BAD | BCL2-antagonist of cell death" />
-    <Graphics CenterX="1253.3333333333333" CenterY="376.6666666666667" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1253.3333333333333" CenterY="376.6666666666667" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="572" />
   </DataNode>
   <DataNode TextLabel="DFFA" GraphId="bdb" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DFFA | DNA fragmentation factor 45kDa alpha p..." />
-    <Graphics CenterX="590.6666666666666" CenterY="735.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="590.6666666666666" CenterY="735.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1676" />
   </DataNode>
   <DataNode TextLabel="BAK1" GraphId="c02" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BAK1 | BCL2-antagonist/killer 1" />
-    <Graphics CenterX="396.6666666666667" CenterY="263.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="396.6666666666667" CenterY="263.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="578" />
   </DataNode>
   <DataNode TextLabel="TNFRSF1A" GraphId="c09" Type="GeneProduct" GroupRef="d59c4">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TNFRSF1A | tumor necrosis factor receptor super..." />
-    <Graphics CenterX="93.33333333333333" CenterY="201.33333333333334" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="93.33333333333333" CenterY="201.33333333333334" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7132" />
   </DataNode>
   <DataNode TextLabel="TNFRSF10B" GraphId="c17" Type="GeneProduct" GroupRef="dfd25">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TNFRSF10B | tumor necrosis factor receptor supe..." />
-    <Graphics CenterX="193.33333333333334" CenterY="184.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="193.33333333333334" CenterY="184.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8795" />
   </DataNode>
   <DataNode TextLabel="RELA" GraphId="c1a" Type="GeneProduct" GroupRef="c5ac6">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RELA | v-rel reticuloendotheliosis viral oncoge..." />
-    <Graphics CenterX="153.33333333333334" CenterY="682.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="153.33333333333334" CenterY="682.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5970" />
   </DataNode>
   <DataNode TextLabel="CHUK" GraphId="c39" Type="GeneProduct" GroupRef="cb605">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHUK | conserved helix-loop-helix ubiquitous ki..." />
-    <Graphics CenterX="102.33333333333333" CenterY="363.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="102.33333333333333" CenterY="363.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1147" />
   </DataNode>
   <DataNode TextLabel="HRK" GraphId="c3d" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HRK | harakiri BCL2 interacting protein (conta..." />
-    <Graphics CenterX="615.3333333333334" CenterY="334.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="615.3333333333334" CenterY="334.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8739" />
   </DataNode>
   <DataNode TextLabel="CASP2" GraphId="c90" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP2 | caspase 2 apoptosis-related cysteine p..." />
-    <Graphics CenterX="990.0" CenterY="360.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="990.0" CenterY="360.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="835" />
   </DataNode>
   <DataNode TextLabel="BOK" GraphId="ca7" Type="GeneProduct" GroupRef="ff56d">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BOK | BCL2-related ovarian killer" />
-    <Graphics CenterX="523.3333333333334" CenterY="647.3333333333334" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="523.3333333333334" CenterY="647.3333333333334" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="666" />
   </DataNode>
   <DataNode TextLabel="BCL2L11" GraphId="cb6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BCL2L11 | BCL2-like 11 (apoptosis facilitator)" />
-    <Graphics CenterX="486.6666666666667" CenterY="292.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="486.6666666666667" CenterY="292.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="10018" />
   </DataNode>
   <DataNode TextLabel="CASP1" GraphId="cbb" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP1 | caspase 1 apoptosis-related cysteine p..." />
-    <Graphics CenterX="1074.0" CenterY="216.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1074.0" CenterY="216.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="834" />
   </DataNode>
   <DataNode TextLabel="TP53" GraphId="cbf" Type="GeneProduct">
     <BiopaxRef>c76</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TP53 | tumor protein p53 (Li-Fraumeni syndrome)..." />
-    <Graphics CenterX="432.0" CenterY="605.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="432.0" CenterY="605.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7157" />
   </DataNode>
   <DataNode TextLabel="CASP4" GraphId="cc5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP4 | caspase 4 apoptosis-related cysteine p..." />
-    <Graphics CenterX="1003.3333333333334" CenterY="190.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1003.3333333333334" CenterY="190.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="837" />
   </DataNode>
   <DataNode TextLabel="BIRC5" GraphId="cc6" Type="GeneProduct" GroupRef="a904c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BIRC5 | baculoviral IAP repeat-containing 5 (su..." />
-    <Graphics CenterX="843.3333333333334" CenterY="420.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="843.3333333333334" CenterY="420.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="332" />
   </DataNode>
   <DataNode TextLabel="CASP3" GraphId="cd5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP3 | caspase 3 apoptosis-related cysteine p..." />
-    <Graphics CenterX="990.0" CenterY="313.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="990.0" CenterY="313.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="836" />
   </DataNode>
   <DataNode TextLabel="BIRC3" GraphId="ce0" Type="GeneProduct" GroupRef="dbe72">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BIRC3 | baculoviral IAP repeat-containing 3" />
-    <Graphics CenterX="88.33333333333333" CenterY="303.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="88.33333333333333" CenterY="303.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="330" />
   </DataNode>
   <DataNode TextLabel="MAP3K1" GraphId="cec" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MAP3K1 | mitogen-activated protein kinase kinas..." />
-    <Graphics CenterX="303.3333333333333" CenterY="313.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="303.3333333333333" CenterY="313.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4214" />
   </DataNode>
   <DataNode TextLabel="TNFRSF1B" GraphId="ced" Type="GeneProduct" GroupRef="e97a7">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TNFRSF1B | tumor necrosis factor receptor super..." />
-    <Graphics CenterX="296.6666666666667" CenterY="186.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="296.6666666666667" CenterY="186.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7133" />
   </DataNode>
   <DataNode TextLabel="GZMB" GraphId="d0c" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GZMB | granzyme B (granzyme 2 cytotoxic T-lymp..." />
-    <Graphics CenterX="540.0" CenterY="70.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="540.0" CenterY="70.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3002" />
   </DataNode>
   <DataNode TextLabel="NFKBIA" GraphId="d21" Type="GeneProduct" GroupRef="defd7">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NFKBIA | nuclear factor of kappa light polypept..." />
-    <Graphics CenterX="117.33333333333333" CenterY="520.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="117.33333333333333" CenterY="520.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4792" />
   </DataNode>
   <DataNode TextLabel="IGF1R" GraphId="d2c" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IGF1R | insulin-like growth factor 1 receptor" />
-    <Graphics CenterX="1253.3333333333333" CenterY="216.66666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1253.3333333333333" CenterY="216.66666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3480" />
   </DataNode>
   <DataNode TextLabel="FADD" GraphId="d37" Type="GeneProduct" GroupRef="f44cf">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FADD | Fas (TNFRSF6)-associated via death domai..." />
-    <Graphics CenterX="507.3333333333333" CenterY="182.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="507.3333333333333" CenterY="182.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8772" />
   </DataNode>
   <DataNode TextLabel="TRADD" GraphId="d39" Type="GeneProduct" GroupRef="f44cf">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TRADD | TNFRSF1A-associated via death domain" />
-    <Graphics CenterX="507.3333333333333" CenterY="202.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="507.3333333333333" CenterY="202.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8717" />
   </DataNode>
   <DataNode TextLabel="IGF2" GraphId="d3e" Type="GeneProduct" GroupRef="d7a6b">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IGF2 | insulin-like growth factor 2 (somatomedi..." />
-    <Graphics CenterX="1253.3333333333333" CenterY="166.66666666666666" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1253.3333333333333" CenterY="166.66666666666666" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3481" />
   </DataNode>
   <DataNode TextLabel="MAPK10" GraphId="d43" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MAPK10 | mitogen-activated protein kinase 10" />
-    <Graphics CenterX="302.0" CenterY="425.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="302.0" CenterY="425.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5602" />
   </DataNode>
   <DataNode TextLabel="FAS" GraphId="d44" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FAS | Fas (TNF receptor superfamily member 6)" />
-    <Graphics CenterX="720.0" CenterY="126.66666666666667" Width="66.66666666666667" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="720.0" CenterY="126.66666666666667" Width="66.66666666666667" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="355" />
   </DataNode>
   <DataNode TextLabel="HELLS" GraphId="d45" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HELLS | helicase lymphoid-specific" />
-    <Graphics CenterX="283.3333333333333" CenterY="650.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="283.3333333333333" CenterY="650.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3070" />
   </DataNode>
   <DataNode TextLabel="AKT1" GraphId="d5d" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AKT1 | v-akt murine thymoma viral oncogene homo..." />
-    <Graphics CenterX="1253.3333333333333" CenterY="326.6666666666667" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1253.3333333333333" CenterY="326.6666666666667" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="207" />
   </DataNode>
   <DataNode TextLabel="RIPK1" GraphId="d64" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RIPK1 | receptor (TNFRSF)-interacting serine-th..." />
-    <Graphics CenterX="29.333333333333332" CenterY="393.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="29.333333333333332" CenterY="393.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8737" />
   </DataNode>
   <DataNode TextLabel="BAD" GraphId="d71" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BAD | BCL2-antagonist of cell death" />
-    <Graphics CenterX="460.6666666666667" CenterY="324.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="460.6666666666667" CenterY="324.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="572" />
   </DataNode>
   <DataNode TextLabel="BCL2" GraphId="d79" Type="GeneProduct" GroupRef="c2232">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BCL2 | B-cell CLL/lymphoma 2" />
-    <Graphics CenterX="396.6666666666667" CenterY="382.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="396.6666666666667" CenterY="382.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="596" />
   </DataNode>
   <DataNode TextLabel="CASP9" GraphId="d80" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP9 | caspase 9 apoptosis-related cysteine p..." />
-    <Graphics CenterX="786.6666666666666" CenterY="343.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="786.6666666666666" CenterY="343.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="842" />
   </DataNode>
   <DataNode TextLabel="NFKBIB" GraphId="d93" Type="GeneProduct" GroupRef="e38bb">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NFKBIB | nuclear factor of kappa light polypept..." />
-    <Graphics CenterX="236.0" CenterY="512.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="236.0" CenterY="512.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4793" />
   </DataNode>
   <DataNode TextLabel="NFKBIE" GraphId="db3" Type="GeneProduct" GroupRef="e38bb">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NFKBIE | nuclear factor of kappa light polypept..." />
-    <Graphics CenterX="236.0" CenterY="532.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="236.0" CenterY="532.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4794" />
   </DataNode>
   <DataNode TextLabel="BIRC4" GraphId="dc5" Type="GeneProduct" GroupRef="a904c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BIRC4 | baculoviral IAP repeat-containing 4" />
-    <Graphics CenterX="843.3333333333334" CenterY="400.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="843.3333333333334" CenterY="400.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="331" />
   </DataNode>
   <DataNode TextLabel="NFKBIE" GraphId="dd3" Type="GeneProduct" GroupRef="defd7">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NFKBIE | nuclear factor of kappa light polypept..." />
-    <Graphics CenterX="117.33333333333333" CenterY="500.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="117.33333333333333" CenterY="500.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4794" />
   </DataNode>
   <DataNode TextLabel="BID" GraphId="dde" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BID | BH3 interacting domain death agonist" />
-    <Graphics CenterX="586.0" CenterY="293.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="586.0" CenterY="293.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="637" />
   </DataNode>
   <DataNode TextLabel="TRAF2" GraphId="def" Type="GeneProduct" GroupRef="ffcf1">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TRAF2 | TNF receptor-associated factor 2" />
-    <Graphics CenterX="192.33333333333334" CenterY="298.6666666666667" Width="60.0" Height="21.333333333333332" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="192.33333333333334" CenterY="298.6666666666667" Width="60.0" Height="21.333333333333332" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7186" />
   </DataNode>
   <DataNode TextLabel="TRADD" GraphId="e0c" Type="GeneProduct" GroupRef="d59c4">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TRADD | TNFRSF1A-associated via death domain" />
-    <Graphics CenterX="93.33333333333333" CenterY="221.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="93.33333333333333" CenterY="221.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8717" />
   </DataNode>
   <DataNode TextLabel="MAP2K4" GraphId="e16" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MAP2K4 | mitogen-activated protein kinase kinas..." />
-    <Graphics CenterX="302.6666666666667" CenterY="369.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="302.6666666666667" CenterY="369.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="6416" />
   </DataNode>
   <DataNode TextLabel="PRF1" GraphId="e23" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRF1 | perforin 1 (pore forming protein)" />
-    <Graphics CenterX="605.3333333333334" CenterY="143.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="605.3333333333334" CenterY="143.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5551" />
   </DataNode>
   <DataNode TextLabel="IRF3" GraphId="e31" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF3 | interferon regulatory factor 3" />
-    <Graphics CenterX="1010.0" CenterY="566.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1010.0" CenterY="566.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3661" />
   </DataNode>
   <DataNode TextLabel="TRAF3" GraphId="e37" Type="GeneProduct" GroupRef="ffcf1">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TRAF3 | TNF receptor-associated factor 3" />
-    <Graphics CenterX="192.33333333333334" CenterY="319.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="192.33333333333334" CenterY="319.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7187" />
   </DataNode>
   <DataNode TextLabel="IRF7" GraphId="e68" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF7 | interferon regulatory factor 7" />
-    <Graphics CenterX="1190.0" CenterY="543.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1190.0" CenterY="543.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3665" />
   </DataNode>
   <DataNode TextLabel="IKBKG" GraphId="e69" Type="GeneProduct" GroupRef="cb605">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IKBKG | inhibitor of kappa light polypeptide ge..." />
-    <Graphics CenterX="102.33333333333333" CenterY="403.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="102.33333333333333" CenterY="403.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8517" />
   </DataNode>
   <DataNode TextLabel="NFKB1" GraphId="e75" Type="GeneProduct" GroupRef="defd7">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NFKB1 | nuclear factor of kappa light polypepti..." />
-    <Graphics CenterX="117.33333333333333" CenterY="540.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="117.33333333333333" CenterY="540.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4790" />
   </DataNode>
   <DataNode TextLabel="TRAF1" GraphId="ea1" Type="GeneProduct" GroupRef="ffcf1">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TRAF1 | TNF receptor-associated factor 1" />
-    <Graphics CenterX="192.33333333333334" CenterY="278.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="192.33333333333334" CenterY="278.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7185" />
   </DataNode>
   <DataNode TextLabel="TP73" GraphId="eba" Type="GeneProduct" GroupRef="ebfe0">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TP73 | tumor protein p73" />
-    <Graphics CenterX="860.0" CenterY="540.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="860.0" CenterY="540.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7161" />
   </DataNode>
   <DataNode TextLabel="TP63" GraphId="ebc" Type="GeneProduct" GroupRef="ebfe0">
-    <Graphics CenterX="860.0" CenterY="560.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="860.0" CenterY="560.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8626" />
   </DataNode>
   <DataNode TextLabel="IRF6" GraphId="ecc" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF6 | interferon regulatory factor 6" />
-    <Graphics CenterX="1096.6666666666667" CenterY="563.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1096.6666666666667" CenterY="563.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3664" />
   </DataNode>
   <DataNode TextLabel="CFLAR" GraphId="ecf" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CFLAR | CASP8 and FADD-like apoptosis regulator..." />
-    <Graphics CenterX="444.0" CenterY="112.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="444.0" CenterY="112.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8837" />
   </DataNode>
   <DataNode TextLabel="CASP10" GraphId="eed" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP10 | caspase 10 apoptosis-related cysteine..." />
-    <Graphics CenterX="826.6666666666666" CenterY="256.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="826.6666666666666" CenterY="256.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="843" />
   </DataNode>
   <DataNode TextLabel="TNFRSF1A" GraphId="f02" Type="GeneProduct" GroupRef="a85e8">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TNFRSF1A | tumor necrosis factor receptor super..." />
-    <Graphics CenterX="391.3333333333333" CenterY="208.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="391.3333333333333" CenterY="208.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7132" />
   </DataNode>
   <DataNode TextLabel="PIK3R1" GraphId="f13" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PIK3R1 | phosphoinositide-3-kinase regulatory ..." />
-    <Graphics CenterX="1253.3333333333333" CenterY="276.6666666666667" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1253.3333333333333" CenterY="276.6666666666667" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5295" />
   </DataNode>
   <DataNode TextLabel="BCL2L2" GraphId="f1a" Type="GeneProduct" GroupRef="c2232">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BCL2L2 | BCL2-like 2" />
-    <Graphics CenterX="396.6666666666667" CenterY="342.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="396.6666666666667" CenterY="342.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="599" />
   </DataNode>
   <DataNode TextLabel="CASP11" GraphId="f2e" Type="GeneProduct">
-    <Graphics CenterX="933.3333333333334" CenterY="216.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="933.3333333333334" CenterY="216.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="" />
   </DataNode>
   <DataNode TextLabel="NFKBIA" GraphId="f31" Type="GeneProduct" GroupRef="e38bb">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NFKBIA | nuclear factor of kappa light polypept..." />
-    <Graphics CenterX="236.0" CenterY="552.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="236.0" CenterY="552.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4792" />
   </DataNode>
   <DataNode TextLabel="IRF1" GraphId="f5a" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF1 | interferon regulatory factor 1" />
-    <Graphics CenterX="1010.0" CenterY="526.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1010.0" CenterY="526.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3659" />
   </DataNode>
   <DataNode TextLabel="RIPK1" GraphId="f61" Type="GeneProduct" GroupRef="f44cf">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="RIPK1 | receptor (TNFRSF)-interacting serine-th..." />
-    <Graphics CenterX="507.3333333333333" CenterY="162.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="507.3333333333333" CenterY="162.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8737" />
   </DataNode>
   <DataNode TextLabel="TNFRSF25" GraphId="f66" Type="GeneProduct" GroupRef="d59c4">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TNFRSF25 | tumor necrosis factor receptor super..." />
-    <Graphics CenterX="93.33333333333333" CenterY="181.33333333333334" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="93.33333333333333" CenterY="181.33333333333334" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8718" />
   </DataNode>
   <DataNode TextLabel="MDM2" GraphId="f68" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MDM2 | Mdm2 transformed 3T3 cell double minute..." />
-    <Graphics CenterX="370.0" CenterY="570.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="370.0" CenterY="570.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4193" />
   </DataNode>
   <DataNode TextLabel="BBC3" GraphId="fa6" Type="GeneProduct" GroupRef="ff56d">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BBC3 | BCL2 binding component 3" />
-    <Graphics CenterX="523.3333333333334" CenterY="608.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="523.3333333333334" CenterY="608.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="27113" />
   </DataNode>
   <DataNode TextLabel="BAX" GraphId="fac" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BAX | BCL2-associated X protein" />
-    <Graphics CenterX="413.3333333333333" CenterY="433.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="413.3333333333333" CenterY="433.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="581" />
   </DataNode>
   <DataNode TextLabel="IKBKB" GraphId="fd3" Type="GeneProduct" GroupRef="cb605">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IKBKB | inhibitor of kappa light polypeptide ge..." />
-    <Graphics CenterX="102.33333333333333" CenterY="383.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="102.33333333333333" CenterY="383.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3551" />
   </DataNode>
   <DataNode TextLabel="IGF1" GraphId="fd7" Type="GeneProduct" GroupRef="d7a6b">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IGF1 | insulin-like growth factor 1 (somatomedi..." />
-    <Graphics CenterX="1253.3333333333333" CenterY="146.66666666666666" Width="40.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1253.3333333333333" CenterY="146.66666666666666" Width="40.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3479" />
   </DataNode>
   <DataNode TextLabel="PMAIP1" GraphId="fe0" Type="GeneProduct" GroupRef="ff56d">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PMAIP1 | phorbol-12-myristate-13-acetate-induce..." />
-    <Graphics CenterX="523.3333333333334" CenterY="628.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="523.3333333333334" CenterY="628.0" Width="53.333333333333336" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5366" />
   </DataNode>
   <DataNode TextLabel="MCL1" GraphId="fe5" Type="GeneProduct" GroupRef="c2232">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MCL1 | myeloid cell leukemia sequence 1 (BCL2-r..." />
-    <Graphics CenterX="396.6666666666667" CenterY="402.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="396.6666666666667" CenterY="402.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4170" />
   </DataNode>
   <DataNode TextLabel="BCL2L1" GraphId="fed" Type="GeneProduct" GroupRef="c2232">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BCL2L1 | BCL2-like 1" />
-    <Graphics CenterX="396.6666666666667" CenterY="362.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="396.6666666666667" CenterY="362.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="598" />
   </DataNode>
   <DataNode TextLabel="FASLG" GraphId="ff0" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FASLG | Fas ligand (TNF superfamily member 6)" />
-    <Graphics CenterX="720.0" CenterY="66.66666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="720.0" CenterY="66.66666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="356" />
   </DataNode>
   <Interaction GraphId="a147d">
@@ -637,7 +637,7 @@
   <Interaction GraphId="bb394">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="586.0" Y="303.3333333333333" GraphRef="dde" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" GraphRef="ce7" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -800,14 +800,14 @@
   <Interaction GraphId="d88b2">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="460.6666666666667" Y="334.6666666666667" GraphRef="d71" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" GraphRef="ce7" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="d9f4f">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="615.3333333333334" Y="344.0" GraphRef="c3d" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" GraphRef="ce7" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -821,7 +821,7 @@
   <Interaction GraphId="e0190">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="546.0" Y="332.0" GraphRef="a93" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" GraphRef="ce7" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -856,7 +856,7 @@
   <Interaction GraphId="e2a45">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
       <Point X="434.6666666666667" Y="372.3333333333333" GraphRef="f3348" RelX="1.0" RelY="0.0" />
-      <Point X="560.0" Y="403.33333333333337" GraphRef="ce7" RelX="0.0" RelY="-1.0" ArrowHead="TBar" />
+      <Point X="560.0" Y="403.33333333333337" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -870,7 +870,7 @@
   <Interaction GraphId="e9678">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="443.3333333333333" Y="433.3333333333333" GraphRef="fac" RelX="1.0" RelY="0.0" />
-      <Point X="560.0" Y="403.33333333333337" GraphRef="ce7" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -906,7 +906,7 @@
   <Interaction GraphId="f11ae">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="486.66666666666674" Y="302.6666666666667" GraphRef="cb6" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" GraphRef="ce7" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -1007,17 +1007,17 @@
   <Label TextLabel="Apoptosis" GraphId="fff">
     <Graphics CenterX="283.3333333333333" CenterY="716.6666666666666" Width="83.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
+  <Shape GraphId="a6d06">
+    <Graphics CenterX="563.0" CenterY="466.75" Width="214.0" Height="136.5" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Mitochondria" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
+  </Shape>
   <Shape GraphId="c45" GroupRef="e97a7">
-    <Graphics CenterX="192.66666666666666" CenterY="162.0" Width="283.5403333333333" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="12" Valign="Middle" ShapeType="Brace" Rotation="0.0" />
+    <Graphics CenterX="192.66666666666666" CenterY="162.0" Width="283.5403333333333" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Brace" Rotation="0.0" />
   </Shape>
   <Shape GraphId="cb0">
-    <Graphics CenterX="220.0" CenterY="388.0" Width="75.28696" Height="26.719506666666668" ZOrder="16384" FillColor="ffffff" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.08396508" />
-  </Shape>
-  <Shape GraphId="ce7">
-    <Graphics CenterX="560.0" CenterY="466.6666666666667" Width="200.444" Height="126.66666666666667" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
+    <Graphics CenterX="220.0" CenterY="388.0" Width="75.28696" Height="26.719506666666668" ZOrder="16384" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.08396508" />
   </Shape>
   <Shape GraphId="d22">
-    <Graphics CenterX="1020.0" CenterY="540.0" Width="466.75693333333334" Height="113.2878" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="1020.0" CenterY="540.0" Width="466.75693333333334" Height="113.2878" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
   <Group GroupId="f06d3" GraphId="a995e" />
   <Group GroupId="d7a6b" GraphId="afd71" />
