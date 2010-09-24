@@ -60,8 +60,6 @@
 |Nicotinate and nicotinamide metabolism | Pathway |  |  |
 |Reductive carboxylate
 cycle (CO2 fixation) | Pathway |  |  |
-|L-Asparaginyl-tRNA(Asn) | Metabolite |  |  |
-|L-Asparaginyl-tRNA(Asn) | Metabolite |  |  |
 |2-Oxoglutarate | Metabolite |  |  |
 |Succinate | Metabolite |  |  |
 |Fumarate | Metabolite |  |  |
@@ -78,3 +76,13 @@ cycle (CO2 fixation) | Pathway |  |  |
 |Arginine and Proline metabolism | Pathway |  |  |
 |Urea cycel and metabolism of amino groups | Pathway | WP497 |  |
 |beta-Alanine metabolism | Pathway |  |  |
+|Lysine biosynthesis | Pathway |  |  |
+|Glycine, serine and threonine metabolism | Pathway |  |  |
+|Nicotinate and nicotinamide metabolism | Pathway |  |  |
+|tRNA (Asn) | GeneProduct |  |  |
+|L-Asparagine acid | Metabolite |  |  |
+|L-Argininosuccinate | Metabolite |  |  |
+|tRNA(Asp) | GeneProduct |  |  |
+|L-Aspartic acid | Metabolite |  |  |
+|L-Asparagine acid | Metabolite |  |  |
+|tRNA (Asn) | GeneProduct |  |  |
