@@ -57,3 +57,6 @@
 |Reductive carboxylate cycle (CO2 fixation) | Pathway |  |  |
 |Pantothenate and CoA biosynthesis | Pathway |  |  |
 |Pyrimidine metabolism | Pathway |  |  |
+|Nicotinate and nicotinamide metabolism | Pathway |  |  |
+|Reductive carboxylate
+cycle (CO2 fixation) | Pathway |  |  |
