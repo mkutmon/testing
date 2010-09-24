@@ -69,3 +69,12 @@ cycle (CO2 fixation) | Pathway |  |  |
 |2-Oxosuccinamate | Metabolite |  |  |
 |N-Acetyl-L-aspartate | Metabolite |  |  |
 |Citrate | Metabolite |  |  |
+|N-Carbamoyl-L-aspartate | Metabolite |  |  |
+|D-aspartate | Metabolite |  |  |
+|Malonate semialdehyde | Metabolite |  |  |
+|L-aspartate | Metabolite |  |  |
+|Adenylosuccinate | Metabolite |  |  |
+|Histidine metabolism | Pathway |  |  |
+|Arginine and Proline metabolism | Pathway |  |  |
+|Urea cycel and metabolism of amino groups | Pathway | WP497 |  |
+|beta-Alanine metabolism | Pathway |  |  |
