@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r38925" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r38931" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel" Organism="Homo sapiens">
   <BiopaxRef>e65</BiopaxRef>
   <BiopaxRef>f1b</BiopaxRef>
-  <Graphics BoardWidth="1311.4999999999998" BoardHeight="1216.6666666666667" />
+  <Graphics BoardWidth="1311.4999999999998" BoardHeight="1242.0" />
   <DataNode TextLabel="Fatty acid metabolism" GraphId="d5a97" Type="Pathway">
     <Graphics CenterX="460.0" CenterY="553.3333333333334" Width="129.33333333333334" Height="15.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP143" />
   </DataNode>
   <DataNode TextLabel="3.5.1.3" GraphId="a3a" Type="GeneProduct">
-    <Graphics CenterX="420.3333333333333" CenterY="1012.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="421.3333333333333" CenterY="1020.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="3.5.1.3" />
   </DataNode>
   <DataNode TextLabel="GOT2" GraphId="a43" Type="GeneProduct" GroupRef="b134d">
@@ -39,7 +39,7 @@
     <Xref Database="" ID="4.1.1.11" />
   </DataNode>
   <DataNode TextLabel="1.4.3.2" GraphId="ae1" Type="GeneProduct" GroupRef="dfc9e">
-    <Graphics CenterX="721.6666666666666" CenterY="933.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="599.6666666666666" CenterY="971.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="1.4.3.2" />
   </DataNode>
   <DataNode TextLabel="4.1.1.12" GraphId="afd" Type="GeneProduct">
@@ -53,7 +53,7 @@
   </DataNode>
   <DataNode TextLabel="ASPA" GraphId="b10" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASPA | aspartoacylase (aminoacylase 2 Canavan ..." />
-    <Graphics CenterX="800.6666666666666" CenterY="953.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="749.6666666666666" CenterY="945.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="443" />
   </DataNode>
   <DataNode TextLabel="D-Alanine" GraphId="b23" Type="Metabolite">
@@ -85,7 +85,7 @@
     <Xref Database="Entrez Gene" ID="189" />
   </DataNode>
   <DataNode TextLabel="6.3.1.1" GraphId="c02" Type="GeneProduct">
-    <Graphics CenterX="946.0" CenterY="980.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="919.0" CenterY="945.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.3.1.1" />
   </DataNode>
   <DataNode TextLabel="1.2.1.18" GraphId="c1a" Type="GeneProduct">
@@ -110,28 +110,36 @@
     <Graphics CenterX="815.6666666666666" CenterY="786.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="3.5.1.7" />
   </DataNode>
+  <DataNode TextLabel="N-Acetyl-L-aspartate" GraphId="c83b6" Type="Metabolite">
+    <Graphics CenterX="724.5" CenterY="1006.0" Width="107.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="Pyrimidine metabolism" GraphId="c8f0c" Type="Pathway">
     <Graphics CenterX="650.5" CenterY="387.0" Width="143.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="6.3.5.6" GraphId="ca3" Type="GeneProduct">
-    <Graphics CenterX="1003.6666666666666" CenterY="1159.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1024.6666666666665" CenterY="1202.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.3.5.6" />
   </DataNode>
   <DataNode TextLabel="3.5.1.38" GraphId="cba" Type="GeneProduct" GroupRef="cf1aa">
-    <Graphics CenterX="874.6666666666666" CenterY="965.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="827.6666666666666" CenterY="977.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="3.5.1.38" />
   </DataNode>
   <DataNode TextLabel="4.3.1.1" GraphId="cc2" Type="GeneProduct">
     <Graphics CenterX="1128.0" CenterY="1014.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="4.3.1.1" />
   </DataNode>
+  <DataNode TextLabel="L-Asparaginyl-tRNA(Asn)" GraphId="cc2ac" Type="Metabolite">
+    <Graphics CenterX="917.5" CenterY="1166.0" Width="131.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="2.3.1.7" GraphId="cc7" Type="GeneProduct">
     <Graphics CenterX="472.3333333333333" CenterY="438.3333333333333" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="2.3.1.7" />
   </DataNode>
   <DataNode TextLabel="1.4.3.15" GraphId="cfc" Type="GeneProduct" GroupRef="dd7c3">
-    <Graphics CenterX="588.0" CenterY="796.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="586.0" CenterY="821.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="1.4.3.15" />
   </DataNode>
   <DataNode TextLabel="D-Ala metabolism" GraphId="cff02" Type="Pathway">
@@ -140,35 +148,47 @@
   </DataNode>
   <DataNode TextLabel="Malate" GraphId="d06" Type="Metabolite">
     <Comment Source="GenMAPP remarks">(S)-Malate</Comment>
-    <Graphics CenterX="120.0" CenterY="960.0" Width="43.333333333333336" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="116.83333333333333" CenterY="962.75" Width="49.66666666666666" Height="20.5" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="617-48-1" />
   </DataNode>
   <DataNode TextLabel="3.5.1.1" GraphId="d0b" Type="GeneProduct" GroupRef="cf1aa">
-    <Graphics CenterX="874.6666666666666" CenterY="985.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="827.6666666666666" CenterY="997.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="3.5.1.1" />
   </DataNode>
   <DataNode TextLabel="Cyanoamino acid metabolism" GraphId="d1d97" Type="Pathway">
     <Graphics CenterX="814.5" CenterY="36.0" Width="171.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="" ID="" />
   </DataNode>
+  <DataNode TextLabel="Succinate" GraphId="d35fd" Type="Metabolite">
+    <Graphics CenterX="113.0" CenterY="1116.0" Width="62.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="6.3.2.11" GraphId="d4b" Type="GeneProduct">
     <Graphics CenterX="805.0" CenterY="443.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.3.2.11" />
   </DataNode>
+  <DataNode TextLabel="Citrate" GraphId="d60d1" Type="Metabolite">
+    <Graphics CenterX="534.5" CenterY="962.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="1.4.3.16" GraphId="d6e" Type="GeneProduct" GroupRef="dfc9e">
-    <Graphics CenterX="721.6666666666666" CenterY="953.6667073567709" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="599.6666666666666" CenterY="991.6667073567709" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="1.4.3.16" />
   </DataNode>
   <DataNode TextLabel="6.1.1.22" GraphId="d73" Type="GeneProduct">
-    <Graphics CenterX="950.0" CenterY="1102.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="892.0" CenterY="1103.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.1.1.22" />
   </DataNode>
   <DataNode TextLabel="2.6.1.18" GraphId="d7d" Type="GeneProduct" GroupRef="ba4cb">
     <Graphics CenterX="614.6666666666666" CenterY="506.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="2.6.1.18" />
   </DataNode>
+  <DataNode TextLabel="Oxaloacetate" GraphId="da543" Type="Metabolite">
+    <Graphics CenterX="370.0" CenterY="962.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="2.6.1.14" GraphId="daf" Type="GeneProduct">
-    <Graphics CenterX="715.3333333333334" CenterY="1051.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="714.3333333333334" CenterY="1102.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="2.6.1.14" />
   </DataNode>
   <DataNode TextLabel="6.1.1.7" GraphId="e4d" Type="GeneProduct">
@@ -199,8 +219,12 @@
   </DataNode>
   <DataNode TextLabel="L-Asparagine" GraphId="eab" Type="Metabolite">
     <Comment Source="GenMAPP remarks">L-Asparagine</Comment>
-    <Graphics CenterX="950.0" CenterY="1055.0" Width="81.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="950.0" CenterY="1062.0" Width="81.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="70-47-3" />
+  </DataNode>
+  <DataNode TextLabel="2-Oxoglutarate" GraphId="eaf40" Type="Metabolite">
+    <Graphics CenterX="373.0" CenterY="1116.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="O-Acetylcarnitine" GraphId="ed0" Type="Metabolite">
     <Graphics CenterX="523.3333333333334" CenterY="382.3333333333333" Width="103.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -212,7 +236,7 @@
     <Xref Database="CAS" ID="305-84-0" />
   </DataNode>
   <DataNode TextLabel="1.4.3.1" GraphId="f00" Type="GeneProduct" GroupRef="dd7c3">
-    <Graphics CenterX="588.0" CenterY="816.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="586.0" CenterY="841.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="1.4.3.1" />
   </DataNode>
   <DataNode TextLabel="ASS" GraphId="f21" Type="GeneProduct">
@@ -227,6 +251,10 @@
   <DataNode TextLabel="Glycolysis &amp; gluconeogenesis" GraphId="f52d0" Type="Pathway">
     <Graphics CenterX="536.0" CenterY="152.0" Width="192.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP534" />
+  </DataNode>
+  <DataNode TextLabel="Fumarate" GraphId="f5c18" Type="Metabolite">
+    <Graphics CenterX="50.0" CenterY="1044.0" Width="64.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="2.1.3.2" GraphId="fa3" Type="GeneProduct">
     <Graphics CenterX="819.6666666666666" CenterY="711.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -250,18 +278,26 @@
     <Graphics CenterX="471.66666666666663" CenterY="839.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="2805" />
   </DataNode>
+  <DataNode TextLabel="L-Asparaginyl-tRNA(Asn)" GraphId="fc60c" Type="Metabolite">
+    <Graphics CenterX="1120.5" CenterY="1166.0" Width="131.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="6.3.5.4" GraphId="fd0" Type="GeneProduct">
-    <Graphics CenterX="1016.6666666666666" CenterY="974.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1051.6666666666663" CenterY="920.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="" ID="6.3.5.4" />
   </DataNode>
   <DataNode TextLabel="Reductive carboxylate&#xA;cycle (CO2 fixation)" GraphId="fd73c" Type="Pathway">
     <Graphics CenterX="213.5" CenterY="1011.5" Width="137.0" Height="33.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="" ID="" />
   </DataNode>
+  <DataNode TextLabel="2-Oxosuccinamate" GraphId="fee4c" Type="Metabolite">
+    <Graphics CenterX="370.0" CenterY="1062.0" Width="104.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <Interaction GraphId="a00c8">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="909.3333333333333" Y="1055.0" GraphRef="eab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="426.9999999999999" Y="1050.0" GraphRef="f76" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="909.3333333333333" Y="1062.0" GraphRef="eab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="422.0" Y="1062.0" GraphRef="fee4c" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="c6529" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -275,8 +311,8 @@
   </Interaction>
   <Interaction GraphId="a37ff">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="946.0" Y="970.3333333333334" GraphRef="c02" RelX="0.0" RelY="-1.0" />
-      <Point X="950.0" Y="984.7592592592592" GraphRef="d9628" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="919.0" Y="955.3333333333334" GraphRef="c02" RelX="0.0" RelY="1.0" />
+      <Point X="950.0" Y="988.6222222222223" GraphRef="d9628" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -291,7 +327,7 @@
   <Interaction GraphId="a90e2">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="913.8333333333333" Y="900.0" GraphRef="f24" RelX="-1.0" RelY="0.0" />
-      <Point X="390.3333333333333" Y="952.5" GraphRef="afb" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="390.0" Y="952.0" GraphRef="da543" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.7682648834844306" Shape="None" GraphId="a4f1d" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -306,8 +342,8 @@
   </Interaction>
   <Interaction GraphId="ac02a">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="522.1666666666666" Y="965.5" GraphRef="a85" RelX="-0.5" RelY="1.0" />
-      <Point X="418.4999999999999" Y="1116.6666666666667" GraphRef="c0f" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="520.75" Y="972.0" GraphRef="d60d1" RelX="-0.5" RelY="1.0" />
+      <Point X="413.0" Y="1116.0" GraphRef="eaf40" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -320,7 +356,7 @@
   </Interaction>
   <Interaction GraphId="afd15">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="50.0" Y="1025.8333333333333" GraphRef="fc1" RelX="0.0" RelY="-1.0" />
+      <Point X="50.0" Y="1034.0" GraphRef="f5c18" RelX="0.0" RelY="-1.0" />
       <Point X="50.0" Y="895.0" GraphRef="e7f96" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -328,21 +364,21 @@
   <Interaction GraphId="afde3">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="535.6666666666666" Y="485.1666666666667" GraphRef="c39" RelX="0.0" RelY="1.0" />
-      <Point X="533.0" Y="950.5" GraphRef="a85" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="534.5" Y="952.0" GraphRef="d60d1" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="aff2f">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="588.0" Y="778.6666666666666" GraphRef="f59f6" RelX="0.0" RelY="-1.0" />
-      <Point X="554.6666666666667" Y="901.5500000000001" GraphRef="a4f42" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="586.0" Y="859.6666666666666" GraphRef="f59f6" RelX="0.0" RelY="1.0" />
+      <Point X="594.9681637261552" Y="885.5917523111832" GraphRef="a4f42" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="b0cd6">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="471.66666666666663" Y="877.0" GraphRef="cc25d" RelX="0.0" RelY="1.0" />
-      <Point X="471.31276044630124" Y="900.0" GraphRef="a4f1d" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="471.4408045935487" Y="900.0" GraphRef="a4f1d" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -356,7 +392,7 @@
   <Interaction GraphId="b4825">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1128.0" Y="1004.3333333333335" GraphRef="cc2" RelX="0.0" RelY="-1.0" />
-      <Point X="1049.3702358784087" Y="1111.2128644688646" GraphRef="ab965" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1048.3634324413592" Y="1113.694780952381" GraphRef="ab965" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -379,7 +415,7 @@
   <Interaction GraphId="b60c0">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="986.1666666666667" Y="900.0" GraphRef="f24" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="1236.6666666666667" Y="1111.2128644688646" GraphRef="f149e" RelX="0.0" RelY="0.0" />
+      <Point X="1236.6666666666667" Y="1113.694780952381" GraphRef="f149e" RelX="0.0" RelY="0.0" />
       <Anchor Position="0.5943443529481984" Shape="None" GraphId="ab965" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -426,8 +462,8 @@
   </Interaction>
   <Interaction GraphId="be995">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="715.3333333333334" Y="1061.0" GraphRef="daf" RelX="0.0" RelY="1.0" />
-      <Point X="716.3999999999999" Y="1053.0" GraphRef="c6529" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="714.3333333333334" Y="1092.0" GraphRef="daf" RelX="0.0" RelY="-1.0" />
+      <Point X="714.4" Y="1062.0" GraphRef="c6529" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -449,7 +485,7 @@
   <Interaction GraphId="c1e28">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1165.1666666666663" Y="792.8333333333334" GraphRef="e5f" RelX="0.5" RelY="1.0" ArrowHead="Arrow" />
-      <Point X="1236.6666666666667" Y="1155.4440732600733" GraphRef="b39dc" RelX="0.0" RelY="0.0" />
+      <Point X="1236.6666666666667" Y="1156.7759238095239" GraphRef="b39dc" RelX="0.0" RelY="0.0" />
       <Anchor Position="0.4" Shape="None" GraphId="b5a33" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -471,7 +507,7 @@
   <Interaction GraphId="c4410">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1165.666666666667" Y="963.0" GraphRef="ac6" RelX="0.0" RelY="1.0" />
-      <Point X="1193.7666666666664" Y="937.8776293040294" GraphRef="b5a33" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1193.7666666666664" Y="938.4103695238095" GraphRef="b5a33" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -500,7 +536,7 @@
   <Interaction GraphId="c66a4">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
       <Point X="986.1666666666667" Y="900.0" GraphRef="f24" RelX="1.0" RelY="0.0" />
-      <Point X="1075.5" Y="1143.5" GraphRef="cf3" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="1087.75" Y="1156.0" GraphRef="fc60c" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.8140554959992135" Shape="None" GraphId="f830a" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -515,8 +551,8 @@
   <Interaction GraphId="c8a66">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
       <Point X="913.8333333333333" Y="900.0" GraphRef="f24" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="876.0" Y="975.0" />
-      <Point X="909.3333333333333" Y="1055.0" GraphRef="eab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="876.0" Y="981.0" />
+      <Point X="909.3333333333333" Y="1062.0" GraphRef="eab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.5067106271022744" Shape="None" GraphId="ec01f" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -538,15 +574,15 @@
   </Interaction>
   <Interaction GraphId="c9bb5">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="328.16666666666663" Y="1116.6666666666667" GraphRef="c0f" RelX="-1.0" RelY="0.0" />
-      <Point X="144.5" Y="1116.6666666666667" GraphRef="c9a" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="333.0" Y="1116.0" GraphRef="eaf40" RelX="-1.0" RelY="0.0" />
+      <Point X="144.0" Y="1116.0" GraphRef="d35fd" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="ca744">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="950.0" Y="1092.3333333333333" GraphRef="d73" RelX="0.0" RelY="-1.0" />
-      <Point X="950.0" Y="1101.5" GraphRef="ce479" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="919.5" Y="1103.3333333333333" GraphRef="d73" RelX="1.0" RelY="0.0" />
+      <Point X="950.1" Y="1104.1" GraphRef="ce479" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -592,15 +628,15 @@
   </Interaction>
   <Interaction GraphId="d0d68">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="98.33333333333334" Y="960.0" GraphRef="d06" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="64.83333333333334" Y="1025.8333333333333" GraphRef="fc1" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="92.0" Y="962.75" GraphRef="d06" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="66.0" Y="1034.0" GraphRef="f5c18" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="d138d">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="757.1666666666666" Y="943.6666870117188" GraphRef="a2a86" RelX="1.0" RelY="0.0" />
-      <Point X="712.5666666666666" Y="924.0" GraphRef="b5487" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="635.1666666666666" Y="967.6666768391926" GraphRef="a2a86" RelX="1.0" RelY="-0.5" />
+      <Point X="712.3" Y="924.8" GraphRef="b5487" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -621,8 +657,8 @@
   </Interaction>
   <Interaction GraphId="db818">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="97.75" Y="1109.1666666666667" GraphRef="c9a" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
-      <Point X="64.83333333333334" Y="1040.8333333333333" GraphRef="fc1" RelX="0.5" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="97.5" Y="1106.0" GraphRef="d35fd" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="66.0" Y="1054.0" GraphRef="f5c18" RelX="0.5" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -660,22 +696,22 @@
   <Interaction GraphId="df60e">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1073.666666666667" Y="1071.6666666666667" GraphRef="aff" RelX="0.0" RelY="-1.0" />
-      <Point X="1073.1565333921783" Y="1091.8852375491003" GraphRef="f830a" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1085.0233301705787" Y="1100.916860295868" GraphRef="f830a" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="df6b1">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="913.8333333333333" Y="900.0" GraphRef="f24" RelX="-1.0" RelY="0.0" />
-      <Point X="410.66666666666663" Y="960.0" GraphRef="afb" RelX="1.0" RelY="0.0" />
+      <Point X="410.0" Y="962.0" GraphRef="da543" RelX="1.0" RelY="0.0" />
       <Anchor Position="0.4" Shape="None" GraphId="b5487" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="df6f0">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="874.6666666666666" Y="947.6666666666666" GraphRef="ab963" RelX="0.0" RelY="-1.0" />
-      <Point X="876.0044783438798" Y="977.3195311772305" GraphRef="ec01f" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="863.1666666666666" Y="987.6666666666666" GraphRef="ab963" RelX="1.0" RelY="0.0" />
+      <Point X="876.0027012137916" Y="980.8862301929968" GraphRef="ec01f" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -696,24 +732,24 @@
   </Interaction>
   <Interaction GraphId="e0aa7">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="370.33333333333326" Y="1042.5" GraphRef="f76" RelX="0.0" RelY="-1.0" />
-      <Point X="370.0" Y="967.5" GraphRef="afb" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="370.0" Y="1052.0" GraphRef="fee4c" RelX="0.0" RelY="-1.0" />
+      <Point X="370.0" Y="972.0" GraphRef="da543" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="bd56b" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="e0fcc">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1037.0" Y="1159.25" GraphRef="cf3" RelX="-1.0" RelY="0.0" />
-      <Point X="950.0" Y="1160.0" GraphRef="fdb" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1055.0" Y="1166.0" GraphRef="fc60c" RelX="-1.0" RelY="0.0" />
+      <Point X="983.0" Y="1166.0" GraphRef="cc2ac" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="ad867" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="e117a">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="410.66666666666663" Y="960.0" GraphRef="afb" RelX="1.0" RelY="0.0" />
-      <Point X="511.33333333333337" Y="958.0" GraphRef="a85" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="410.0" Y="962.0" GraphRef="da543" RelX="1.0" RelY="0.0" />
+      <Point X="507.0" Y="962.0" GraphRef="d60d1" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -726,8 +762,8 @@
   </Interaction>
   <Interaction GraphId="e5785">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="950.0" Y="1062.5" GraphRef="eab" RelX="0.0" RelY="1.0" />
-      <Point X="950.0" Y="1160.0" GraphRef="fdb" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="950.0" Y="1069.5" GraphRef="eab" RelX="0.0" RelY="1.0" />
+      <Point X="950.25" Y="1156.0" GraphRef="cc2ac" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="ce479" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -763,8 +799,8 @@
   <Interaction GraphId="e9a69">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="650.6666666666667" Y="862.5833333333335" GraphRef="e9d" RelX="-1.0" RelY="0.0" />
-      <Point X="410.66666666666663" Y="960.0" GraphRef="afb" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Anchor Position="0.4" Shape="None" GraphId="a4f42" />
+      <Point X="410.0" Y="962.0" GraphRef="da543" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Anchor Position="0.2314342227445075" Shape="None" GraphId="a4f42" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -779,7 +815,7 @@
   <Interaction GraphId="ebd21">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
       <Point X="282.0" Y="1011.5" GraphRef="fd73c" RelX="1.0" RelY="0.0" />
-      <Point X="349.6666666666667" Y="967.5" GraphRef="afb" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="350.0" Y="972.0" GraphRef="da543" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -804,22 +840,22 @@
   </Interaction>
   <Interaction GraphId="eee37">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1016.6666666666666" Y="964.3333333333334" GraphRef="fd0" RelX="0.0" RelY="-1.0" />
-      <Point X="1018.9450738611336" Y="974.9495110390636" GraphRef="b1921" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1051.6666666666665" Y="910.3333333333334" GraphRef="fd0" RelX="0.0" RelY="-1.0" />
+      <Point X="1018.9470542100206" Y="978.4304378492799" GraphRef="b1921" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="ef0e3">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="397.0" Y="1012.6666666666666" GraphRef="a3a" RelX="-1.0" RelY="0.0" />
-      <Point X="370.19999999999993" Y="1012.5" GraphRef="bd56b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="398.0" Y="1020.6666666666665" GraphRef="a3a" RelX="-1.0" RelY="0.0" />
+      <Point X="370.0" Y="1020.0" GraphRef="bd56b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="f0cd1">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1003.6666666666666" Y="1149.0" GraphRef="ca3" RelX="0.0" RelY="-1.0" />
-      <Point X="1002.2" Y="1159.55" GraphRef="ad867" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1024.6666666666665" Y="1192.0" GraphRef="ca3" RelX="0.0" RelY="-1.0" />
+      <Point X="1026.2" Y="1166.0" GraphRef="ad867" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -840,8 +876,8 @@
   </Interaction>
   <Interaction GraphId="f1f72">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="800.6666666666665" Y="943.0" GraphRef="b10" RelX="0.0" RelY="-1.0" />
-      <Point X="803.1833333333332" Y="954.1" GraphRef="f6b96" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="772.9999999999998" Y="945.0" GraphRef="b10" RelX="1.0" RelY="0.0" />
+      <Point X="800.2333333333333" Y="957.6" GraphRef="f6b96" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -870,13 +906,13 @@
   <Interaction GraphId="f53bd">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="400.0" Y="607.3333333333334" GraphRef="fb4" RelX="-1.0" RelY="0.0" />
-      <Point X="370.0" Y="607.9" GraphRef="d5230" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="370.0" Y="607.5999999999999" GraphRef="d5230" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="f6bd0">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="729.4166666666665" Y="990.1666666666666" GraphRef="b01" RelX="0.0" RelY="-1.0" />
+      <Point X="724.5" Y="996.0" GraphRef="c83b6" RelX="0.0" RelY="-1.0" />
       <Point X="913.8333333333333" Y="900.0" GraphRef="f24" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="f6b96" />
     </Graphics>
@@ -884,7 +920,7 @@
   </Interaction>
   <Interaction GraphId="f6cfa">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="370.0" Y="952.5" GraphRef="afb" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="370.0" Y="952.0" GraphRef="da543" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Point X="509.0" Y="230.0" GraphRef="de4" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="d5230" />
     </Graphics>
@@ -914,7 +950,7 @@
   <Interaction GraphId="f9b62">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="950.0" Y="907.5" GraphRef="f24" RelX="0.0" RelY="1.0" />
-      <Point X="950.0" Y="1047.5" GraphRef="eab" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="950.0" Y="1054.5" GraphRef="eab" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.5518518518518518" Shape="None" GraphId="d9628" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -936,7 +972,7 @@
   <Interaction GraphId="fa9b4">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="1216.6666666666667" Y="1186.6666666666667" GraphRef="d4f9f" RelX="0.0" RelY="0.0" />
-      <Point X="50.0" Y="1040.8333333333333" GraphRef="fc1" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="82.0" Y="1044.0" GraphRef="f5c18" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.03787252747252745" Shape="None" GraphId="b39dc" />
       <Anchor Position="0.07057582417582411" Shape="None" GraphId="f149e" />
     </Graphics>
@@ -945,8 +981,8 @@
   <Interaction GraphId="faa03">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
       <Point X="986.1666666666667" Y="900.0" GraphRef="f24" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="1019.0" Y="975.0" />
-      <Point X="990.6666666666667" Y="1055.0" GraphRef="eab" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1019.0" Y="981.0" />
+      <Point X="990.6666666666667" Y="1062.0" GraphRef="eab" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.49318946281679776" Shape="None" GraphId="b1921" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -962,8 +998,8 @@
   </Interaction>
   <Interaction GraphId="fd048">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="141.66666666666666" Y="960.0" GraphRef="d06" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="329.33333333333337" Y="960.0" GraphRef="afb" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="141.66666666666666" Y="962.75" GraphRef="d06" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="330.0" Y="962.0" GraphRef="da543" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -988,18 +1024,6 @@
   <Label TextLabel="His metabolism" GraphId="a4d">
     <Graphics CenterX="1057.0" CenterY="696.6666666666666" Width="93.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
   </Label>
-  <Label TextLabel="Citrate" GraphId="a85">
-    <Comment Source="GenMAPP remarks">Citrate</Comment>
-    <Graphics CenterX="533.0" CenterY="958.0" Width="43.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Oxaloacetate" GraphId="afb">
-    <Comment Source="GenMAPP remarks">Oxaloacetate</Comment>
-    <Graphics CenterX="370.0" CenterY="960.0" Width="81.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="N-Acetyl-L-aspartate" GraphId="b01">
-    <Comment Source="GenMAPP remarks">N-Acetyl-L-aspartate</Comment>
-    <Graphics CenterX="729.4166666666666" CenterY="997.6666666666666" Width="117.16666666666667" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
   <Label TextLabel="N-Carbamoyl-L-aspartate" GraphId="b6a">
     <Comment Source="GenMAPP remarks">N-Carbamoyl-L-aspartate</Comment>
     <Graphics CenterX="647.3333333333334" CenterY="710.0" Width="148.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -1007,23 +1031,11 @@
   <Label TextLabel="Malonate semialdehyde" GraphId="be6">
     <Graphics CenterX="718.0" CenterY="585.6666666666666" Width="139.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Label TextLabel="2-Oxoglutarate" GraphId="c0f">
-    <Comment Source="GenMAPP remarks">2-Oxoglutarate</Comment>
-    <Graphics CenterX="373.3333333333333" CenterY="1116.6666666666667" Width="90.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
   <Label TextLabel="Nicotinate and nicotinamide metabolism" GraphId="c67">
     <Graphics CenterX="1152.6666666666667" CenterY="434.0" Width="232.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
   </Label>
   <Label TextLabel="beta-Ala metabolism" GraphId="c93">
     <Graphics CenterX="1083.3333333333333" CenterY="575.0" Width="122.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
-  </Label>
-  <Label TextLabel="Succinate" GraphId="c9a">
-    <Comment Source="GenMAPP remarks">Succinate</Comment>
-    <Graphics CenterX="113.33333333333333" CenterY="1116.6666666666667" Width="62.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="L-Aspartyl-&#xA;tRNA (Asn)&#xA;" GraphId="cf3">
-    <Comment Source="GenMAPP remarks">L-Aspartyl-tRNA(Asn)</Comment>
-    <Graphics CenterX="1075.5" CenterY="1159.25" Width="77.0" Height="31.5" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="L-Aspartyl-tRNA(Asp)" GraphId="d33">
     <Graphics CenterX="869.3333333333334" CenterY="626.6666666666666" Width="125.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -1051,7 +1063,7 @@
     <Graphics CenterX="1110.0" CenterY="486.3333333333333" Width="164.33333333333334" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
   </Label>
   <Label TextLabel="Citrate cycle (TCA cycle)" GraphId="ead">
-    <Graphics CenterX="211.0" CenterY="1059.0" Width="173.33333333333334" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="11" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="211.0" CenterY="1052.0" Width="173.33333333333334" Height="16.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="11" Valign="Middle" Color="0000ff" />
   </Label>
   <Label TextLabel="Adenylosuccinate" GraphId="ebb">
     <Graphics CenterX="1214.0" CenterY="749.6666666666666" Width="106.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -1066,18 +1078,6 @@
   </Label>
   <Label TextLabel="Arg and Pro metabolism" GraphId="f48">
     <Graphics CenterX="1086.0833333333333" CenterY="662.3333333333334" Width="116.16666666666667" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" Color="0000ff" />
-  </Label>
-  <Label TextLabel="2-Oxosuccinamate" GraphId="f76">
-    <Comment Source="GenMAPP remarks">2-Oxosuccinamate</Comment>
-    <Graphics CenterX="370.3333333333333" CenterY="1050.0" Width="113.33333333333333" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Fumarate" GraphId="fc1">
-    <Comment Source="GenMAPP remarks">Fumarate</Comment>
-    <Graphics CenterX="50.0" CenterY="1033.3333333333333" Width="59.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="L-Asparaginyl-tRNA(Asn)" GraphId="fdb">
-    <Comment Source="GenMAPP remarks">L-Asparaginyl-tRNA(Asn)</Comment>
-    <Graphics CenterX="871.0" CenterY="1160.0" Width="158.0" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Group GroupId="dfc9e" GraphId="a2a86" />
   <Group GroupId="ba4cb" GraphId="a86f0" />
@@ -1097,7 +1097,7 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f1b">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19455135 </bp:ID>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19455135</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
       <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters.</bp:TITLE>
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Syst Biol</bp:SOURCE>

@@ -60,3 +60,12 @@
 |Nicotinate and nicotinamide metabolism | Pathway |  |  |
 |Reductive carboxylate
 cycle (CO2 fixation) | Pathway |  |  |
+|L-Asparaginyl-tRNA(Asn) | Metabolite |  |  |
+|L-Asparaginyl-tRNA(Asn) | Metabolite |  |  |
+|2-Oxoglutarate | Metabolite |  |  |
+|Succinate | Metabolite |  |  |
+|Fumarate | Metabolite |  |  |
+|Oxaloacetate | Metabolite |  |  |
+|2-Oxosuccinamate | Metabolite |  |  |
+|N-Acetyl-L-aspartate | Metabolite |  |  |
+|Citrate | Metabolite |  |  |
