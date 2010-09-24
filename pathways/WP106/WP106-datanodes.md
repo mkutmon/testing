@@ -1,5 +1,6 @@
 | Label | Type | ID | Database |
 | ---- | ---- | ---- | ---- |
+|Fatty acid metabolism | Pathway | WP143 | WikiPathways |
 |PC | GeneProduct | 5091 | Entrez Gene |
 |2.3.1.7 | GeneProduct | 2.3.1.7 |  |
 |2.6.1.18 | GeneProduct | 2.6.1.18 |  |
