@@ -51,3 +51,9 @@
 |b-Alanine | Metabolite | 6912-68-1 | CAS |
 |L-Alanine | Metabolite | 6912-68-1 | CAS |
 |Glycolysis & gluconeogenesis | Pathway | WP534 | WikiPathways |
+|D-Ala metabolism | Pathway |  |  |
+|Cyanoamino acid metabolism | Pathway |  |  |
+|Selenoamino acid metabolism | Pathway |  |  |
+|Reductive carboxylate cycle (CO2 fixation) | Pathway |  |  |
+|Pantothenate and CoA biosynthesis | Pathway |  |  |
+|Pyrimidine metabolism | Pathway |  |  |
