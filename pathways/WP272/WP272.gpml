@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r38953" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r41053" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Coagulation is a complex process by which blood forms clots. It is an important part of hemostasis (the cessation of blood loss from a damaged vessel), wherein a damaged blood vessel wall is covered by a platelet and fibrin-containing clot to stop bleeding and begin repair of the damaged vessel. Disorders of coagulation can lead to an increased risk of bleeding (hemorrhage) or clotting (thrombosis).
 
 Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
