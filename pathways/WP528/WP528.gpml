@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r38919" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r41084" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Acetylcholine is an important neurotransmitter. It can be rapidly released in the synaptic cleft upon activation of the neuron. In the synaptic cleft the compound is degraded rapidly into choline and acetate, this is essential for proper neuronal functioning. Choline and Acetate are taken up into the cytosol and recycled for the next activation.</Comment>
   <BiopaxRef>dbc</BiopaxRef>
   <Graphics BoardWidth="823.0" BoardHeight="622.8666666666667" />
