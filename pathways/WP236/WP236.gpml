@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Adipogenesis" Data-Source="WikiPathways" Version="WP236_r38920" Author="M.Patti | MaintBot | Khanspers | Nsalomonis | MartijnVanIersel" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Adipogenesis" Data-Source="WikiPathways" Version="WP236_r41040" Author="M.Patti | MaintBot | Khanspers | Nsalomonis | MartijnVanIersel" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The different classess of factors involved in adipogenesis are shown. Adipogenesis is the process by which fat cells differentiate from predadipocytes to adipocytes (fat cells). Adipose tissue, composed of white and brown adipose tissue, is composed of adipocytes. This pathway is primarily studied to understand factors that contribute to obesity and diabetes. Transcriptional and hormonal regulators of adipocyte formation are indicated.
 
 </Comment>
