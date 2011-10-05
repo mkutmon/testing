@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Adipogenesis" Data-Source="WikiPathways" Version="WP236_r41040" Author="M.Patti | MaintBot | Khanspers | Nsalomonis | MartijnVanIersel" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Adipogenesis" Data-Source="WikiPathways" Version="WP236_r44941" Author="M.Patti | MaintBot | Khanspers | Nsalomonis | MartijnVanIersel" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The different classess of factors involved in adipogenesis are shown. Adipogenesis is the process by which fat cells differentiate from predadipocytes to adipocytes (fat cells). Adipose tissue, composed of white and brown adipose tissue, is composed of adipocytes. This pathway is primarily studied to understand factors that contribute to obesity and diabetes. Transcriptional and hormonal regulators of adipocyte formation are indicated.
 
 </Comment>
@@ -846,6 +846,11 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rosen ED</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spiegelman BM</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">signaling pathway pertinent to development</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000650</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>
 
