@@ -45,7 +45,7 @@
 |O-Acetylcarnitine | Metabolite | 3040-38-8 | CAS |
 |Acetyl-CoA | Metabolite | 72-89-9 | CAS |
 |Carnosine | Metabolite | 305-84-0 | CAS |
-|D-Alanine | Metabolite | 6912-68-1 | CAS |
+|D-Alanine | Metabolite | 338-69-2 | CAS |
 |L-Asparagine | Metabolite | 70-47-3 | CAS |
 |Malate | Metabolite | 617-48-1 | CAS |
 |b-Alanine | Metabolite | 6912-68-1 | CAS |
@@ -60,16 +60,16 @@
 |Nicotinate and nicotinamide metabolism | Pathway |  |  |
 |Reductive carboxylate
 cycle (CO2 fixation) | Pathway |  |  |
-|2-Oxoglutarate | Metabolite |  |  |
-|Succinate | Metabolite |  |  |
-|Fumarate | Metabolite |  |  |
+|2-Oxoglutarate | Metabolite | C00026 | Kegg Compound |
+|Succinate | Metabolite | C00042 | Kegg Compound |
+|Fumarate | Metabolite | C00122 | Kegg Compound |
 |Oxaloacetate | Metabolite | C00036 | Kegg Compound |
 |2-Oxosuccinamate | Metabolite |  |  |
 |N-Acetyl-L-aspartate | Metabolite |  |  |
 |Citric acid | Metabolite | HMDB00094 | HMDB |
-|N-Carbamoyl-L-aspartate | Metabolite |  |  |
+|N-Carbamoyl-L-aspartate | Metabolite | 15859 | ChEBI |
 |D-aspartate | Metabolite | C00402 | Kegg Compound |
-|Malonate semialdehyde | Metabolite |  |  |
+|Malonate semialdehyde | Metabolite | 33190 | ChEBI |
 |L-aspartate | Metabolite | C00049 | Kegg Compound |
 |Adenylosuccinate | Metabolite |  |  |
 |Histidine metabolism | Pathway |  |  |
@@ -83,6 +83,7 @@ cycle (CO2 fixation) | Pathway |  |  |
 |L-Asparagine acid | Metabolite | 70-47-3 | CAS |
 |L-Argininosuccinate | Metabolite |  |  |
 |tRNA(Asp) | GeneProduct |  |  |
-|L-Aspartic acid | Metabolite |  |  |
+|L-Aspartic acid | Metabolite | C00049 | Kegg Compound |
 |L-Asparagine acid | Metabolite | 70-47-3 | CAS |
 |tRNA (Asn) | GeneProduct |  |  |
+|Pyruvate | Metabolite | 32816 | ChEBI |

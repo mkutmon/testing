@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r45039" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r45055" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico" Organism="Homo sapiens">
   <BiopaxRef>e65</BiopaxRef>
   <BiopaxRef>f1b</BiopaxRef>
   <Graphics BoardWidth="1336.6666666666667" BoardHeight="1243.0" />
   <DataNode TextLabel="Fatty acid metabolism" GraphId="d5a97" Type="Pathway">
     <Graphics CenterX="460.0" CenterY="553.3333333333334" Width="129.33333333333334" Height="15.0" ZOrder="28672" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP143" />
+  </DataNode>
+  <DataNode TextLabel="Pyruvate" GraphId="a3720" Type="Metabolite">
+    <Graphics CenterX="535.2380952380954" CenterY="235.95238095238102" Width="80.0" Height="14.761904761904706" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Xref Database="ChEBI" ID="32816" />
   </DataNode>
   <DataNode TextLabel="3.5.1.3" GraphId="a3a" Type="GeneProduct">
     <Graphics CenterX="421.3333333333333" CenterY="1020.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -62,12 +66,12 @@
   </DataNode>
   <DataNode TextLabel="N-Carbamoyl-L-aspartate" GraphId="b174e" Type="Metabolite">
     <Graphics CenterX="652.0" CenterY="710.0" Width="128.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="ChEBI" ID="15859" />
   </DataNode>
   <DataNode TextLabel="D-Alanine" GraphId="b23" Type="Metabolite">
     <Comment Source="GenMAPP remarks">D-Alanine</Comment>
     <Graphics CenterX="1112.0" CenterY="236.66666666666666" Width="59.333333333333336" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="6912-68-1" />
+    <Xref Database="CAS" ID="338-69-2" />
   </DataNode>
   <DataNode TextLabel="5.1.1.1" GraphId="b27" Type="GeneProduct">
     <Graphics CenterX="1035.0" CenterY="210.66666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -119,7 +123,7 @@
   </DataNode>
   <DataNode TextLabel="L-Aspartic acid" GraphId="c4eaa" Type="Metabolite" GroupRef="ac2a6">
     <Graphics CenterX="859.0" CenterY="614.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="Kegg Compound" ID="C00049" />
   </DataNode>
   <DataNode TextLabel="GPT" GraphId="c4f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GPT | glutamic-pyruvate transaminase (alanine a..." />
@@ -185,11 +189,11 @@
   </DataNode>
   <DataNode TextLabel="Succinate" GraphId="d35fd" Type="Metabolite">
     <Graphics CenterX="113.0" CenterY="1116.0" Width="62.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="Kegg Compound" ID="C00042" />
   </DataNode>
   <DataNode TextLabel="Malonate semialdehyde" GraphId="d3aab" Type="Metabolite">
     <Graphics CenterX="685.5" CenterY="585.0" Width="127.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="ChEBI" ID="33190" />
   </DataNode>
   <DataNode TextLabel="6.3.2.11" GraphId="d4b" Type="GeneProduct">
     <Graphics CenterX="794.0" CenterY="412.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -280,7 +284,7 @@
   </DataNode>
   <DataNode TextLabel="2-Oxoglutarate" GraphId="eaf40" Type="Metabolite">
     <Graphics CenterX="373.0" CenterY="1116.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="Kegg Compound" ID="C00026" />
   </DataNode>
   <DataNode TextLabel="O-Acetylcarnitine" GraphId="ed0" Type="Metabolite">
     <Graphics CenterX="523.3333333333334" CenterY="382.3333333333333" Width="103.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -318,7 +322,7 @@
   </DataNode>
   <DataNode TextLabel="Fumarate" GraphId="f5c18" Type="Metabolite">
     <Graphics CenterX="50.0" CenterY="1044.0" Width="64.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="Kegg Compound" ID="C00122" />
   </DataNode>
   <DataNode TextLabel="2.1.3.2" GraphId="fa3" Type="GeneProduct">
     <Graphics CenterX="802.6666666666666" CenterY="675.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -355,7 +359,7 @@
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="2-Oxosuccinamate" GraphId="fee4c" Type="Metabolite">
-    <Graphics CenterX="370.0" CenterY="1062.0" Width="104.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="370.0" CenterY="1062.8643042350907" Width="104.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="L-Argininosuccinate" GraphId="ff0f1" Type="Metabolite">
@@ -365,7 +369,7 @@
   <Interaction GraphId="a00c8">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="909.3333333333333" Y="1062.0" GraphRef="eab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="422.0" Y="1062.0" GraphRef="fee4c" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="422.0" Y="1062.8643042350907" GraphRef="fee4c" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="c6529" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -515,8 +519,7 @@
   <Interaction GraphId="b936c">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
       <Point X="921.4166666666666" Y="243.16666666666666" GraphRef="ab0" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
-      <Point X="735.9583333333333" Y="296.0" />
-      <Point X="550.5" Y="237.5" GraphRef="de4" RelX="0.5" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="555.2380952380954" Y="243.33333333333337" GraphRef="a3720" RelX="0.5" RelY="1.0" ArrowHead="Arrow" />
       <Anchor Position="0.45737038583671524" Shape="None" GraphId="e7493" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -524,14 +527,14 @@
   <Interaction GraphId="bc05c">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="731.6666666666666" Y="183.66666666666666" GraphRef="b8d" RelX="0.0" RelY="-1.0" />
-      <Point X="731.10492642066" Y="163.07915159423848" GraphRef="aca07" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="732.4988121109996" Y="208.60379325346878" GraphRef="aca07" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="be995">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="714.3333333333334" Y="1092.0" GraphRef="daf" RelX="0.0" RelY="-1.0" />
-      <Point X="714.4" Y="1062.0" GraphRef="c6529" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="714.4" Y="1062.3457216940362" GraphRef="c6529" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -589,7 +592,7 @@
   <Interaction GraphId="c5667">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
       <Point X="536.0" Y="162.0" GraphRef="f52d0" RelX="0.0" RelY="1.0" />
-      <Point X="536.6666666666666" Y="222.5" GraphRef="de4" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="535.2380952380954" Y="228.57142857142867" GraphRef="a3720" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -655,8 +658,7 @@
   </Interaction>
   <Interaction GraphId="ccecc">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
-      <Point X="550.5" Y="222.5" GraphRef="de4" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
-      <Point X="737.9583333333334" Y="163.0" />
+      <Point X="555.2380952380954" Y="228.57142857142867" GraphRef="a3720" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
       <Point X="921.4166666666666" Y="228.16666666666666" GraphRef="ab0" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4845110737916436" Shape="None" GraphId="aca07" />
     </Graphics>
@@ -710,7 +712,7 @@
   <Interaction GraphId="d9ad2">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="906.8333333333333" Y="235.66666666666666" GraphRef="ab0" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="564.3333333333333" Y="230.0" GraphRef="de4" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="575.2380952380954" Y="235.95238095238102" GraphRef="a3720" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.656783172880139" Shape="None" GraphId="ec732" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -791,7 +793,7 @@
   </Interaction>
   <Interaction GraphId="e0aa7">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="370.0" Y="1052.0" GraphRef="fee4c" RelX="0.0" RelY="-1.0" />
+      <Point X="370.0" Y="1052.8643042350907" GraphRef="fee4c" RelX="0.0" RelY="-1.0" />
       <Point X="370.0" Y="972.0" GraphRef="da543" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="bd56b" />
     </Graphics>
@@ -830,14 +832,14 @@
   <Interaction GraphId="e5ed2">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="751.6666666666665" Y="272.0" GraphRef="bcc" RelX="0.0" RelY="1.0" />
-      <Point X="751.8383436267488" Y="295.7700386825758" GraphRef="e7493" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="754.2362857138737" Y="263.07832823261464" GraphRef="e7493" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="e76d4">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="682.6666666666665" Y="253.33333333333337" GraphRef="c4f" RelX="0.0" RelY="-1.0" />
-      <Point X="681.8850966218856" Y="231.94489535367921" GraphRef="ec732" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="689.0471607451977" Y="235.8543190017753" GraphRef="ec732" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -894,7 +896,7 @@
   <Interaction GraphId="ef0e3">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="398.0" Y="1020.6666666666665" GraphRef="a3a" RelX="-1.0" RelY="0.0" />
-      <Point X="370.0" Y="1020.0" GraphRef="bd56b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="370.0" Y="1020.5185825410545" GraphRef="bd56b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -952,7 +954,7 @@
   <Interaction GraphId="f53bd">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="400.0" Y="607.3333333333334" GraphRef="fb4" RelX="-1.0" RelY="0.0" />
-      <Point X="370.0" Y="607.5999999999999" GraphRef="d5230" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="370.0" Y="615.4857142857143" GraphRef="d5230" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -967,7 +969,7 @@
   <Interaction GraphId="f6cfa">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="370.0" Y="952.0" GraphRef="da543" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-      <Point X="509.0" Y="230.0" GraphRef="de4" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="495.2380952380954" Y="235.95238095238102" GraphRef="a3720" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="d5230" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1065,10 +1067,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Label TextLabel="Pyruvate" GraphId="de4">
-    <Comment Source="GenMAPP remarks">Pyruvate</Comment>
-    <Graphics CenterX="536.6666666666666" CenterY="230.0" Width="55.333333333333336" Height="15.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
   <Label TextLabel="L-Alanyl-tRNA" GraphId="e08">
     <Comment Source="GenMAPP remarks">L-Alanyl-tRNA</Comment>
     <Graphics CenterX="1127.0" CenterY="162.75" Width="82.33333333333333" Height="18.5" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" ShapeType="Rectangle" />
@@ -1092,14 +1090,6 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="133.33333333333334" CenterY="129.95553333333334" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amino acid metabolic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
@@ -1117,6 +1107,14 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cornish-Bowden A</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cárdenas ML</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dumas R</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
