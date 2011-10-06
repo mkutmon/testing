@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r44946" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r45039" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico" Organism="Homo sapiens">
   <BiopaxRef>e65</BiopaxRef>
   <BiopaxRef>f1b</BiopaxRef>
   <Graphics BoardWidth="1336.6666666666667" BoardHeight="1243.0" />
@@ -9,7 +9,7 @@
   </DataNode>
   <DataNode TextLabel="3.5.1.3" GraphId="a3a" Type="GeneProduct">
     <Graphics CenterX="421.3333333333333" CenterY="1020.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="3.5.1.3" />
+    <Xref Database="EC Number" ID="3.5.1.3" />
   </DataNode>
   <DataNode TextLabel="GOT2" GraphId="a43" Type="GeneProduct" GroupRef="b134d">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GOT2 | glutamic-oxaloacetic transaminase 2 mit..." />
@@ -18,7 +18,7 @@
   </DataNode>
   <DataNode TextLabel="3.4.13.3" GraphId="a77" Type="GeneProduct">
     <Graphics CenterX="793.0" CenterY="544.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="3.4.13.3" />
+    <Xref Database="EC Number" ID="3.4.13.3" />
   </DataNode>
   <DataNode TextLabel="L-Alanine" GraphId="ab0" Type="Metabolite">
     <Graphics CenterX="936.0" CenterY="235.66666666666666" Width="58.333333333333336" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -40,15 +40,15 @@
   </DataNode>
   <DataNode TextLabel="4.1.1.11" GraphId="adf" Type="GeneProduct" GroupRef="a9af5">
     <Graphics CenterX="867.0" CenterY="397.6666971842448" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="4.1.1.11" />
+    <Xref Database="EC Number" ID="4.1.1.11" />
   </DataNode>
   <DataNode TextLabel="1.4.3.2" GraphId="ae1" Type="GeneProduct" GroupRef="dfc9e">
     <Graphics CenterX="620.6666666666666" CenterY="960.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="1.4.3.2" />
+    <Xref Database="EC Number" ID="1.4.3.2" />
   </DataNode>
   <DataNode TextLabel="4.1.1.12" GraphId="afd" Type="GeneProduct">
     <Graphics CenterX="907.0" CenterY="316.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="4.1.1.12" />
+    <Xref Database="EC Number" ID="4.1.1.12" />
   </DataNode>
   <DataNode TextLabel="DARS" GraphId="aff" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DARS | aspartyl-tRNA synthetase" />
@@ -71,11 +71,11 @@
   </DataNode>
   <DataNode TextLabel="5.1.1.1" GraphId="b27" Type="GeneProduct">
     <Graphics CenterX="1035.0" CenterY="210.66666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="5.1.1.1" />
+    <Xref Database="EC Number" ID="5.1.1.1" />
   </DataNode>
   <DataNode TextLabel="2.6.1.12" GraphId="b8d" Type="GeneProduct">
     <Graphics CenterX="731.6666666666666" CenterY="193.66666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="2.6.1.12" />
+    <Xref Database="EC Number" ID="2.6.1.12" />
   </DataNode>
   <DataNode TextLabel="b-Alanine" GraphId="b94" Type="Metabolite">
     <Comment Source="GenMAPP remarks">beta-alanine</Comment>
@@ -98,15 +98,15 @@
   </DataNode>
   <DataNode TextLabel="L-Asparagine acid" GraphId="be00d" Type="Metabolite" GroupRef="b758d">
     <Graphics CenterX="926.5" CenterY="1176.0" Width="96.5" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="CAS" ID="70-47-3" />
   </DataNode>
   <DataNode TextLabel="6.3.1.1" GraphId="c02" Type="GeneProduct">
     <Graphics CenterX="926.1666666666666" CenterY="953.3333333333334" Width="40.33333333333326" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="6.3.1.1" />
+    <Xref Database="EC Number" ID="6.3.1.1" />
   </DataNode>
   <DataNode TextLabel="1.2.1.18" GraphId="c1a" Type="GeneProduct">
     <Graphics CenterX="576.6666666666666" CenterY="616.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="1.2.1.18" />
+    <Xref Database="EC Number" ID="1.2.1.18" />
   </DataNode>
   <DataNode TextLabel="Acetyl-CoA" GraphId="c39" Type="Metabolite">
     <Comment Source="GenMAPP remarks">Acetyl-CoA</Comment>
@@ -115,7 +115,7 @@
   </DataNode>
   <DataNode TextLabel="5.1.1.13" GraphId="c41" Type="GeneProduct">
     <Graphics CenterX="812.0" CenterY="844.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="5.1.1.13" />
+    <Xref Database="EC Number" ID="5.1.1.13" />
   </DataNode>
   <DataNode TextLabel="L-Aspartic acid" GraphId="c4eaa" Type="Metabolite" GroupRef="ac2a6">
     <Graphics CenterX="859.0" CenterY="614.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -128,7 +128,7 @@
   </DataNode>
   <DataNode TextLabel="3.5.1.7" GraphId="c70" Type="GeneProduct">
     <Graphics CenterX="755.6666666666666" CenterY="796.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="3.5.1.7" />
+    <Xref Database="EC Number" ID="3.5.1.7" />
   </DataNode>
   <DataNode TextLabel="N-Acetyl-L-aspartate" GraphId="c83b6" Type="Metabolite">
     <Graphics CenterX="724.5" CenterY="1006.0" Width="107.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -140,19 +140,19 @@
   </DataNode>
   <DataNode TextLabel="6.3.5.6" GraphId="ca3" Type="GeneProduct">
     <Graphics CenterX="1024.6666666666665" CenterY="1203.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="6.3.5.6" />
+    <Xref Database="EC Number" ID="6.3.5.6" />
   </DataNode>
   <DataNode TextLabel="3.5.1.38" GraphId="cba" Type="GeneProduct" GroupRef="cf1aa">
     <Graphics CenterX="827.6666666666666" CenterY="977.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="3.5.1.38" />
+    <Xref Database="EC Number" ID="3.5.1.38" />
   </DataNode>
   <DataNode TextLabel="4.3.1.1" GraphId="cc2" Type="GeneProduct">
     <Graphics CenterX="1128.0" CenterY="1014.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="4.3.1.1" />
+    <Xref Database="EC Number" ID="4.3.1.1" />
   </DataNode>
   <DataNode TextLabel="2.3.1.7" GraphId="cc7" Type="GeneProduct">
     <Graphics CenterX="472.3333333333333" CenterY="438.3333333333333" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="2.3.1.7" />
+    <Xref Database="EC Number" ID="2.3.1.7" />
   </DataNode>
   <DataNode TextLabel="tRNA (Asn)" GraphId="cee19" Type="GeneProduct" GroupRef="b758d">
     <Graphics CenterX="926.5" CenterY="1156.0" Width="96.5" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -160,7 +160,7 @@
   </DataNode>
   <DataNode TextLabel="1.4.3.15" GraphId="cfc" Type="GeneProduct" GroupRef="dd7c3">
     <Graphics CenterX="591.0" CenterY="826.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="1.4.3.15" />
+    <Xref Database="EC Number" ID="1.4.3.15" />
   </DataNode>
   <DataNode TextLabel="D-Ala metabolism" GraphId="cff02" Type="Pathway">
     <Graphics CenterX="1093.5" CenterY="53.0" Width="113.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -173,7 +173,7 @@
   </DataNode>
   <DataNode TextLabel="3.5.1.1" GraphId="d0b" Type="GeneProduct" GroupRef="cf1aa">
     <Graphics CenterX="827.6666666666666" CenterY="997.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="3.5.1.1" />
+    <Xref Database="EC Number" ID="3.5.1.1" />
   </DataNode>
   <DataNode TextLabel="Cyanoamino acid metabolism" GraphId="d1d97" Type="Pathway">
     <Graphics CenterX="814.5" CenterY="36.0" Width="171.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -193,23 +193,23 @@
   </DataNode>
   <DataNode TextLabel="6.3.2.11" GraphId="d4b" Type="GeneProduct">
     <Graphics CenterX="794.0" CenterY="412.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="6.3.2.11" />
+    <Xref Database="EC Number" ID="6.3.2.11" />
   </DataNode>
   <DataNode TextLabel="beta-Alanine metabolism" GraphId="d5802" Type="Pathway">
     <Graphics CenterX="1106.0" CenterY="569.0" Width="158.0" Height="16.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="" ID="" />
   </DataNode>
-  <DataNode TextLabel="Citrate" GraphId="d60d1" Type="Metabolite">
+  <DataNode TextLabel="Citric acid" GraphId="d60d1" Type="Metabolite">
     <Graphics CenterX="534.5" CenterY="962.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="HMDB" ID="HMDB00094" />
   </DataNode>
   <DataNode TextLabel="1.4.3.16" GraphId="d6e" Type="GeneProduct" GroupRef="dfc9e">
     <Graphics CenterX="620.6666666666666" CenterY="980.6667073567709" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="1.4.3.16" />
+    <Xref Database="EC Number" ID="1.4.3.16" />
   </DataNode>
   <DataNode TextLabel="6.1.1.22" GraphId="d73" Type="GeneProduct">
     <Graphics CenterX="892.0" CenterY="1103.3333333333333" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="6.1.1.22" />
+    <Xref Database="EC Number" ID="6.1.1.22" />
   </DataNode>
   <DataNode TextLabel="Urea cycel and metabolism of amino groups" GraphId="d73ae" Type="Pathway">
     <Graphics CenterX="1167.0" CenterY="618.0" Width="270.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -217,11 +217,11 @@
   </DataNode>
   <DataNode TextLabel="L-Asparagine acid" GraphId="d7a4f" Type="Metabolite" GroupRef="f4a1b">
     <Graphics CenterX="1108.5" CenterY="1176.0" Width="96.5" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="CAS" ID="70-47-3" />
   </DataNode>
   <DataNode TextLabel="2.6.1.18" GraphId="d7d" Type="GeneProduct" GroupRef="ba4cb">
     <Graphics CenterX="614.6666666666666" CenterY="506.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="2.6.1.18" />
+    <Xref Database="EC Number" ID="2.6.1.18" />
   </DataNode>
   <DataNode TextLabel="Adenylosuccinate" GraphId="d9688" Type="Metabolite">
     <Graphics CenterX="1214.625" CenterY="752.75" Width="100.75" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -229,11 +229,11 @@
   </DataNode>
   <DataNode TextLabel="Oxaloacetate" GraphId="da543" Type="Metabolite">
     <Graphics CenterX="370.0" CenterY="962.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="Kegg Compound" ID="C00036" />
   </DataNode>
   <DataNode TextLabel="2.6.1.14" GraphId="daf" Type="GeneProduct">
     <Graphics CenterX="714.3333333333334" CenterY="1102.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="2.6.1.14" />
+    <Xref Database="EC Number" ID="2.6.1.14" />
   </DataNode>
   <DataNode TextLabel="Histidine metabolism" GraphId="dec22" Type="Pathway">
     <Graphics CenterX="1082.0" CenterY="691.0" Width="140.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -249,7 +249,7 @@
   </DataNode>
   <DataNode TextLabel="6.1.1.7" GraphId="e4d" Type="GeneProduct">
     <Graphics CenterX="997.6666666666666" CenterY="165.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="6.1.1.7" />
+    <Xref Database="EC Number" ID="6.1.1.7" />
   </DataNode>
   <DataNode TextLabel="GAD2" GraphId="e52" Type="GeneProduct" GroupRef="a9af5">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GAD2 | glutamate decarboxylase 2 (pancreatic is..." />
@@ -293,11 +293,11 @@
   </DataNode>
   <DataNode TextLabel="1.4.3.1" GraphId="f00" Type="GeneProduct" GroupRef="dd7c3">
     <Graphics CenterX="591.0" CenterY="846.6666666666666" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="1.4.3.1" />
+    <Xref Database="EC Number" ID="1.4.3.1" />
   </DataNode>
   <DataNode TextLabel="D-aspartate" GraphId="f0480" Type="Metabolite">
     <Graphics CenterX="686.0" CenterY="865.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="Kegg Compound" ID="C00402" />
   </DataNode>
   <DataNode TextLabel="Nicotinate and nicotinamide metabolism" GraphId="f1101" Type="Pathway">
     <Graphics CenterX="1150.5" CenterY="436.0" Width="245.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -310,7 +310,7 @@
   </DataNode>
   <DataNode TextLabel="6.3.4.4" GraphId="f29" Type="GeneProduct">
     <Graphics CenterX="1038.6666666666667" CenterY="725.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="6.3.4.4" />
+    <Xref Database="EC Number" ID="6.3.4.4" />
   </DataNode>
   <DataNode TextLabel="Glycolysis &amp; gluconeogenesis" GraphId="f52d0" Type="Pathway">
     <Graphics CenterX="536.0" CenterY="152.0" Width="192.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -322,7 +322,7 @@
   </DataNode>
   <DataNode TextLabel="2.1.3.2" GraphId="fa3" Type="GeneProduct">
     <Graphics CenterX="802.6666666666666" CenterY="675.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="2.1.3.2" />
+    <Xref Database="EC Number" ID="2.1.3.2" />
   </DataNode>
   <DataNode TextLabel="Reductive carboxylate cycle (CO2 fixation)" GraphId="fa5a8" Type="Pathway">
     <Graphics CenterX="1146.5" CenterY="283.0" Width="263.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -330,11 +330,11 @@
   </DataNode>
   <DataNode TextLabel="4.3.2.2" GraphId="fa7" Type="GeneProduct">
     <Graphics CenterX="1283.3333333333333" CenterY="903.6666666666666" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="4.3.2.2" />
+    <Xref Database="EC Number" ID="4.3.2.2" />
   </DataNode>
   <DataNode TextLabel="L-aspartate" GraphId="fb2c2" Type="Metabolite">
     <Graphics CenterX="952.0" CenterY="886.0" Width="70.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="Kegg Compound" ID="C00049" />
   </DataNode>
   <DataNode TextLabel="PC" GraphId="fb4" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PC | pyruvate carboxylase" />
@@ -348,7 +348,7 @@
   </DataNode>
   <DataNode TextLabel="6.3.5.4" GraphId="fd0" Type="GeneProduct">
     <Graphics CenterX="1051.6666666666663" CenterY="920.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="6.3.5.4" />
+    <Xref Database="EC Number" ID="6.3.5.4" />
   </DataNode>
   <DataNode TextLabel="Reductive carboxylate&#xA;cycle (CO2 fixation)" GraphId="fd73c" Type="Pathway">
     <Graphics CenterX="213.5" CenterY="1011.5" Width="137.0" Height="33.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -1092,19 +1092,6 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="133.33333333333334" CenterY="129.95553333333334" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f1b">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19455135</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Syst Biol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curien G</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bastien O</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert-Genthon M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cornish-Bowden A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cárdenas ML</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dumas R</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1118,6 +1105,19 @@
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f1b">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19455135</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Understanding the regulation of aspartate metabolism using a model based on measured kinetic parameters.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Syst Biol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Curien G</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bastien O</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert-Genthon M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cornish-Bowden A</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cárdenas ML</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dumas R</bp:AUTHORS>
+    </bp:PublicationXref>
   </Biopax>
 </Pathway>
 

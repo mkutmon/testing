@@ -2,43 +2,43 @@
 | ---- | ---- | ---- | ---- |
 |Fatty acid metabolism | Pathway | WP143 | WikiPathways |
 |PC | GeneProduct | 5091 | Entrez Gene |
-|2.3.1.7 | GeneProduct | 2.3.1.7 |  |
-|2.6.1.18 | GeneProduct | 2.6.1.18 |  |
+|2.3.1.7 | GeneProduct | 2.3.1.7 | EC Number |
+|2.6.1.18 | GeneProduct | 2.6.1.18 | EC Number |
 |ABAT | GeneProduct | 18 | Entrez Gene |
-|6.3.2.11 | GeneProduct | 6.3.2.11 |  |
-|3.4.13.3 | GeneProduct | 3.4.13.3 |  |
-|4.1.1.11 | GeneProduct | 4.1.1.11 |  |
-|4.1.1.12 | GeneProduct | 4.1.1.12 |  |
+|6.3.2.11 | GeneProduct | 6.3.2.11 | EC Number |
+|3.4.13.3 | GeneProduct | 3.4.13.3 | EC Number |
+|4.1.1.11 | GeneProduct | 4.1.1.11 | EC Number |
+|4.1.1.12 | GeneProduct | 4.1.1.12 | EC Number |
 |GAD2 | GeneProduct | 2572 | Entrez Gene |
-|2.6.1.12 | GeneProduct | 2.6.1.12 |  |
+|2.6.1.12 | GeneProduct | 2.6.1.12 | EC Number |
 |DARS | GeneProduct | 1615 | Entrez Gene |
 |GPT | GeneProduct | 2875 | Entrez Gene |
 |AGXT | GeneProduct | 189 | Entrez Gene |
-|6.1.1.7 | GeneProduct | 6.1.1.7 |  |
-|5.1.1.1 | GeneProduct | 5.1.1.1 |  |
-|6.3.4.4 | GeneProduct | 6.3.4.4 |  |
+|6.1.1.7 | GeneProduct | 6.1.1.7 | EC Number |
+|5.1.1.1 | GeneProduct | 5.1.1.1 | EC Number |
+|6.3.4.4 | GeneProduct | 6.3.4.4 | EC Number |
 |ASS | GeneProduct | 445 | Entrez Gene |
-|3.5.1.1 | GeneProduct | 3.5.1.1 |  |
-|3.5.1.38 | GeneProduct | 3.5.1.38 |  |
-|6.3.1.1 | GeneProduct | 6.3.1.1 |  |
-|6.3.5.4 | GeneProduct | 6.3.5.4 |  |
-|4.3.1.1 | GeneProduct | 4.3.1.1 |  |
+|3.5.1.1 | GeneProduct | 3.5.1.1 | EC Number |
+|3.5.1.38 | GeneProduct | 3.5.1.38 | EC Number |
+|6.3.1.1 | GeneProduct | 6.3.1.1 | EC Number |
+|6.3.5.4 | GeneProduct | 6.3.5.4 | EC Number |
+|4.3.1.1 | GeneProduct | 4.3.1.1 | EC Number |
 |ASL | GeneProduct | 435 | Entrez Gene |
-|4.3.2.2 | GeneProduct | 4.3.2.2 |  |
-|2.6.1.14 | GeneProduct | 2.6.1.14 |  |
-|3.5.1.3 | GeneProduct | 3.5.1.3 |  |
-|1.4.3.2 | GeneProduct | 1.4.3.2 |  |
-|1.4.3.16 | GeneProduct | 1.4.3.16 |  |
-|1.2.1.18 | GeneProduct | 1.2.1.18 |  |
-|2.1.3.2 | GeneProduct | 2.1.3.2 |  |
+|4.3.2.2 | GeneProduct | 4.3.2.2 | EC Number |
+|2.6.1.14 | GeneProduct | 2.6.1.14 | EC Number |
+|3.5.1.3 | GeneProduct | 3.5.1.3 | EC Number |
+|1.4.3.2 | GeneProduct | 1.4.3.2 | EC Number |
+|1.4.3.16 | GeneProduct | 1.4.3.16 | EC Number |
+|1.2.1.18 | GeneProduct | 1.2.1.18 | EC Number |
+|2.1.3.2 | GeneProduct | 2.1.3.2 | EC Number |
 |GOT2 | GeneProduct | 2806 | Entrez Gene |
-|6.3.5.6 | GeneProduct | 6.3.5.6 |  |
+|6.3.5.6 | GeneProduct | 6.3.5.6 | EC Number |
 |DARS | GeneProduct | 1615 | Entrez Gene |
-|6.1.1.22 | GeneProduct | 6.1.1.22 |  |
-|1.4.3.1 | GeneProduct | 1.4.3.1 |  |
-|1.4.3.15 | GeneProduct | 1.4.3.15 |  |
-|3.5.1.7 | GeneProduct | 3.5.1.7 |  |
-|5.1.1.13 | GeneProduct | 5.1.1.13 |  |
+|6.1.1.22 | GeneProduct | 6.1.1.22 | EC Number |
+|1.4.3.1 | GeneProduct | 1.4.3.1 | EC Number |
+|1.4.3.15 | GeneProduct | 1.4.3.15 | EC Number |
+|3.5.1.7 | GeneProduct | 3.5.1.7 | EC Number |
+|5.1.1.13 | GeneProduct | 5.1.1.13 | EC Number |
 |ASPA | GeneProduct | 443 | Entrez Gene |
 |GAD1 | GeneProduct | 2571 | Entrez Gene |
 |GOT1 | GeneProduct | 2805 | Entrez Gene |
@@ -63,14 +63,14 @@ cycle (CO2 fixation) | Pathway |  |  |
 |2-Oxoglutarate | Metabolite |  |  |
 |Succinate | Metabolite |  |  |
 |Fumarate | Metabolite |  |  |
-|Oxaloacetate | Metabolite |  |  |
+|Oxaloacetate | Metabolite | C00036 | Kegg Compound |
 |2-Oxosuccinamate | Metabolite |  |  |
 |N-Acetyl-L-aspartate | Metabolite |  |  |
-|Citrate | Metabolite |  |  |
+|Citric acid | Metabolite | HMDB00094 | HMDB |
 |N-Carbamoyl-L-aspartate | Metabolite |  |  |
-|D-aspartate | Metabolite |  |  |
+|D-aspartate | Metabolite | C00402 | Kegg Compound |
 |Malonate semialdehyde | Metabolite |  |  |
-|L-aspartate | Metabolite |  |  |
+|L-aspartate | Metabolite | C00049 | Kegg Compound |
 |Adenylosuccinate | Metabolite |  |  |
 |Histidine metabolism | Pathway |  |  |
 |Arginine and Proline metabolism | Pathway |  |  |
@@ -80,9 +80,9 @@ cycle (CO2 fixation) | Pathway |  |  |
 |Glycine, serine and threonine metabolism | Pathway |  |  |
 |Nicotinate and nicotinamide metabolism | Pathway |  |  |
 |tRNA (Asn) | GeneProduct |  |  |
-|L-Asparagine acid | Metabolite |  |  |
+|L-Asparagine acid | Metabolite | 70-47-3 | CAS |
 |L-Argininosuccinate | Metabolite |  |  |
 |tRNA(Asp) | GeneProduct |  |  |
 |L-Aspartic acid | Metabolite |  |  |
-|L-Asparagine acid | Metabolite |  |  |
+|L-Asparagine acid | Metabolite | 70-47-3 | CAS |
 |tRNA (Asn) | GeneProduct |  |  |
