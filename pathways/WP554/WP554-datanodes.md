@@ -31,6 +31,6 @@
 |ACE2 | GeneProduct | 59272 | Entrez Gene |
 |Ca++ | Metabolite | HMDB00464 | HMDB |
 |TFs | GeneProduct |  |  |
-|Angiotensin I | Metabolite | 3081372 | PubChem |
+|Angiotensin I | Metabolite | 3081372 | PubChem-compound |
 |ACE | GeneProduct | 1636 | Entrez Gene |
 |ACE2 | GeneProduct | 59272 | Entrez Gene |
