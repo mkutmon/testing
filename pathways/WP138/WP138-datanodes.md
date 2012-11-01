@@ -58,7 +58,7 @@
 |KLK3 | Rna | 354 | Entrez Gene |
 |RNF6 | Protein | 6049 | Entrez Gene |
 |PPAP2A | Rna | 8611 | Entrez Gene |
-|RLN1 | Rna |  | Entrez Gene |
+|RLN1 | GeneProduct | 6013 | Entrez Gene |
 |BMF | Rna | 90427 | Entrez Gene |
 |SIN3A | Protein | 25942 |  |
 |ETV5 | Protein | 2119 | Entrez Gene |
