@@ -81,7 +81,7 @@ cycle (CO2 fixation) | Pathway |  |  |
 |Nicotinate and nicotinamide metabolism | Pathway |  |  |
 |tRNA (Asn) | GeneProduct |  |  |
 |L-Asparagine acid | Metabolite | 70-47-3 | CAS |
-|L-Argininosuccinate | Metabolite | InChI=1S/C10H18N4O6/c11-5(8(17)18)2-1-3-13-10(12)14-6(9(19)20)4-7(15)16/ h5-6H,1-4,11H2,(H,15,16)(H,17,18)(H,19,20)(H3,12,13,14)/t5-,6-/m0/s1 | InChI |
+|L-Argininosuccinate | Metabolite | InChI=1S/C10H18N4O6/c11-5(8(17)18)2-1-3-13-10(12)14-6(9(19)20)4-7(15)16/h5-6H,1-4,11H2,(H,15,16)(H,17,18)(H,19,20)(H3,12,13,14)/t5-,6-/m0/s1 | InChI |
 |tRNA(Asp) | GeneProduct |  |  |
 |L-Aspartic acid | Metabolite | C00049 | Kegg Compound |
 |L-Asparagine acid | Metabolite | 70-47-3 | CAS |
