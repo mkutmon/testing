@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r41184" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r56065" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today. </Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="IRF4" GraphId="a02" Type="GeneProduct" GroupRef="c537f">
@@ -24,7 +24,7 @@
   </DataNode>
   <DataNode TextLabel="CASP8" GraphId="a45" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP8 | caspase 8 apoptosis-related cysteine p..." />
-    <Graphics CenterX="780.0" CenterY="280.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="768.0" CenterY="289.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="841" />
   </DataNode>
   <DataNode TextLabel="DFFB" GraphId="a5f" Type="GeneProduct">
@@ -107,6 +107,10 @@
     <Graphics CenterX="153.33333333333334" CenterY="662.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4790" />
   </DataNode>
+  <DataNode TextLabel="Pathway" GraphId="b82ea" Type="Pathway">
+    <Graphics CenterX="1098.0" CenterY="54.0" Width="80.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="CDKN2A" GraphId="b98" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CDKN2A | cyclin-dependent kinase inhibitor 2A (..." />
     <Graphics CenterX="390.0" CenterY="656.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -114,7 +118,7 @@
   </DataNode>
   <DataNode TextLabel="CASP7" GraphId="ba6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP7 | caspase 7 apoptosis-related cysteine p..." />
-    <Graphics CenterX="990.0" CenterY="336.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1057.0" CenterY="351.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="840" />
   </DataNode>
   <DataNode TextLabel="CRADD" GraphId="bd4" Type="GeneProduct" GroupRef="a85e8">
@@ -164,7 +168,7 @@
   </DataNode>
   <DataNode TextLabel="CASP2" GraphId="c90" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP2 | caspase 2 apoptosis-related cysteine p..." />
-    <Graphics CenterX="990.0" CenterY="360.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1033.0" CenterY="391.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="835" />
   </DataNode>
   <DataNode TextLabel="BOK" GraphId="ca7" Type="GeneProduct" GroupRef="ff56d">
@@ -195,7 +199,7 @@
   </DataNode>
   <DataNode TextLabel="BIRC5" GraphId="cc6" Type="GeneProduct" GroupRef="a904c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BIRC5 | baculoviral IAP repeat-containing 5 (su..." />
-    <Graphics CenterX="843.3333333333334" CenterY="420.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="855.3333333333334" CenterY="435.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="332" />
   </DataNode>
   <DataNode TextLabel="CASP3" GraphId="cd5" Type="GeneProduct">
@@ -218,9 +222,13 @@
     <Graphics CenterX="296.6666666666667" CenterY="186.0" Width="73.33333333333333" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7133" />
   </DataNode>
+  <DataNode TextLabel="GeneProduct" GraphId="ceddd" Type="GeneProduct">
+    <Graphics CenterX="365.0" CenterY="27.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
   <DataNode TextLabel="GZMB" GraphId="d0c" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GZMB | granzyme B (granzyme 2 cytotoxic T-lymp..." />
-    <Graphics CenterX="540.0" CenterY="70.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="956.0" CenterY="39.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3002" />
   </DataNode>
   <DataNode TextLabel="NFKBIA" GraphId="d21" Type="GeneProduct" GroupRef="defd7">
@@ -285,7 +293,7 @@
   </DataNode>
   <DataNode TextLabel="CASP9" GraphId="d80" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP9 | caspase 9 apoptosis-related cysteine p..." />
-    <Graphics CenterX="786.6666666666666" CenterY="343.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="801.6666666666666" CenterY="337.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="842" />
   </DataNode>
   <DataNode TextLabel="NFKBIB" GraphId="d93" Type="GeneProduct" GroupRef="e38bb">
@@ -300,7 +308,7 @@
   </DataNode>
   <DataNode TextLabel="BIRC4" GraphId="dc5" Type="GeneProduct" GroupRef="a904c">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BIRC4 | baculoviral IAP repeat-containing 4" />
-    <Graphics CenterX="843.3333333333334" CenterY="400.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="874.3333333333334" CenterY="403.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="331" />
   </DataNode>
   <DataNode TextLabel="NFKBIE" GraphId="dd3" Type="GeneProduct" GroupRef="defd7">
@@ -330,7 +338,7 @@
   </DataNode>
   <DataNode TextLabel="PRF1" GraphId="e23" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PRF1 | perforin 1 (pore forming protein)" />
-    <Graphics CenterX="605.3333333333334" CenterY="143.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="596.3333333333334" CenterY="142.33333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5551" />
   </DataNode>
   <DataNode TextLabel="IRF3" GraphId="e31" Type="GeneProduct" GroupRef="c537f">
@@ -345,7 +353,7 @@
   </DataNode>
   <DataNode TextLabel="IRF7" GraphId="e68" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF7 | interferon regulatory factor 7" />
-    <Graphics CenterX="1190.0" CenterY="543.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1198.0" CenterY="557.3333333333334" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3665" />
   </DataNode>
   <DataNode TextLabel="IKBKG" GraphId="e69" Type="GeneProduct" GroupRef="cb605">
@@ -384,7 +392,7 @@
   </DataNode>
   <DataNode TextLabel="CASP10" GraphId="eed" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP10 | caspase 10 apoptosis-related cysteine..." />
-    <Graphics CenterX="826.6666666666666" CenterY="256.6666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="822.6666666666666" CenterY="254.66666666666669" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="843" />
   </DataNode>
   <DataNode TextLabel="TNFRSF1A" GraphId="f02" Type="GeneProduct" GroupRef="a85e8">
@@ -401,6 +409,10 @@
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BCL2L2 | BCL2-like 2" />
     <Graphics CenterX="396.6666666666667" CenterY="342.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="599" />
+  </DataNode>
+  <DataNode TextLabel="Protein" GraphId="f1d96" Type="Protein">
+    <Graphics CenterX="1031.0" CenterY="99.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="CASP11" GraphId="f2e" Type="GeneProduct">
     <Graphics CenterX="933.3333333333334" CenterY="216.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -428,7 +440,7 @@
   </DataNode>
   <DataNode TextLabel="MDM2" GraphId="f68" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="MDM2 | Mdm2 transformed 3T3 cell double minute..." />
-    <Graphics CenterX="370.0" CenterY="570.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="375.0" CenterY="562.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4193" />
   </DataNode>
   <DataNode TextLabel="BBC3" GraphId="fa6" Type="GeneProduct" GroupRef="ff56d">
@@ -473,8 +485,8 @@
   </DataNode>
   <Interaction GraphId="a147d">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
-      <Point X="862.3333333333334" Y="382.0" GraphRef="dce7b" RelX="0.5" RelY="-1.0" />
-      <Point X="960.0" Y="336.6666666666667" GraphRef="ba6" RelX="-1.0" RelY="0.0" ArrowHead="TBar" />
+      <Point X="888.5833333333334" Y="385.0" GraphRef="dce7b" RelX="0.5" RelY="-1.0" />
+      <Point X="1027.0" Y="351.6666666666667" GraphRef="ba6" RelX="-1.0" RelY="0.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -487,7 +499,7 @@
   </Interaction>
   <Interaction GraphId="a637e">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="816.6666666666666" Y="343.3333333333333" GraphRef="d80" RelX="1.0" RelY="0.0" />
+      <Point X="831.6666666666666" Y="337.3333333333333" GraphRef="d80" RelX="1.0" RelY="0.0" />
       <Point X="960.0" Y="313.3333333333333" GraphRef="cd5" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -502,7 +514,7 @@
   <Interaction GraphId="a882d">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="720.0" Y="136.66666666666669" GraphRef="d44" RelX="0.0" RelY="1.0" />
-      <Point X="765.0" Y="270.0" GraphRef="a45" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="753.0" Y="279.0" GraphRef="a45" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -537,8 +549,8 @@
   </Interaction>
   <Interaction GraphId="ab39f">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="816.6666666666666" Y="343.3333333333333" GraphRef="d80" RelX="1.0" RelY="0.0" />
-      <Point X="960.0" Y="360.0" GraphRef="c90" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="831.6666666666666" Y="337.3333333333333" GraphRef="d80" RelX="1.0" RelY="0.0" />
+      <Point X="1003.0" Y="391.0" GraphRef="c90" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -601,7 +613,7 @@
   <Interaction GraphId="b787a">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
       <Point X="126.33333333333333" Y="307.3333333333333" GraphRef="f02c5" RelX="1.0" RelY="0.5" />
-      <Point X="200.6843513611335" Y="371.530287854122" GraphRef="cb0" RelX="-0.5" RelY="-1.0" />
+      <Point X="195.68435136113348" Y="381.5302878541219" GraphRef="cb0" RelX="-0.5" RelY="-1.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -643,7 +655,7 @@
   </Interaction>
   <Interaction GraphId="bb62f">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0" Color="ff0000">
-      <Point X="856.6666666666666" Y="256.6666666666667" GraphRef="eed" RelX="1.0" RelY="0.0" />
+      <Point X="852.6666666666666" Y="254.66666666666669" GraphRef="eed" RelX="1.0" RelY="0.0" />
       <Point X="1080.6666666666667" Y="260.0" GraphRef="ac6" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -651,7 +663,7 @@
   <Interaction GraphId="bbf49">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="236.0" Y="494.66666666666663" GraphRef="fa658" RelX="0.0" RelY="-1.0" />
-      <Point X="250.0" Y="473.3333333333333" />
+      <Point X="216.0" Y="405.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -664,7 +676,7 @@
   </Interaction>
   <Interaction GraphId="bc77c">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="810.0" Y="280.0" GraphRef="a45" RelX="1.0" RelY="0.0" />
+      <Point X="798.0" Y="289.0" GraphRef="a45" RelX="1.0" RelY="0.0" />
       <Point X="960.0" Y="313.3333333333333" GraphRef="cd5" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -693,7 +705,7 @@
   <Interaction GraphId="c3757">
     <BiopaxRef>c9a</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
-      <Point X="385.0" Y="580.0" GraphRef="f68" RelX="0.5" RelY="1.0" />
+      <Point X="390.0" Y="572.0" GraphRef="f68" RelX="0.5" RelY="1.0" />
       <Point X="417.0" Y="595.6666666666666" GraphRef="cbf" RelX="-0.5" RelY="-1.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -721,9 +733,9 @@
   </Interaction>
   <Interaction GraphId="c8362">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="540.0" Y="80.0" GraphRef="d0c" RelX="0.0" RelY="1.0" />
+      <Point X="956.0" Y="49.0" GraphRef="d0c" RelX="0.0" RelY="1.0" />
       <Point X="975.0" Y="303.3333333333333" GraphRef="cd5" RelX="-0.5" RelY="-1.0" ArrowHead="Arrow" />
-      <Anchor Position="0.4" Shape="None" GraphId="d5f68" />
+      <Anchor Position="0.5117185775526565" Shape="None" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -737,14 +749,14 @@
   <Interaction GraphId="ca4dd">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="545.3333333333333" Y="163.66666666666666" GraphRef="ef1a2" RelX="1.0" RelY="-0.5" />
-      <Point X="796.6666666666666" Y="256.6666666666667" GraphRef="eed" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="792.6666666666666" Y="254.66666666666669" GraphRef="eed" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="caeeb">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="605.3333333333334" Y="153.33333333333334" GraphRef="e23" RelX="0.0" RelY="1.0" />
-      <Point X="714.0" Y="169.33333333333331" GraphRef="d5f68" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+      <Point X="596.3333333333334" Y="152.33333333333334" GraphRef="e23" RelX="0.0" RelY="1.0" />
+      <Point X="768.0" Y="279.0" GraphRef="a45" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -764,7 +776,7 @@
   </Interaction>
   <Interaction GraphId="d0298">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="750.0" Y="280.0" GraphRef="a45" RelX="-1.0" RelY="0.0" />
+      <Point X="738.0" Y="289.0" GraphRef="a45" RelX="-1.0" RelY="0.0" />
       <Point X="616.0" Y="293.3333333333333" GraphRef="dde" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -785,15 +797,15 @@
   </Interaction>
   <Interaction GraphId="d3e57">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="810.0" Y="280.0" GraphRef="a45" RelX="1.0" RelY="0.0" />
-      <Point X="960.0" Y="360.0" GraphRef="c90" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="798.0" Y="289.0" GraphRef="a45" RelX="1.0" RelY="0.0" />
+      <Point X="1003.0" Y="391.0" GraphRef="c90" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="d8616">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="726.6666666666666" Y="316.6666666666667" GraphRef="aa8" RelX="1.0" RelY="0.0" />
-      <Point X="786.6666666666666" Y="333.3333333333333" GraphRef="d80" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="801.6666666666666" Y="327.3333333333333" GraphRef="d80" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -807,7 +819,7 @@
   <Interaction GraphId="d9f4f">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="615.3333333333334" Y="344.0" GraphRef="c3d" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="574.0" Y="403.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -821,14 +833,14 @@
   <Interaction GraphId="e0190">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="546.0" Y="332.0" GraphRef="a93" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="574.0" Y="415.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="e06c6">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="545.3333333333333" Y="201.66666666666666" GraphRef="ef1a2" RelX="1.0" RelY="0.5" />
-      <Point X="750.0" Y="280.0" GraphRef="a45" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="738.0" Y="289.0" GraphRef="a45" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -856,7 +868,7 @@
   <Interaction GraphId="e2a45">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
       <Point X="434.6666666666667" Y="372.3333333333333" GraphRef="f3348" RelX="1.0" RelY="0.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="TBar" />
+      <Point X="551.0" Y="408.33333333333337" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -870,7 +882,7 @@
   <Interaction GraphId="e9678">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="443.3333333333333" Y="433.3333333333333" GraphRef="fac" RelX="1.0" RelY="0.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="551.0" Y="419.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -897,16 +909,16 @@
   </Interaction>
   <Interaction GraphId="f03ff">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0" Color="0000ff">
-      <Point X="843.3333333333334" Y="382.0" GraphRef="dce7b" RelX="0.0" RelY="-1.0" />
-      <Point X="815.0" Y="374.6666666666667" />
-      <Point X="786.6666666666666" Y="353.3333333333333" GraphRef="d80" RelX="0.0" RelY="1.0" ArrowHead="TBar" />
+      <Point X="864.8333333333334" Y="385.0" GraphRef="dce7b" RelX="0.0" RelY="-1.0" />
+      <Point X="833.25" Y="369.0" />
+      <Point X="801.6666666666666" Y="347.3333333333333" GraphRef="d80" RelX="0.0" RelY="1.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="f11ae">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="486.66666666666674" Y="302.6666666666667" GraphRef="cb6" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="564.0" Y="421.33333333333337" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -920,8 +932,8 @@
   <Interaction GraphId="f779e">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="653.3333333333335" Y="456.6666666666667" GraphRef="a6b" RelX="1.0" RelY="0.0" />
-      <Point X="778.0" Y="433.3333333333333" />
-      <Point X="805.3333333333334" Y="410.0" GraphRef="dce7b" RelX="-1.0" RelY="0.0" ArrowHead="TBar" />
+      <Point X="745.0" Y="437.83333333333337" />
+      <Point X="817.3333333333334" Y="419.0" GraphRef="dce7b" RelX="-1.0" RelY="0.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -934,8 +946,8 @@
   </Interaction>
   <Interaction GraphId="fd3ee">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="810.0" Y="280.0" GraphRef="a45" RelX="1.0" RelY="0.0" />
-      <Point X="960.0" Y="336.6666666666667" GraphRef="ba6" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="798.0" Y="289.0" GraphRef="a45" RelX="1.0" RelY="0.0" />
+      <Point X="1027.0" Y="351.6666666666667" GraphRef="ba6" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -949,7 +961,7 @@
   <Interaction GraphId="ff8a4">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="375.0" Y="646.6666666666666" GraphRef="b98" RelX="-0.5" RelY="-1.0" />
-      <Point X="370.0" Y="580.0" GraphRef="f68" RelX="0.0" RelY="1.0" ArrowHead="TBar" />
+      <Point X="375.0" Y="572.0" GraphRef="f68" RelX="0.0" RelY="1.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -975,7 +987,7 @@
     <Graphics CenterX="90.0" CenterY="806.6666666666666" Width="169.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Casp" GraphId="c28">
-    <Graphics CenterX="220.0" CenterY="386.0" Width="45.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="221.0" CenterY="389.0" Width="45.333333333333336" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="e" GraphId="c2b">
     <Graphics CenterX="407.3333333333333" CenterY="533.3333333333334" Width="14.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -1002,22 +1014,26 @@
     <Graphics CenterX="759.0" CenterY="683.6666666666666" Width="155.33333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="p" GraphId="fe2">
-    <Graphics CenterX="254.66666666666666" CenterY="482.0" Width="15.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="281.6666666666667" CenterY="471.0" Width="15.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Apoptosis" GraphId="fff">
     <Graphics CenterX="283.3333333333333" CenterY="716.6666666666666" Width="83.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Shape GraphId="a6d06">
-    <Graphics CenterX="574.0" CenterY="480.75" Width="278.0" Height="176.5" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Mitochondria" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
+  <Shape TextLabel="Mitochondrion" GraphId="a6d06">
+    <Graphics CenterX="577.0" CenterY="481.75" Width="278.0" Height="176.5" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Mitochondria" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
   </Shape>
   <Shape GraphId="c45" GroupRef="e97a7">
     <Graphics CenterX="192.66666666666666" CenterY="162.0" Width="283.5403333333333" Height="8.666666666666666" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Brace" Rotation="0.0" />
   </Shape>
-  <Shape GraphId="cb0">
-    <Graphics CenterX="220.0" CenterY="388.0" Width="75.28696" Height="26.719506666666668" ZOrder="16384" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.08396508" />
+  <Shape TextLabel="Casp" GraphId="cb0">
+    <Graphics CenterX="215.0" CenterY="398.0" Width="75.28696" Height="26.719506666666668" ZOrder="16384" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.08396508" />
   </Shape>
   <Shape GraphId="d22">
-    <Graphics CenterX="1020.0" CenterY="540.0" Width="466.75693333333334" Height="113.2878" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+    <Graphics CenterX="1020.0" CenterY="533.32195" Width="466.75693333333334" Height="126.64390000000003" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
+  </Shape>
+  <Shape GraphId="e87b2">
+    <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Mitochondria" />
+    <Graphics CenterX="505.0" CenterY="79.0" Width="200.0" Height="100.0" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Mitochondria" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
   </Shape>
   <Group GroupId="f06d3" GraphId="a995e" />
   <Group GroupId="d7a6b" GraphId="afd71" />
@@ -1041,15 +1057,6 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="1162.2" CenterY="8.847126666666666" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of p53 in response to DNA damage.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lakin ND</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson SP</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c9a">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17914240</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1058,6 +1065,15 @@
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bose I</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghosh B</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of p53 in response to DNA damage.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lakin ND</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson SP</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
