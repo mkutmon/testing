@@ -94,6 +94,3 @@
 |CYCS | GeneProduct | 54205 | Entrez Gene |
 |TP63 | GeneProduct | 8626 | Entrez Gene |
 |TP73 | GeneProduct | 7161 | Entrez Gene |
-|GeneProduct | GeneProduct |  |  |
-|Pathway | Pathway |  |  |
-|Protein | Protein |  |  |
