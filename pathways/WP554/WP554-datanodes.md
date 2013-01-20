@@ -11,7 +11,7 @@
  | Metabolite |  |  |
 |AGT | GeneProduct | 183 | Entrez Gene |
 |AGTR2 | GeneProduct | 186 | Entrez Gene |
-|Prostacyclin | Metabolite | 114805 |  |
+|Prostacyclin | Metabolite | 114805 | PubChem-compound |
 |Ang 1-5 | Metabolite |  |  |
 |ACE | GeneProduct | 1636 | Entrez Gene |
 |Deoxycorticosterone | Metabolite | HMDB00016 | HMDB |
