@@ -21,7 +21,7 @@
 |FGG | GeneProduct | 2266 | Entrez Gene |
 |F8 | GeneProduct | 2157 | Entrez Gene |
 |F8A1 | GeneProduct | 8263 | Entrez Gene |
-|Prothrombinase Complex | GeneProduct |  | SwissProt |
+|Prothrombinase Complex | GeneProduct |  | Uniprot/TrEMBL |
 |Fibrin | Metabolite | 9001-31-4 | CAS |
 |Zinc | Metabolite | HMDB01303 | HMDB |
 |KLKB1 | GeneProduct | 3818 | Entrez Gene |
