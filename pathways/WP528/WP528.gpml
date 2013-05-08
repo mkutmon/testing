@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r44939" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r63138" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Acetylcholine is an important neurotransmitter. It can be rapidly released in the synaptic cleft upon activation of the neuron. In the synaptic cleft the compound is degraded rapidly into choline and acetate, this is essential for proper neuronal functioning. Choline and Acetate are taken up into the cytosol and recycled for the next activation.</Comment>
   <BiopaxRef>dbc</BiopaxRef>
   <Graphics BoardWidth="823.0" BoardHeight="622.8666666666667" />
   <DataNode TextLabel="PCYT1A" GraphId="a69" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PCYT1A | phosphate cytidylyltransferase 1 chol..." />
-    <Graphics CenterX="660.6666666666666" CenterY="198.36666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="660.6666666666666" CenterY="198.36666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5130" />
   </DataNode>
   <DataNode TextLabel="PDHA2" GraphId="a93" Type="GeneProduct" GroupRef="dc39d">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PDHA2 | pyruvate dehydrogenase (lipoamide) alph..." />
-    <Graphics CenterX="169.66666666666666" CenterY="266.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="169.66666666666666" CenterY="266.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5161" />
   </DataNode>
   <DataNode TextLabel="ACHE" GraphId="afe" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACHE | acetylcholinesterase (YT blood group)" />
-    <Graphics CenterX="302.3333333333333" CenterY="515.0333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="302.3333333333333" CenterY="515.0333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="43" />
   </DataNode>
   <DataNode TextLabel="Cytidine diphosphate choline" GraphId="b909c" Type="Metabolite">
-    <Graphics CenterX="718.0" CenterY="89.0" Width="150.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="718.0" CenterY="89.0" Width="150.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB01413" />
   </DataNode>
   <DataNode TextLabel="PDHA1" GraphId="ba5" Type="GeneProduct" GroupRef="dc39d">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PDHA1 | pyruvate dehydrogenase (lipoamide) alph..." />
-    <Graphics CenterX="169.66666666666666" CenterY="246.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="169.66666666666666" CenterY="246.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="5160" />
   </DataNode>
   <DataNode TextLabel="Phosphatidylethanolamine" GraphId="baec0" Type="Metabolite">
-    <Graphics CenterX="417.0" CenterY="89.0" Width="142.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="417.0" CenterY="89.0" Width="142.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB01222" />
   </DataNode>
   <DataNode TextLabel="Phosphorylcholine" GraphId="ca8" Type="Metabolite">
-    <Graphics CenterX="717.75" CenterY="329.3666666666667" Width="102.5" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="717.75" CenterY="329.3666666666667" Width="102.5" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB01565" />
   </DataNode>
   <DataNode TextLabel="Acetylcholine" GraphId="cc9" Type="Metabolite">
-    <Graphics CenterX="253.91666666666666" CenterY="450.03333333333336" Width="74.16666666666667" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="253.91666666666666" CenterY="450.03333333333336" Width="74.16666666666667" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="51-84-3" />
   </DataNode>
   <DataNode TextLabel="Choline" GraphId="d2e" Type="Metabolite">
-    <Graphics CenterX="418.6666666666667" CenterY="582.3666666666667" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="418.6666666666667" CenterY="582.3666666666667" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="62-49-7" />
   </DataNode>
   <DataNode TextLabel="Glycerophosphocholine" GraphId="d6e" Type="Metabolite">
-    <Graphics CenterX="417.1666666666667" CenterY="254.36666666666667" Width="115.66666666666667" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="417.1666666666667" CenterY="254.36666666666667" Width="115.66666666666667" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="28319-77-9" />
   </DataNode>
   <DataNode TextLabel="Phosphatidylcholine" GraphId="ddaf4" Type="Metabolite">
-    <Graphics CenterX="417.5" CenterY="183.0" Width="125.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="417.5" CenterY="183.0" Width="125.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB00564" />
   </DataNode>
   <DataNode TextLabel="Pyruvate from Glycolysis" GraphId="dfde2" Type="Metabolite">
-    <Graphics CenterX="114.0" CenterY="205.0" Width="154.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="114.0" CenterY="205.0" Width="154.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="HMDB" ID="HMDB00243" />
   </DataNode>
   <DataNode TextLabel="Acetyl CoA" GraphId="dfe" Type="Metabolite">
-    <Graphics CenterX="114.66666666666667" CenterY="329.03333333333336" Width="89.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="114.66666666666667" CenterY="329.03333333333336" Width="89.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="72-89-9" />
   </DataNode>
   <DataNode TextLabel="PEMT" GraphId="e2a" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PEMT | phosphatidylethanolamine N-methyltransfe..." />
-    <Graphics CenterX="417.6666666666667" CenterY="126.36666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="417.6666666666667" CenterY="126.36666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="10400" />
   </DataNode>
   <DataNode TextLabel="Acetate" GraphId="e42" Type="Metabolite">
-    <Graphics CenterX="113.66666666666667" CenterY="583.3666666666667" Width="62.333333333333336" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="113.66666666666667" CenterY="583.3666666666667" Width="62.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="64-19-7" />
   </DataNode>
   <DataNode TextLabel="CHKA" GraphId="ea5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHKA | choline kinase alpha" />
-    <Graphics CenterX="570.6666666666666" CenterY="387.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="570.6666666666666" CenterY="387.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1119" />
   </DataNode>
   <DataNode TextLabel="CHAT" GraphId="f01" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CHAT | choline acetyltransferase" />
-    <Graphics CenterX="305.3333333333333" CenterY="393.3666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="305.3333333333333" CenterY="393.3666666666667" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1103" />
   </DataNode>
   <DataNode TextLabel="Choline" GraphId="f74" Type="Metabolite">
-    <Graphics CenterX="417.6666666666667" CenterY="328.03333333333336" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="417.6666666666667" CenterY="328.03333333333336" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="62-49-7" />
   </DataNode>
   <Interaction GraphId="a063b">
@@ -273,6 +273,11 @@
   <InfoBox CenterX="8.333333333333334" CenterY="11.666666666666666" />
   <Legend CenterX="702.7" CenterY="474.6" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acetylcholine metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000408</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="dbc">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6867732</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -282,11 +287,6 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blusztajn JK</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wurtman RJ</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acetylcholine metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000408</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>
 
