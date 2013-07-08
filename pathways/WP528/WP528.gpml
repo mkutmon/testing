@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r63138" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r69052" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas | Egonw" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Acetylcholine is an important neurotransmitter. It can be rapidly released in the synaptic cleft upon activation of the neuron. In the synaptic cleft the compound is degraded rapidly into choline and acetate, this is essential for proper neuronal functioning. Choline and Acetate are taken up into the cytosol and recycled for the next activation.</Comment>
   <BiopaxRef>dbc</BiopaxRef>
   <Graphics BoardWidth="823.0" BoardHeight="622.8666666666667" />
@@ -29,7 +29,7 @@
   </DataNode>
   <DataNode TextLabel="Phosphatidylethanolamine" GraphId="baec0" Type="Metabolite">
     <Graphics CenterX="417.0" CenterY="89.0" Width="142.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01222" />
+    <Xref Database="HMDB" ID="HMDB60501" />
   </DataNode>
   <DataNode TextLabel="Phosphorylcholine" GraphId="ca8" Type="Metabolite">
     <Graphics CenterX="717.75" CenterY="329.3666666666667" Width="102.5" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
