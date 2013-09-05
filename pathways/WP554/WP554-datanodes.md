@@ -18,7 +18,7 @@
 |MAS1 | GeneProduct | 4142 | Entrez Gene |
 |TGFB1 | GeneProduct | 7040 | Entrez Gene |
 |CMA1 | GeneProduct | 1215 | Entrez Gene |
-|ACE Inhibitor | Metabolite |  |  |
+|ACE Inhibitor | Metabolite | CHEBI:35457 | ChEBI |
 |ACE | GeneProduct | 1636 | Entrez Gene |
 |KNG1 | GeneProduct | 3827 | Entrez Gene |
 |NR3C2 | GeneProduct | 4306 | Entrez Gene |
