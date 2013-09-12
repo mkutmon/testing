@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r70863" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis.
-\Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general.
-Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today.  </Comment>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r70880" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today.  </Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="IRF4" GraphId="a02" Type="GeneProduct" GroupRef="c537f">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="IRF4 | interferon regulatory factor 4" />
@@ -1043,15 +1041,6 @@ Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="1162.2" CenterY="8.847126666666666" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c9a">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17914240</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The p53-MDM2 network: from oscillations to apoptosis.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biosci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bose I</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghosh B</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1060,6 +1049,15 @@ Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lakin ND</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson SP</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c9a">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17914240</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The p53-MDM2 network: from oscillations to apoptosis.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biosci</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bose I</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghosh B</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
