@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r67036" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico | Christine Chichester" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r71277" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico | Christine Chichester" Organism="Homo sapiens">
   <BiopaxRef>e65</BiopaxRef>
   <BiopaxRef>f1b</BiopaxRef>
   <Graphics BoardWidth="1336.6666666666667" BoardHeight="1243.0" />
@@ -123,7 +123,7 @@
   </DataNode>
   <DataNode TextLabel="L-Aspartic acid" GraphId="c4eaa" Type="Metabolite" GroupRef="ac2a6">
     <Graphics CenterX="859.0" CenterY="614.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="Kegg Compound" ID="C00049" />
+    <Xref Database="KEGG Compound" ID="C00049" />
   </DataNode>
   <DataNode TextLabel="GPT" GraphId="c4f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="GPT | glutamic-pyruvate transaminase (alanine a..." />
@@ -189,7 +189,7 @@
   </DataNode>
   <DataNode TextLabel="Succinate" GraphId="d35fd" Type="Metabolite">
     <Graphics CenterX="113.0" CenterY="1116.0" Width="62.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="Kegg Compound" ID="C00042" />
+    <Xref Database="KEGG Compound" ID="C00042" />
   </DataNode>
   <DataNode TextLabel="Malonate semialdehyde" GraphId="d3aab" Type="Metabolite">
     <Graphics CenterX="685.5" CenterY="585.0" Width="127.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -233,7 +233,7 @@
   </DataNode>
   <DataNode TextLabel="Oxaloacetate" GraphId="da543" Type="Metabolite">
     <Graphics CenterX="370.0" CenterY="962.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="Kegg Compound" ID="C00036" />
+    <Xref Database="KEGG Compound" ID="C00036" />
   </DataNode>
   <DataNode TextLabel="2.6.1.14" GraphId="daf" Type="GeneProduct">
     <Graphics CenterX="714.3333333333334" CenterY="1102.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -284,7 +284,7 @@
   </DataNode>
   <DataNode TextLabel="2-Oxoglutarate" GraphId="eaf40" Type="Metabolite">
     <Graphics CenterX="373.0" CenterY="1116.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="Kegg Compound" ID="C00026" />
+    <Xref Database="KEGG Compound" ID="C00026" />
   </DataNode>
   <DataNode TextLabel="O-Acetylcarnitine" GraphId="ed0" Type="Metabolite">
     <Graphics CenterX="523.3333333333334" CenterY="382.3333333333333" Width="103.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -301,7 +301,7 @@
   </DataNode>
   <DataNode TextLabel="D-aspartate" GraphId="f0480" Type="Metabolite">
     <Graphics CenterX="686.0" CenterY="865.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="Kegg Compound" ID="C00402" />
+    <Xref Database="KEGG Compound" ID="C00402" />
   </DataNode>
   <DataNode TextLabel="Nicotinate and nicotinamide metabolism" GraphId="f1101" Type="Pathway">
     <Graphics CenterX="1150.5" CenterY="436.0" Width="245.0" Height="20.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
@@ -322,7 +322,7 @@
   </DataNode>
   <DataNode TextLabel="Fumarate" GraphId="f5c18" Type="Metabolite">
     <Graphics CenterX="50.0" CenterY="1044.0" Width="64.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="Kegg Compound" ID="C00122" />
+    <Xref Database="KEGG Compound" ID="C00122" />
   </DataNode>
   <DataNode TextLabel="2.1.3.2" GraphId="fa3" Type="GeneProduct">
     <Graphics CenterX="802.6666666666666" CenterY="675.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -338,7 +338,7 @@
   </DataNode>
   <DataNode TextLabel="L-aspartate" GraphId="fb2c2" Type="Metabolite">
     <Graphics CenterX="952.0" CenterY="886.0" Width="70.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="Kegg Compound" ID="C00049" />
+    <Xref Database="KEGG Compound" ID="C00049" />
   </DataNode>
   <DataNode TextLabel="PC" GraphId="fb4" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PC | pyruvate carboxylase" />
@@ -1090,14 +1090,6 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="133.33333333333334" CenterY="129.95553333333334" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f1b">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19455135</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1112,13 +1104,21 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dumas R</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alanine, aspartate and glutamate metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000028</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amino acid metabolic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alanine, aspartate and glutamate metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000028</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
   </Biopax>

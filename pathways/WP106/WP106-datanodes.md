@@ -60,17 +60,17 @@
 |Nicotinate and nicotinamide metabolism | Pathway |  |  |
 |Reductive carboxylate
 cycle (CO2 fixation) | Pathway |  |  |
-|2-Oxoglutarate | Metabolite | C00026 | Kegg Compound |
-|Succinate | Metabolite | C00042 | Kegg Compound |
-|Fumarate | Metabolite | C00122 | Kegg Compound |
-|Oxaloacetate | Metabolite | C00036 | Kegg Compound |
+|2-Oxoglutarate | Metabolite | C00026 | KEGG Compound |
+|Succinate | Metabolite | C00042 | KEGG Compound |
+|Fumarate | Metabolite | C00122 | KEGG Compound |
+|Oxaloacetate | Metabolite | C00036 | KEGG Compound |
 |2-Oxosuccinamate | Metabolite |  |  |
 |N-Acetyl-L-aspartate | Metabolite |  |  |
 |Citric acid | Metabolite | HMDB00094 | HMDB |
 |N-Carbamoyl-L-aspartate | Metabolite | 15859 | ChEBI |
-|D-aspartate | Metabolite | C00402 | Kegg Compound |
+|D-aspartate | Metabolite | C00402 | KEGG Compound |
 |Malonate semialdehyde | Metabolite | 33190 | ChEBI |
-|L-aspartate | Metabolite | C00049 | Kegg Compound |
+|L-aspartate | Metabolite | C00049 | KEGG Compound |
 |Adenylosuccinate | Metabolite |  |  |
 |Histidine metabolism | Pathway |  |  |
 |Arginine and Proline metabolism | Pathway |  |  |
@@ -83,7 +83,7 @@ cycle (CO2 fixation) | Pathway |  |  |
 |L-Asparagine acid | Metabolite | 70-47-3 | CAS |
 |L-Argininosuccinate | Metabolite | InChI=1S/C10H18N4O6/c11-5(8(17)18)2-1-3-13-10(12)14-6(9(19)20)4-7(15)16/h5-6H,1-4,11H2,(H,15,16)(H,17,18)(H,19,20)(H3,12,13,14)/t5-,6-/m0/s1 | InChI |
 |tRNA(Asp) | GeneProduct |  |  |
-|L-Aspartic acid | Metabolite | C00049 | Kegg Compound |
+|L-Aspartic acid | Metabolite | C00049 | KEGG Compound |
 |L-Asparagine acid | Metabolite | 70-47-3 | CAS |
 |tRNA (Asn) | GeneProduct |  |  |
 |Pyruvate | Metabolite | 32816 | ChEBI |
