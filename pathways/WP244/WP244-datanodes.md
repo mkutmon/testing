@@ -51,4 +51,4 @@
 |PRKCA | Protein | 5578 | Entrez Gene |
 |IRS2 | Protein | 8660 | Entrez Gene |
 |SRC | Protein | 6714 | Entrez Gene |
-|SOS1 | Protein |  | Entrez Gene |
+|SOS1 | Protein |  |  |
