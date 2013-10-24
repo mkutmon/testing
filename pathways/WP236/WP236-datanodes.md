@@ -128,6 +128,6 @@
 |PCK2 | GeneProduct | 5106 | Entrez Gene |
 |CEBPA | GeneProduct | 1050 | Entrez Gene |
 |IRS2 | GeneProduct | 8660 | Entrez Gene |
-|IRS3L | GeneProduct | 3668 | Entrez Gene |
+|IRS3P | GeneProduct | 442338 | Entrez Gene |
 |LPIN3 | GeneProduct | 64900 | Entrez Gene |
 |E2F4 | GeneProduct | 1874 | Entrez Gene |
