@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r71386" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r72110" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today.  </Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="IRF4" GraphId="a02" Type="GeneProduct" GroupRef="c537f">
@@ -12,15 +12,10 @@
     <Graphics CenterX="456.6666666666667" CenterY="676.6666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4609" />
   </DataNode>
-  <DataNode TextLabel="CYCS" GraphId="a28" Type="GeneProduct" GroupRef="f06d3">
+  <DataNode TextLabel="CYCS" GraphId="a28" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CYCS | cytochrome c somatic" />
-    <Graphics CenterX="550.0" CenterY="463.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="556.2695924764887" CenterY="476.65621734587234" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="54205" />
-  </DataNode>
-  <DataNode TextLabel="CYCT" GraphId="a32" Type="GeneProduct" GroupRef="f06d3">
-    <Attribute Key="org.pathvisio.model.BackpageHead" Value="CYCT" />
-    <Graphics CenterX="550.0" CenterY="483.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="CASP8" GraphId="a45" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="CASP8 | caspase 8 apoptosis-related cysteine p..." />
@@ -404,7 +399,7 @@
   </DataNode>
   <DataNode TextLabel="CASP11" GraphId="f2e" Type="GeneProduct">
     <Graphics CenterX="933.3333333333334" CenterY="216.66666666666666" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="Entrez Gene" ID="9169" />
   </DataNode>
   <DataNode TextLabel="NFKBIA" GraphId="f31" Type="GeneProduct" GroupRef="e38bb">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NFKBIA | nuclear factor of kappa light polypept..." />
@@ -714,7 +709,7 @@
   </Interaction>
   <Interaction GraphId="c59f1">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="550.0" Y="445.3333333333333" GraphRef="a995e" RelX="0.0" RelY="-1.0" />
+      <Point X="556.2695924764887" Y="466.65621734587234" GraphRef="a28" RelX="0.0" RelY="-1.0" />
       <Point X="696.6666666666666" Y="326.6666666666667" GraphRef="aa8" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1019,7 +1014,6 @@
   <Shape GraphId="d22">
     <Graphics CenterX="1020.0" CenterY="540.0" Width="466.75693333333334" Height="113.2878" ZOrder="16384" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
-  <Group GroupId="f06d3" GraphId="a995e" />
   <Group GroupId="d7a6b" GraphId="afd71" />
   <Group GroupId="d59c4" GraphId="b4533" GroupRef="e97a7" />
   <Group GroupId="ffcf1" GraphId="b4dc4" />
@@ -1041,15 +1035,6 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="1162.2" CenterY="8.847126666666666" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c9a">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17914240</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The p53-MDM2 network: from oscillations to apoptosis.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biosci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bose I</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghosh B</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1058,6 +1043,15 @@
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lakin ND</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson SP</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c9a">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17914240</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The p53-MDM2 network: from oscillations to apoptosis.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biosci</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bose I</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghosh B</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>

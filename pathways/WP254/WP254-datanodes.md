@@ -48,7 +48,7 @@
 |BAD | GeneProduct | 572 | Entrez Gene |
 |CASP1 | GeneProduct | 834 | Entrez Gene |
 |CASP4 | GeneProduct | 837 | Entrez Gene |
-|CASP11 | GeneProduct |  |  |
+|CASP11 | GeneProduct | 9169 | Entrez Gene |
 |CASP8 | GeneProduct | 841 | Entrez Gene |
 |TRAF3 | GeneProduct | 7187 | Entrez Gene |
 |TNFRSF25 | GeneProduct | 8718 | Entrez Gene |
@@ -90,7 +90,6 @@
 |PIK3R1 | GeneProduct | 5295 | Entrez Gene |
 |AKT1 | GeneProduct | 207 | Entrez Gene |
 |BAD | GeneProduct | 572 | Entrez Gene |
-|CYCT | GeneProduct |  |  |
 |CYCS | GeneProduct | 54205 | Entrez Gene |
 |TP63 | GeneProduct | 8626 | Entrez Gene |
 |TP73 | GeneProduct | 7161 | Entrez Gene |
