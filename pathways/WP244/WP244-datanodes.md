@@ -3,7 +3,7 @@
 |ITGA6 | Protein | 3655 | Entrez Gene |
 |PTPN11 | Protein | 5781 | Entrez Gene |
 |SHC1 | Protein | 6464 | Entrez Gene |
-|GRB2 | Protein | 2885 |  |
+|GRB2 | Protein | ENSG00000177885 | Ensembl |
 |MAPK1 | Protein | 5594 | Entrez Gene |
 |PIK3R1 | Protein | 5295 | Entrez Gene |
 |PIK3R2 | Protein | 5296 | Entrez Gene |
@@ -51,4 +51,4 @@
 |PRKCA | Protein | 5578 | Entrez Gene |
 |IRS2 | Protein | 8660 | Entrez Gene |
 |SRC | Protein | 6714 | Entrez Gene |
-|SOS1 | Protein |  |  |
+|SOS1 | Protein | ENSG00000115904 | Ensembl |
