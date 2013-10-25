@@ -60,7 +60,7 @@
 |PPAP2A | Rna | 8611 | Entrez Gene |
 |RLN1 | GeneProduct | 6013 | Entrez Gene |
 |BMF | Rna | 90427 | Entrez Gene |
-|SIN3A | Protein | 25942 |  |
+|SIN3A | Protein | 25942 | Entrez Gene |
 |ETV5 | Protein | 2119 | Entrez Gene |
 |NR0B2 | Protein | 8431 | Entrez Gene |
 |CAV1 | Protein | 857 | Entrez Gene |
@@ -79,7 +79,7 @@
 |PTEN | Protein | 5728 | Entrez Gene |
 |AR | Protein | 367 | Entrez Gene |
 |UBE2I | Protein | 7329 | Entrez Gene |
-|PIAS2 | Protein | 9063 |  |
+|PIAS2 | Protein | 9063 | Entrez Gene |
 |AR | Protein | 367 | Entrez Gene |
 |BRCA1 | Protein | 672 | Entrez Gene |
 |CCND1 | Protein | 595 | Entrez Gene |
