@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r72348" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas | Egonw | Ariutta" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r72513" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas | Egonw | Ariutta" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Acetylcholine is an important neurotransmitter. It can be rapidly released in the synaptic cleft upon activation of the neuron. In the synaptic cleft the compound is degraded rapidly into choline and acetate, this is essential for proper neuronal functioning. Choline and Acetate are taken up into the cytosol and recycled for the next activation.</Comment>
   <BiopaxRef>dbc</BiopaxRef>
   <Graphics BoardWidth="823.0" BoardHeight="622.8666666666667" />
@@ -123,8 +123,6 @@
   <Interaction GraphId="adb08">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="418.01651515151514" Y="419.8643434343435" GraphRef="f78da" RelX="0.0" RelY="0.0" />
-      <Point X="443.0" Y="389.3655050505051" />
-      <Point X="580.375" Y="358.8666666666667" />
       <Point X="717.75" Y="338.8666666666667" GraphRef="ca8" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="aa3c1" />
     </Graphics>
@@ -201,7 +199,7 @@
   <Interaction GraphId="cd893">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="570.6666666666666" Y="397.7" GraphRef="ea5" RelX="0.0" RelY="1.0" />
-      <Point X="509.311303030303" Y="358.8666666666667" GraphRef="aa3c1" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="485.311303030303" Y="358.8666666666667" GraphRef="aa3c1" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -275,11 +273,6 @@
   <InfoBox CenterX="8.333333333333334" CenterY="11.666666666666666" />
   <Legend CenterX="702.7" CenterY="474.6" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acetylcholine metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000408</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="dbc">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6867732</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -289,6 +282,11 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blusztajn JK</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wurtman RJ</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acetylcholine metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000408</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>
 
