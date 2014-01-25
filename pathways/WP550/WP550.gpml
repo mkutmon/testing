@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r67088" Author="AlexanderPico | MaintBot | Khanspers | Thomas | MartijnVanIersel | Christine Chichester" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r73391" Author="AlexanderPico | MaintBot | Khanspers | Thomas | MartijnVanIersel | Christine Chichester | Egonw" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Biogenic amines are one of two broad classes of classical neurotransmitters (the other being amino acids) and include: acetylcholine, serotonin, histamine, and the catecholamines epinephrine, norepinephrine, and dopamine.
 
 Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.html</Comment>
@@ -66,7 +66,7 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   </DataNode>
   <DataNode TextLabel="Histidine" GraphId="c6d" Type="Metabolite">
     <Graphics CenterX="233.33333333333337" CenterY="237.7000000000001" Width="72.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="CAS" ID="71-001" />
+    <Xref Database="CAS" ID="71-00-1" />
   </DataNode>
   <DataNode TextLabel="PNMT" GraphId="ce1" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PNMT | phenylethanolamine N-methyltransferase" />
@@ -434,11 +434,6 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001234 </bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amine neurotransmitter metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000436</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d64">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -453,6 +448,11 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">McNamara, James O.</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Williams, S. Mark.</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amine neurotransmitter metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000436</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>
 

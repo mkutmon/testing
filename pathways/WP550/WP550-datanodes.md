@@ -27,7 +27,7 @@
 |5-hydroxy-tryptophan | Metabolite | 4350-09-8 | CAS |
 |Serotonin | Metabolite | 50-67-9 | CAS |
 |Acetylserotonin | Metabolite | 1210-83-9 | CAS |
-|Histidine | Metabolite | 71-001 | CAS |
+|Histidine | Metabolite | 71-00-1 | CAS |
 |Histamine | Metabolite | 51-45-6 | CAS |
 |Glutamate | Metabolite | 56-86-0 | CAS |
 |Choline | Metabolite | 62-49-7 | CAS |
