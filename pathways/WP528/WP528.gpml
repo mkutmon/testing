@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r76269" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas | Egonw | Ariutta | Anwesha" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Acetylcholine Synthesis" Data-Source="WikiPathways" Version="WP528_r77669" Author="A.Kwa | MaintBot | Khanspers | Hubert | MartijnVanIersel | Thomas | Egonw | Ariutta | Anwesha | Mkutmon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Acetylcholine is an important neurotransmitter. It can be rapidly released in the synaptic cleft upon activation of the neuron. In the synaptic cleft the compound is degraded rapidly into choline and acetate, this is essential for proper neuronal functioning. Choline and Acetate are taken up into the cytosol and recycled for the next activation.</Comment>
   <BiopaxRef>dbc</BiopaxRef>
-  <Graphics BoardWidth="829.0515247108307" BoardHeight="622.8666666666667" />
+  <Graphics BoardWidth="829.0515247108307" BoardHeight="621.8666666666666" />
   <DataNode TextLabel="PCYT1A" GraphId="a69" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PCYT1A | phosphate cytidylyltransferase 1 chol..." />
     <Graphics CenterX="656.9484752891697" CenterY="200.46971608832808" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -65,7 +65,7 @@
     <Xref Database="Entrez Gene" ID="10400" />
   </DataNode>
   <DataNode TextLabel="Acetate" GraphId="e42" Type="Metabolite">
-    <Graphics CenterX="114.71819137749738" CenterY="583.3666666666667" Width="62.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="114.71819137749738" CenterY="582.3666666666666" Width="62.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="64-19-7" />
   </DataNode>
   <DataNode TextLabel="CHKA" GraphId="ea5" Type="GeneProduct">
@@ -79,17 +79,9 @@
     <Xref Database="Entrez Gene" ID="1103" />
   </DataNode>
   <DataNode TextLabel="Choline" GraphId="f74" Type="Metabolite">
-    <Graphics CenterX="418.4363827549947" CenterY="333.36666666666656" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="418.4363827549947" CenterY="330.36666666666673" Width="64.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="62-49-7" />
   </DataNode>
-  <Interaction GraphId="a063b">
-    <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
-      <Point X="252.99806697801782" Y="556.603675353858" GraphRef="bf069" RelX="0.0" RelY="0.0" />
-      <Point X="250.2628811777077" Y="569.9776348621837" />
-      <Point X="145.88485804416405" Y="583.3666666666667" GraphRef="e42" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="a2634">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="417.5" Y="100.0" GraphRef="baec0" RelX="0.0" RelY="1.0" />
@@ -109,13 +101,13 @@
   <Interaction GraphId="a9da6">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="287.0546792849631" Y="517.136382754995" GraphRef="afe" RelX="-1.0" RelY="0.0" />
-      <Point X="252.94262047004972" Y="516.5517119863676" GraphRef="f846e" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="252.86514195583595" Y="516.2037037037037" GraphRef="f846e" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="adb08">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="418.1490729057133" Y="423.3318181818181" GraphRef="f78da" RelX="0.0" RelY="0.0" />
+      <Point X="418.1490729057133" Y="421.3813636363637" GraphRef="f78da" RelX="0.0" RelY="0.0" />
       <Point X="506.83491062039946" Y="396.35686597839583" />
       <Point X="612.8182176656151" Y="369.3819137749735" />
       <Point X="718.8015247108307" Y="343.0727655099894" GraphRef="ca8" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
@@ -130,17 +122,9 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="b9d61">
-    <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
-      <Point X="386.2697160883281" Y="333.36666666666656" GraphRef="f74" RelX="-1.0" RelY="0.0" />
-      <Point X="254.0" Y="349.5729458942739" />
-      <Point X="251.74238851448231" Y="365.77922512188127" GraphRef="a482c" RelX="0.0" RelY="0.0" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="be454">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="114.71819137749738" Y="573.8666666666667" GraphRef="e42" RelX="0.0" RelY="-1.0" />
+      <Point X="114.71819137749738" Y="572.8666666666666" GraphRef="e42" RelX="0.0" RelY="-1.0" />
       <Point X="114.66666666666676" Y="339.86666666666673" GraphRef="dfe" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -161,11 +145,11 @@
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="c1f99">
-    <Graphics ZOrder="12288" LineThickness="1.0">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="252.86514195583595" Y="460.58485804416404" GraphRef="cc9" RelX="0.0" RelY="1.0" />
-      <Point X="253.0" Y="558.0" />
-      <Anchor Position="0.9856662463544418" Shape="None" GraphId="bf069" />
-      <Anchor Position="0.5745190410703984" Shape="None" GraphId="f846e" />
+      <Point X="385.4484752891693" Y="582.3666666666667" GraphRef="d2e" RelX="-1.0" RelY="0.0" />
+      <Anchor Position="0.21865749855456393" Shape="None" GraphId="f846e" />
+      <Anchor Position="0.47876767895990613" Shape="None" GraphId="e9a18" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -179,7 +163,7 @@
   <Interaction GraphId="c7056">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="417.61514195583595" Y="572.8666666666667" GraphRef="d2e" RelX="0.0" RelY="-1.0" />
-      <Point X="418.4363827549947" Y="342.86666666666656" GraphRef="f74" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="418.4363827549947" Y="339.86666666666673" GraphRef="f74" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
       <Anchor Position="0.6501515151515151" Shape="None" GraphId="f78da" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -187,30 +171,30 @@
   <Interaction GraphId="c8f4e">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="277.43638275499467" Y="392.315141955836" GraphRef="f01" RelX="-1.0" RelY="0.0" />
-      <Point X="252.14605678233437" Y="393.03394321766564" GraphRef="d7914" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="252.86514195583595" Y="391.74994667680187" GraphRef="d7914" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="cd893">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="586.4395373291269" Y="413.4518401682442" GraphRef="ea5" RelX="0.0" RelY="-1.0" />
-      <Point X="585.6992639327025" Y="369.3819137749735" GraphRef="aa3c1" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="586.5155288753756" Y="369.3819137749735" GraphRef="aa3c1" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="d02d4">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="251.66666666666663" Y="360.6666666666667" />
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="386.2697160883281" Y="330.36666666666673" GraphRef="f74" RelX="-1.0" RelY="0.0" />
       <Point X="252.86514195583595" Y="441.58485804416404" GraphRef="cc9" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-      <Anchor Position="0.06318181818181819" Shape="None" GraphId="a482c" />
-      <Anchor Position="0.4" Shape="None" GraphId="d7914" />
+      <Anchor Position="0.7962785218969036" Shape="None" GraphId="d7914" />
+      <Anchor Position="0.5453481561880406" Shape="None" GraphId="a5b14" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="d3028">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="667.5515247108307" Y="333.5727655099894" GraphRef="ca8" RelX="-1.0" RelY="0.0" />
-      <Point X="450.60304942166135" Y="333.36666666666656" GraphRef="f74" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="450.60304942166135" Y="330.36666666666673" GraphRef="f74" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -224,15 +208,7 @@
   <Interaction GraphId="dd739">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="418.0515247108307" Y="263.8666666666667" GraphRef="d6e" RelX="0.0" RelY="1.0" />
-      <Point X="418.4363827549947" Y="323.86666666666656" GraphRef="f74" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e3599">
-    <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
-      <Point X="252.99806697801782" Y="556.603675353858" GraphRef="bf069" RelX="0.0" RelY="0.0" />
-      <Point X="254.0" Y="569.4851710102623" />
-      <Point X="385.4484752891693" Y="582.3666666666667" GraphRef="d2e" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="418.4363827549947" Y="320.86666666666673" GraphRef="f74" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -243,11 +219,17 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="f692e">
-    <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
+  <Interaction GraphId="id2603411f">
+    <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="159.33333333333343" Y="330.36666666666673" GraphRef="dfe" RelX="1.0" RelY="0.0" />
-      <Point X="253.0" Y="348.0397272727273" />
-      <Point X="251.74238851448231" Y="365.77922512188127" GraphRef="a482c" RelX="0.0" RelY="0.0" />
+      <Point X="252.86514195583595" Y="330.36666666666673" GraphRef="a5b14" RelX="0.0" RelY="0.0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idacc3128f">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="145.88485804416405" Y="582.3666666666666" GraphRef="e42" RelX="1.0" RelY="0.0" />
+      <Point X="252.86514195583595" Y="582.3666666666667" GraphRef="e9a18" RelX="0.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -272,6 +254,11 @@
   <Group GroupId="dc39d" GraphId="d74e5" />
   <InfoBox CenterX="8.333333333333334" CenterY="11.666666666666666" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acetylcholine metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000408</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="dbc">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">6867732</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -281,11 +268,6 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blusztajn JK</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wurtman RJ</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">acetylcholine metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000408</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>
 
