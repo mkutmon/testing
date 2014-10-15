@@ -7,11 +7,11 @@
 |TFs | GeneProduct |  |  |
 |AGTR1 | GeneProduct | 185 | Entrez Gene |
 |Aldosterone | Metabolite | HMDB00037 | HMDB |
-|Ang 1-9 | Metabolite |  |  |
+|Ang 1-9 | Metabolite | C15851 | KEGG Compound |
 |AGT | GeneProduct | 183 | Entrez Gene |
 |AGTR2 | GeneProduct | 186 | Entrez Gene |
 |Prostacyclin | Metabolite | 114805 | PubChem-compound |
-|Ang 1-5 | Metabolite |  |  |
+|Ang 1-5 | Metabolite | C15852 | KEGG Compound |
 |ACE | GeneProduct | 1636 | Entrez Gene |
 |Deoxycorticosterone | Metabolite | HMDB00016 | HMDB |
 |MAS1 | GeneProduct | 4142 | Entrez Gene |
