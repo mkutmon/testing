@@ -24,7 +24,7 @@
 |BDKRB1 | GeneProduct | 623 | Entrez Gene |
 |NOS3 | GeneProduct | 4846 | Entrez Gene |
 |ATP6AP2 | GeneProduct | 10159 | Entrez Gene |
-|Ang 1-7 | Metabolite |  |  |
+|Ang 1-7 | Metabolite | 110354 | Chemspider |
 |Angiotensin II | Metabolite | HMDB01035 | HMDB |
 |Bradykinin | Metabolite | HMDB04246 | HMDB |
 |ACE2 | GeneProduct | 59272 | Entrez Gene |
