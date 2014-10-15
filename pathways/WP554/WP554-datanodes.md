@@ -7,8 +7,7 @@
 |TFs | GeneProduct |  |  |
 |AGTR1 | GeneProduct | 185 | Entrez Gene |
 |Aldosterone | Metabolite | HMDB00037 | HMDB |
-|Ang 1-9
- | Metabolite |  |  |
+|Ang 1-9 | Metabolite |  |  |
 |AGT | GeneProduct | 183 | Entrez Gene |
 |AGTR2 | GeneProduct | 186 | Entrez Gene |
 |Prostacyclin | Metabolite | 114805 | PubChem-compound |
