@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Adipogenesis" Data-Source="WikiPathways" Version="WP236_r72082" Author="M.Patti | MaintBot | Khanspers | Nsalomonis | MartijnVanIersel | AlexanderPico" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Adipogenesis" Data-Source="WikiPathways" Version="WP236_r78584" Author="M.Patti | MaintBot | Khanspers | Nsalomonis | MartijnVanIersel | AlexanderPico" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The different classess of factors involved in adipogenesis are shown. Adipogenesis is the process by which fat cells differentiate from predadipocytes to adipocytes (fat cells). Adipose tissue, composed of white and brown adipose tissue, is composed of adipocytes. This pathway is primarily studied to understand factors that contribute to obesity and diabetes. Transcriptional and hormonal regulators of adipocyte formation are indicated.
 
 </Comment>
@@ -826,14 +826,14 @@
   <Shape GraphId="fda">
     <Graphics CenterX="1210.0" CenterY="210.0" Width="14.867573333333333" Height="11.141236" ZOrder="16384" FillColor="000000" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.1018156" />
   </Shape>
-  <Group GroupId="ba160" Style="Group" />
-  <Group GroupId="c0fc4" Style="Group" />
-  <Group GroupId="f92ab" Style="Group" />
-  <Group GroupId="dbd59" Style="Group" />
-  <Group GroupId="d90e3" Style="Group" />
-  <Group GroupId="d7365" Style="Group" />
-  <Group GroupId="a0dff" Style="Group" />
-  <Group GroupId="ff818" Style="Group" />
+  <Group GroupId="c0fc4" GraphId="a66bc" Style="Group" />
+  <Group GroupId="f92ab" GraphId="bb831" Style="Group" />
+  <Group GroupId="ba160" GraphId="d1684" Style="Group" />
+  <Group GroupId="a0dff" GraphId="d3837" Style="Group" />
+  <Group GroupId="ff818" GraphId="dce5d" Style="Group" />
+  <Group GroupId="d90e3" GraphId="e985a" Style="Group" />
+  <Group GroupId="d7365" GraphId="f3e06" Style="Group" />
+  <Group GroupId="dbd59" GraphId="ff0dc" Style="Group" />
   <InfoBox CenterX="5.1" CenterY="8.333333333333334" />
   <Legend CenterX="341.3333333333333" CenterY="118.53333333333333" />
   <Biopax>
