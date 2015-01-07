@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="B Cell Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP23_r72101" Author="A.Pandey | MaintBot | Khanspers | Mkutmon | MartijnVanIersel | NetPath | Christine Chichester" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="B Cell Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP23_r78566" Author="A.Pandey | MaintBot | Khanspers | Mkutmon | MartijnVanIersel | NetPath | Christine Chichester" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The functional B-cell receptor is a multi-protein complex consisting of an antigen binding subunit and a signaling subunit. The antigen binding subunit is the membrane bound immunoglobulin and the signaling subunit consists of the Ig�� and Ig�= proteins, which are covalently bound to each other. Both Ig�� and Ig�= proteins have an immunoreceptor tyrosine -based activation motif (ITAM) each in its cytoplasmic region, which is responsible for the initiation and propagation of signaling. Antigen binding to the immunoglubulin results in the aggregation of both the immunoglobulin and the Ig��/�= subunits. This results in the phosphorylation of the tyrosine residues in the ITAM motif of the Ig��/�= subunits by the src-family of protein tyrosine kinases Lyn and Syk. The Src family kinases are initially in the proximity of the BCR as a result of membrane anchoring by virtue of its their acetylation. The N-terminal region of the kinases can also interact with the non-phosphorylated ITAMs of Ig��. This association is further enhanced upon BCR engagement as a result of accumulation in BCR containing lipid rafts and SH2 domain mediated binding to the phosphorylated tyrosine residues in ITAMs. This increased association helps in amplifying the BCR mediated signaling. Doubly phosphorylated Ig��/�= ITAMs are necessary for efficient recruitment of Syk and its activation. Activated Syk then phsophorylates the adapter molecule B cell linker protein (BLNK), which acts as molecular scaffold for the recruitment of multiple effectors and hence the propagation of multiple signaling pathways. BLNK binds to Btk and PLC�=2 which results in optimal phosphorylation and activation of PLC. This is an important mechanism which links BCR to Ca2+ signaling. Apart from the PLC mediated Ca2+ signaling, BCR triggering also results in the the activaion of phosphatidylinositol-3 kinase (PI-3K). This activation takes place through the recruitment of p85 adaptor subunit of PI-3K to CD19 co-receptor, which is phosphorylated by Lyn on its cytoplasmic Y-X-X-M motif. Alternatively, PI-3K can be recruited to the plasma membrane by other adapter molecules including PIK3AP, CBL or GAB1/2. PI-3K catalyzes the phosphorylation of phosphatidylinositol 4,5-bisphosphate to phosphatidyl inositol 3,4,5-bisphosphate. Akt, a serine threonine kinase, is recruited to the plasma membrane by virtue of its N-terminal PH-domain where it is activated by conformational changes and phosphorylation. Activated Akt phosphorylates several substrates resulting in diverse physiological consequences: Forkhead transcription factors - resulting in its degradation and hence inhibition of expression of pro-apoptotic genes, glycogen synthase kinase-3 GSK3 -leading to its inhibition and hence regulation of cell-cycle. The tanscription factor NF-kappaB is also found to be activated in BCR signaling in a Btk, PI-3K and PKC dependent manner. 
 BCR engagement can also result in the association of GRB2/SOS complex with either SHC or BLNK, which results in the activation of the Ras/Raf/MEK/ERK signaling cascade. This cascade leads to the activation of transcription factors including ELK and MYC. BCR activation also results in the activation of JNKs and p38MAPK.
 
@@ -2464,32 +2464,32 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   <Shape GraphId="e0074">
     <Graphics CenterX="1142.6666666666642" CenterY="1178.79862136878" Width="14.0" Height="14.0" ZOrder="33750" FillColor="ffffff" FontSize="10" Valign="Middle" ShapeType="Oval" Rotation="0.0" />
   </Shape>
-  <Group GroupId="a33d5" Style="Group" />
-  <Group GroupId="f848f" Style="Group" />
-  <Group GroupId="d4b2d" Style="Group" />
-  <Group GroupId="e91aa" Style="Group" />
-  <Group GroupId="f46d0" Style="Group" />
-  <Group GroupId="dc2bf" Style="Group" />
-  <Group GroupId="f674d" Style="Group" />
-  <Group GroupId="fda77" Style="Group" />
-  <Group GroupId="a92de" Style="Group" />
-  <Group GroupId="a3b1a" Style="Group" />
-  <Group GroupId="b94ef" Style="Group" />
-  <Group GroupId="c8350" Style="Group" />
-  <Group GroupId="c7279" Style="Group" />
   <Group GroupId="dde4e" GraphId="a7818" Style="Group" />
+  <Group GroupId="fda77" GraphId="ae1c5" Style="Group" />
   <Group GroupId="dfa0f" GraphId="b5543" Style="Group" />
+  <Group GroupId="f674d" GraphId="b66b7" Style="Group" />
+  <Group GroupId="dc2bf" GraphId="b84ff" Style="Group" />
   <Group GroupId="ca623" GraphId="bcde8" Style="Group" />
+  <Group GroupId="b94ef" GraphId="bd6a7" Style="Group" />
+  <Group GroupId="a33d5" GraphId="be242" Style="Group" />
+  <Group GroupId="a92de" GraphId="c53f9" Style="Group" />
+  <Group GroupId="e91aa" GraphId="dae8f" Style="Group" />
+  <Group GroupId="c8350" GraphId="dd1ad" Style="Group" />
+  <Group GroupId="f46d0" GraphId="dd499" Style="Group" />
+  <Group GroupId="f848f" GraphId="de9fa" Style="Group" />
+  <Group GroupId="a3b1a" GraphId="e3ebc" Style="Group" />
+  <Group GroupId="c7279" GraphId="ecf90" Style="Group" />
+  <Group GroupId="d4b2d" GraphId="f5a6f" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B cell receptor signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000822</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">signaling pathway pertinent to immunity</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000818</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">signaling pathway pertinent to immunity</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000818</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B cell receptor signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000822</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
