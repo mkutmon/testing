@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r72110" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r78808" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno | Egonw" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today.  </Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="IRF4" GraphId="a02" Type="GeneProduct" GroupRef="c537f">
@@ -572,13 +572,6 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="b5295">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="0080ff">
-      <Point X="186.66666666666666" Y="806.6666666666666" />
-      <Point X="230.0" Y="806.6666666666666" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="b5cd8">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="933.3333333333334" Y="226.66666666666666" GraphRef="f2e" RelX="0.0" RelY="1.0" />
@@ -632,7 +625,7 @@
   <Interaction GraphId="bb394">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="586.0" Y="303.3333333333333" GraphRef="dde" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="574.0" Y="392.5" GraphRef="a6d06" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -646,7 +639,7 @@
   <Interaction GraphId="bbf49">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="236.0" Y="494.66666666666663" GraphRef="fa658" RelX="0.0" RelY="-1.0" />
-      <Point X="250.0" Y="473.3333333333333" />
+      <Point X="247.0" Y="482.0" GraphRef="fe2" RelX="-1.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -795,14 +788,14 @@
   <Interaction GraphId="d88b2">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="460.6666666666667" Y="334.6666666666667" GraphRef="d71" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="574.0" Y="392.5" GraphRef="a6d06" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="d9f4f">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="615.3333333333334" Y="344.0" GraphRef="c3d" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="574.0" Y="392.5" GraphRef="a6d06" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -816,7 +809,7 @@
   <Interaction GraphId="e0190">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="546.0" Y="332.0" GraphRef="a93" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="574.0" Y="392.5" GraphRef="a6d06" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -851,7 +844,7 @@
   <Interaction GraphId="e2a45">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="0000ff">
       <Point X="434.6666666666667" Y="372.3333333333333" GraphRef="f3348" RelX="1.0" RelY="0.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="TBar" />
+      <Point X="574.0" Y="392.5" GraphRef="a6d06" RelX="0.0" RelY="-1.0" ArrowHead="TBar" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -865,7 +858,7 @@
   <Interaction GraphId="e9678">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="443.3333333333333" Y="433.3333333333333" GraphRef="fac" RelX="1.0" RelY="0.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="574.0" Y="392.5" GraphRef="a6d06" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -901,7 +894,7 @@
   <Interaction GraphId="f11ae">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
       <Point X="486.66666666666674" Y="302.6666666666667" GraphRef="cb6" RelX="0.0" RelY="1.0" />
-      <Point X="560.0" Y="403.33333333333337" ArrowHead="Arrow" />
+      <Point X="574.0" Y="392.5" GraphRef="a6d06" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -917,13 +910,6 @@
       <Point X="653.3333333333335" Y="456.6666666666667" GraphRef="a6b" RelX="1.0" RelY="0.0" />
       <Point X="778.0" Y="433.3333333333333" />
       <Point X="805.3333333333334" Y="410.0" GraphRef="dce7b" RelX="-1.0" RelY="0.0" ArrowHead="TBar" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="fbd02">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="186.66666666666666" Y="780.0" />
-      <Point X="230.0" Y="780.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -948,6 +934,18 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <GraphicalLine GraphId="idccbc6e3a">
+    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
+      <Point X="183.53857518818663" Y="779.7017797017796" />
+      <Point X="229.7146213642328" Y="779.7017797017796" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="bd2e0">
+    <Graphics ZOrder="32769" LineThickness="1.0" Color="0080ff">
+      <Point X="183.03857012612832" Y="807.4051582144584" />
+      <Point X="230.21463360961678" Y="808.4051745849453" />
+    </Graphics>
+  </GraphicalLine>
   <Label TextLabel="b" GraphId="a8a">
     <Graphics CenterX="138.0" CenterY="329.3333333333333" Width="15.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
@@ -1035,15 +1033,6 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="1162.2" CenterY="8.847126666666666" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of p53 in response to DNA damage.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lakin ND</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson SP</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c9a">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17914240</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1052,6 +1041,15 @@
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bose I</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghosh B</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of p53 in response to DNA damage.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lakin ND</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson SP</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
