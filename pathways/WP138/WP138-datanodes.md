@@ -22,7 +22,7 @@
 |RELA | Protein | 5970 | Entrez Gene |
 |SMAD4 | Protein | 4089 | Entrez Gene |
 |NCOA3 | Protein | 8202 | Entrez Gene |
-|TGIF1 | Protein |  |  |
+|TGIF1 | Protein | 7050 | Entrez Gene |
 |NR2C2 | Protein | 7182 | Entrez Gene |
 |AR | Protein | 367 | Entrez Gene |
 |PIAS1 | Protein | 8554 | Entrez Gene |
