@@ -9,7 +9,6 @@
 |RHOB | Protein | 388 | Entrez Gene |
 |ROCK1 | Protein | 6093 | Entrez Gene |
 |ROCK2 | Protein | 9475 | Entrez Gene |
-|Actin polymerization | Protein |  |  |
 |LIMK2 | Protein | 3985 | Entrez Gene |
 |DSTN | Protein | 11034 | Entrez Gene |
 |NCOR1 | Protein | 9611 | Entrez Gene |
