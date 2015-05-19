@@ -131,3 +131,4 @@
 |IRS3P | GeneProduct | 442338 | Entrez Gene |
 |LPIN3 | GeneProduct | 64900 | Entrez Gene |
 |E2F4 | GeneProduct | 1874 | Entrez Gene |
+|MIR451A | Rna | ENSG00000207794 | Ensembl |
