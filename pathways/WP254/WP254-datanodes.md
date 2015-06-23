@@ -2,6 +2,7 @@
 | ---- | ---- | ---- | ---- |
 |PMAIP1 | GeneProduct | 5366 | Entrez Gene |
 |MIR29B1 | Rna | ENSG00000207748 | Ensembl |
+|MIR29A | Rna | ENSG00000198981 | Ensembl |
 |CASP9 | GeneProduct | 842 | Entrez Gene |
 |MDM2 | GeneProduct | 4193 | Entrez Gene |
 |BAK1 | GeneProduct | 578 | Entrez Gene |
