@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r73391" Author="AlexanderPico | MaintBot | Khanspers | Thomas | MartijnVanIersel | Christine Chichester | Egonw" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r81168" Author="AlexanderPico | MaintBot | Khanspers | Thomas | MartijnVanIersel | Christine Chichester | Egonw | Evelo" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Biogenic amines are one of two broad classes of classical neurotransmitters (the other being amino acids) and include: acetylcholine, serotonin, histamine, and the catecholamines epinephrine, norepinephrine, and dopamine.
 
 Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.html</Comment>
@@ -12,7 +12,7 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   </DataNode>
   <DataNode TextLabel="DDC" GraphId="a57" Type="GeneProduct" GroupRef="da2ca">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DDC | dopa decarboxylase (aromatic L-amino acid..." />
-    <Graphics CenterX="170.33333333333337" CenterY="293.03333333333313" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="257.33333333333337" CenterY="291.03333333333313" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1644" />
   </DataNode>
   <DataNode TextLabel="Choline" GraphId="a7b" Type="Metabolite">
@@ -42,7 +42,7 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   </DataNode>
   <DataNode TextLabel="HDC" GraphId="beb" Type="GeneProduct" GroupRef="da2ca">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="HDC | histidine decarboxylase" />
-    <Graphics CenterX="170.33333333333337" CenterY="273.03333333333313" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="257.33333333333337" CenterY="271.03333333333313" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="3067" />
   </DataNode>
   <DataNode TextLabel="DBH" GraphId="bf8" Type="GeneProduct">
@@ -65,7 +65,7 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
     <Xref Database="CAS" ID="59-92-7" />
   </DataNode>
   <DataNode TextLabel="Histidine" GraphId="c6d" Type="Metabolite">
-    <Graphics CenterX="233.33333333333337" CenterY="237.7000000000001" Width="72.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="203.33333333333337" CenterY="235.7000000000001" Width="72.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="71-00-1" />
   </DataNode>
   <DataNode TextLabel="PNMT" GraphId="ce1" Type="GeneProduct">
@@ -142,7 +142,7 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   </DataNode>
   <DataNode TextLabel="ASMT" GraphId="f4d" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASMT | acetylserotonin O-methyltransferase" />
-    <Graphics CenterX="460.6666666666668" CenterY="465.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="588.6666666666667" CenterY="462.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="438" />
   </DataNode>
   <DataNode TextLabel="Norepinephrine" GraphId="f5c" Type="Metabolite">
@@ -150,7 +150,7 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
     <Xref Database="CAS" ID="51-41-2" />
   </DataNode>
   <DataNode TextLabel="Histamine" GraphId="f6f" Type="Metabolite">
-    <Graphics CenterX="233.33333333333337" CenterY="349.03333333333313" Width="81.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="203.33333333333337" CenterY="347.03333333333313" Width="81.33333333333333" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="51-45-6" />
   </DataNode>
   <DataNode TextLabel="MAOA" GraphId="fc6" Type="GeneProduct" GroupRef="d082a">
@@ -196,8 +196,8 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   </Interaction>
   <Interaction GraphId="aef74">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="233.33333333333337" Y="247.2000000000001" GraphRef="c6d" RelX="0.0" RelY="1.0" />
-      <Point X="233.33333333333337" Y="339.53333333333313" GraphRef="f6f" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="203.33333333333337" Y="245.2000000000001" GraphRef="c6d" RelX="0.0" RelY="1.0" />
+      <Point X="203.33333333333337" Y="337.53333333333313" GraphRef="f6f" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="a5550" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -301,6 +301,9 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   <Interaction GraphId="cca4a">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
       <Point X="495.5000000000001" Y="333.3666666666667" GraphRef="dc9" RelX="-1.0" RelY="0.0" />
+      <Point X="474.5000000000001" Y="392.18333333333334" />
+      <Point X="475.75000000000006" Y="451.0" />
+      <Point X="477.0" Y="505.0" />
       <Point X="530.6852380952382" Y="559.0" GraphRef="dc756" RelX="0.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -344,8 +347,8 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   </Interaction>
   <Interaction GraphId="e28c5">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="208.33333333333337" Y="283.03333333333313" GraphRef="b3433" RelX="1.0" RelY="0.0" />
-      <Point X="233.33333333333337" Y="284.1333333333333" GraphRef="a5550" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="295.33333333333337" Y="281.03333333333313" GraphRef="b3433" RelX="1.0" RelY="0.0" />
+      <Point X="203.33333333333337" Y="282.1333333333333" GraphRef="a5550" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -407,7 +410,7 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   </Interaction>
   <Interaction GraphId="fb4e2">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="490.6666666666668" Y="465.7" GraphRef="f4d" RelX="1.0" RelY="0.0" />
+      <Point X="618.6666666666667" Y="462.7" GraphRef="f4d" RelX="1.0" RelY="0.0" />
       <Point X="535.8333333333335" Y="463.92" GraphRef="e4597" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -429,11 +432,6 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   <InfoBox CenterX="15.0" CenterY="15.0" />
   <Legend CenterX="11.666666666666666" CenterY="425.0" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biogenic amine biosynthetic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001234 </bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d64">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -448,6 +446,11 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">McNamara, James O.</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Williams, S. Mark.</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biogenic amine biosynthetic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001234 </bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amine neurotransmitter metabolic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000436</bp:ID>
