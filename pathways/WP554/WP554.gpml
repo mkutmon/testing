@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway" Data-Source="WikiPathways" Version="WP554_r77712" Author="C.F.Thorn | MaintBot | Jinwook | Khanspers | AlexanderPico | Thomas | MartijnVanIersel | Egonw | Christine Chichester | Nuno" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="ACE Inhibitor Pathway" Data-Source="WikiPathways" Version="WP554_r84290" Author="C.F.Thorn | MaintBot | Jinwook | Khanspers | AlexanderPico | Thomas | MartijnVanIersel | Egonw | Christine Chichester | Nuno" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The core of this pathway was elucidated over a century ago and involves the conversion of angiotensinogen to angiotensin I (Ang I) by renin, its subsequent conversion to angiotensin II (Ang II) by angiotensin converting enzyme. Ang II activates the angiotensin II receptor type 1 to induce aldosterone synthesis, increasing water and salt resorption and potassium excretion in the kidney and increasing blood pressure.
 
 Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathway)</Comment>
@@ -8,21 +8,21 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
   <DataNode TextLabel="NOS3" GraphId="ab119" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="NOS3 | nitric oxide synthase 3 (endothelial cel..." />
     <Graphics CenterX="759.0" CenterY="512.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="4846" />
+    <Xref Database="undefined" ID="4846" />
   </DataNode>
   <DataNode TextLabel="AGTR2" GraphId="b1122" Type="GeneProduct">
     <BiopaxRef>bc9</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AGTR2 | angiotensin II receptor type 2" />
     <Graphics CenterX="351.3333333333333" CenterY="390.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="186" />
+    <Xref Database="undefined" ID="186" />
   </DataNode>
   <DataNode TextLabel="Ang 1-5" GraphId="b298c" Type="Metabolite">
     <Graphics CenterX="102.0" CenterY="326.0" Width="54.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="KEGG Compound" ID="C15852" />
+    <Xref Database="undefined" ID="C15852" />
   </DataNode>
   <DataNode TextLabel="BDKRB1" GraphId="b4349" Type="GeneProduct">
     <Graphics CenterX="681.5" CenterY="388.0" Width="57.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="623" />
+    <Xref Database="undefined" ID="623" />
   </DataNode>
   <DataNode TextLabel="TFs" GraphId="b47da" Type="GeneProduct">
     <Graphics CenterX="395.5" CenterY="469.0" Width="37.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -31,119 +31,119 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
   <DataNode TextLabel="AGTR1" GraphId="b4811" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AGTR1 | angiotensin II receptor type 1" />
     <Graphics CenterX="428.3333333333333" CenterY="390.3333333333333" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="185" />
+    <Xref Database="undefined" ID="185" />
   </DataNode>
   <DataNode TextLabel="Aldosterone" GraphId="b75c3" Type="Metabolite">
     <BiopaxRef>ce3</BiopaxRef>
     <Graphics CenterX="563.0" CenterY="530.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00037" />
+    <Xref Database="undefined" ID="HMDB00037" />
   </DataNode>
   <DataNode TextLabel="TGFB1" GraphId="becdd" Type="GeneProduct">
     <BiopaxRef>af8</BiopaxRef>
     <Graphics CenterX="192.5" CenterY="481.0" Width="59.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="7040" />
+    <Xref Database="undefined" ID="7040" />
   </DataNode>
   <DataNode TextLabel="Bradykinin" GraphId="c496e" Type="Metabolite">
     <Graphics CenterX="717.0" CenterY="319.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB04246" />
+    <Xref Database="undefined" ID="HMDB04246" />
   </DataNode>
   <DataNode TextLabel="CTSG" GraphId="c9ca8" Type="GeneProduct">
     <Graphics CenterX="321.5" CenterY="231.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1511" />
+    <Xref Database="undefined" ID="1511" />
   </DataNode>
   <DataNode TextLabel="Angiotensin II" GraphId="ca3ad" Type="Metabolite">
     <Graphics CenterX="383.0" CenterY="326.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB01035" />
+    <Xref Database="undefined" ID="HMDB01035" />
   </DataNode>
   <DataNode TextLabel="KNG1" GraphId="cc0b4" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="KNG1 | kininogen 1" />
     <Graphics CenterX="717.6666666666667" CenterY="247.33333333333331" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="3827" />
+    <Xref Database="undefined" ID="3827" />
   </DataNode>
   <DataNode TextLabel="Ca++" GraphId="d519e" Type="Metabolite">
     <Graphics CenterX="371.0" CenterY="425.0" Width="32.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00464" />
+    <Xref Database="undefined" ID="HMDB00464" />
   </DataNode>
   <DataNode TextLabel="Angiotensin I" GraphId="d6a08" Type="Metabolite">
     <Graphics CenterX="382.0" CenterY="201.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="PubChem-compound" ID="3081372" />
+    <Xref Database="undefined" ID="3081372" />
   </DataNode>
   <DataNode TextLabel="ACE" GraphId="d6f1e" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACE | angiotensin I converting enzyme (peptidyl..." />
     <Graphics CenterX="652.3333333333333" CenterY="283.66666666666663" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1636" />
+    <Xref Database="undefined" ID="1636" />
   </DataNode>
   <DataNode TextLabel="ACE Inhibitor" GraphId="d9620" Type="Metabolite">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACE Inhibitor" />
     <Graphics CenterX="467.5" CenterY="40.66666666666666" Width="91.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="cc0000" />
-    <Xref Database="ChEBI" ID="CHEBI:35457" />
+    <Xref Database="undefined" ID="CHEBI:35457" />
   </DataNode>
   <DataNode TextLabel="Deoxycorticosterone" GraphId="da9ee" Type="Metabolite">
     <Graphics CenterX="407.875" CenterY="529.75" Width="113.75" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB00016" />
+    <Xref Database="undefined" ID="HMDB00016" />
   </DataNode>
   <DataNode TextLabel="CMA1" GraphId="de1e4" Type="GeneProduct">
     <Graphics CenterX="301.0" CenterY="257.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1215" />
+    <Xref Database="undefined" ID="1215" />
   </DataNode>
   <DataNode TextLabel="Ang 1-7" GraphId="df262" Type="Metabolite">
     <Graphics CenterX="204.5" CenterY="326.0" Width="51.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="Chemspider" ID="110354" />
+    <Xref Database="undefined" ID="110354" />
   </DataNode>
   <DataNode TextLabel="Prostacyclin" GraphId="e01c3" Type="Metabolite">
     <Graphics CenterX="693.0" CenterY="466.0" Width="70.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="PubChem-compound" ID="114805" />
+    <Xref Database="undefined" ID="114805" />
   </DataNode>
   <DataNode TextLabel="REN" GraphId="e0a11" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="REN | renin" />
     <Graphics CenterX="324.3333333333333" CenterY="120.0" Width="44.66666666666663" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="5972" />
+    <Xref Database="undefined" ID="5972" />
   </DataNode>
   <DataNode TextLabel="CYP11B2" GraphId="e14ac" Type="GeneProduct">
     <BiopaxRef>ce3</BiopaxRef>
     <Graphics CenterX="491.0" CenterY="479.0" Width="62.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1585" />
+    <Xref Database="undefined" ID="1585" />
   </DataNode>
   <DataNode TextLabel="MAS1" GraphId="e3012" Type="GeneProduct">
     <BiopaxRef>c74</BiopaxRef>
     <Graphics CenterX="204.0" CenterY="389.0" Width="52.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="4142" />
+    <Xref Database="undefined" ID="4142" />
   </DataNode>
   <DataNode TextLabel="ACE2" GraphId="e68e0" Type="GeneProduct">
     <BiopaxRef>c74</BiopaxRef>
     <Graphics CenterX="282.5" CenterY="168.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="59272" />
+    <Xref Database="undefined" ID="59272" />
   </DataNode>
   <DataNode TextLabel="AGT" GraphId="e89d5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="AGT | angiotensinogen (serine (or cysteine) pro..." />
     <Graphics CenterX="382.66666666666663" CenterY="88.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="183" />
+    <Xref Database="undefined" ID="183" />
   </DataNode>
   <DataNode TextLabel="NR3C2" GraphId="ec3b5" Type="GeneProduct">
     <BiopaxRef>ce3</BiopaxRef>
     <BiopaxRef>b5d</BiopaxRef>
     <Graphics CenterX="563.5" CenterY="588.0" Width="55.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="4306" />
+    <Xref Database="undefined" ID="4306" />
   </DataNode>
   <DataNode TextLabel="ATP6AP2" GraphId="ee619" Type="GeneProduct">
     <BiopaxRef>c16</BiopaxRef>
     <Graphics CenterX="78.0" CenterY="389.0" Width="64.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="10159" />
+    <Xref Database="undefined" ID="10159" />
   </DataNode>
   <DataNode TextLabel="ACE" GraphId="ef1f3" Type="GeneProduct">
     <BiopaxRef>bd1</BiopaxRef>
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACE | angiotensin I converting enzyme (peptidyl..." />
     <Graphics CenterX="468.0" CenterY="253.66666666666663" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1636" />
+    <Xref Database="undefined" ID="1636" />
   </DataNode>
   <DataNode TextLabel="BDKRB2" GraphId="f54f5" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="BDKRB2 | bradykinin receptor B2" />
     <Graphics CenterX="759.3333333333333" CenterY="388.0" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="624" />
+    <Xref Database="undefined" ID="624" />
   </DataNode>
   <DataNode TextLabel="Ang 1-9" GraphId="fbc8b" Type="Metabolite">
     <Graphics CenterX="204.5" CenterY="201.0" Width="51.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="KEGG Compound" ID="C15851" />
+    <Xref Database="undefined" ID="C15851" />
   </DataNode>
   <DataNode TextLabel="TFs" GraphId="fd8ec" Type="GeneProduct">
     <Graphics CenterX="97.5" CenterY="470.0" Width="37.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
@@ -152,12 +152,12 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
   <DataNode TextLabel="ACE" GraphId="d046f" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACE | angiotensin I converting enzyme (peptidyl..." />
     <Graphics CenterX="155.0" CenterY="286.66666666666663" Width="60.0" Height="20.0" ZOrder="32770" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="1636" />
+    <Xref Database="undefined" ID="1636" />
   </DataNode>
   <DataNode TextLabel="ACE2" GraphId="e08c8" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ACE | angiotensin I converting enzyme (peptidyl..." />
     <Graphics CenterX="274.0" CenterY="292.66666666666663" Width="60.0" Height="20.0" ZOrder="32770" FontSize="10" Valign="Middle" />
-    <Xref Database="Entrez Gene" ID="59272" />
+    <Xref Database="undefined" ID="59272" />
   </DataNode>
   <Interaction GraphId="a0cae">
     <BiopaxRef>bc9</BiopaxRef>
@@ -429,7 +429,7 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Label TextLabel="Zona glomerulosa &#xA;of the adrenal gland" GraphId="a49c5">
+  <Label TextLabel="Zona glomerulosa  of the adrenal gland" GraphId="a49c5">
     <Graphics CenterX="400.0" CenterY="585.5" Width="184.0" Height="35.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="14" Valign="Middle" Color="999999" />
   </Label>
   <Label TextLabel="EDHF" GraphId="b2aa3">
@@ -438,7 +438,7 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
   <Label TextLabel="Blood vessels" GraphId="d3e2b">
     <Graphics CenterX="749.0" CenterY="579.5" Width="184.0" Height="35.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="14" Valign="Middle" Color="999999" />
   </Label>
-  <Label TextLabel="Mesangial cells around&#xA;blood vessels in the kidneys" GraphId="e166c">
+  <Label TextLabel="Mesangial cells around blood vessels in the kidneys" GraphId="e166c">
     <Graphics CenterX="139.0" CenterY="583.5" Width="222.0" Height="35.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="14" Valign="Middle" Color="999999" />
   </Label>
   <Shape GraphId="c2049">
@@ -455,11 +455,15 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
   </Shape>
   <InfoBox CenterX="1.6666666666666667" CenterY="38.333333333333336" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">angiotensin signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000245</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c74">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18449520</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Are we poised to target ACE2 for the next generation of antihypertensives?</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Mol Med</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferreira AJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raizada MK</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b40">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17376010</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -487,6 +491,15 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noble NA</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Border W</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c16">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18417113</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The (pro)renin receptor: a new addition to the renin-angiotensin system?</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eur J Pharmacol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Batenburg WW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jan Danser AH</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bc9">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18035185</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -494,15 +507,6 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
       <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Clin Ther</bp:SOURCE>
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Weir MR</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bd1">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15174896</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pharmacogenetics of antihypertensive drug responses.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Am J Pharmacogenomics</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2004</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schwartz GL</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turner ST</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ce3">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15134803</bp:ID>
@@ -513,6 +517,15 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bassett MH</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">White PC</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rainey WE</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bd1">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15174896</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pharmacogenetics of antihypertensive drug responses.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Am J Pharmacogenomics</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2004</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Schwartz GL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Turner ST</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b93">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17464936</bp:ID>
@@ -531,15 +544,16 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Navis G</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">van Goor H</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c74">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18449520</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Are we poised to target ACE2 for the next generation of antihypertensives?</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Mol Med</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferreira AJ</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raizada MK</bp:AUTHORS>
-    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ACE inhibitor drug pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001228</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">angiotensin signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000245</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="eeb">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16679330</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -550,11 +564,6 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Coleman JJ</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ferner RE</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ACE inhibitor drug pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001228</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b5d">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18729003</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -563,15 +572,6 @@ Source: PharmGKB (http://www.pharmgkb.org/do/serve?objId=PA2023&amp;objCls=Pathw
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Maron BA</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leopold JA</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c16">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18417113</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The (pro)renin receptor: a new addition to the renin-angiotensin system?</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eur J Pharmacol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2008</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Batenburg WW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jan Danser AH</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
