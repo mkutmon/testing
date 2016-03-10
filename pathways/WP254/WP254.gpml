@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r80450" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno | Egonw | Mkutmon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r84652" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno | Egonw | Mkutmon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today.  </Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
-  <DataNode TextLabel="MIR29B1" GraphId="a3e60" Type="Rna" GroupRef="d254c">
+  <DataNode TextLabel="MIR29B1" GraphId="a3e60" Type="GeneProduct" GroupRef="d254c">
     <Graphics CenterX="395.9999999999999" CenterY="453.66666666666663" Width="61.33333333333343" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="990099" />
-    <Xref Database="Ensembl" ID="ENSG00000207748" />
+    <Xref Database="Ensembl" ID="ENSG00000274250" />
   </DataNode>
-  <DataNode TextLabel="MIR29A" GraphId="ec258" Type="Rna">
+  <DataNode TextLabel="MIR29A" GraphId="ec258" Type="GeneProduct">
     <Graphics CenterX="1170.5" CenterY="276.0" Width="57.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="990099" />
-    <Xref Database="Ensembl" ID="ENSG00000198981" />
+    <Xref Database="Ensembl" ID="ENSG00000277934" />
   </DataNode>
   <DataNode TextLabel="PMAIP1" GraphId="fe0" Type="GeneProduct" GroupRef="ff56d">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="PMAIP1 | phorbol-12-myristate-13-acetate-induce..." />
@@ -476,7 +476,7 @@
   </DataNode>
   <DataNode TextLabel="MIR29B2" GraphId="d53a2" Type="GeneProduct" GroupRef="d254c">
     <Graphics CenterX="395.9999999999999" CenterY="473.66666666666663" Width="61.33333333333343" Height="20.0" ZOrder="32955" FontSize="10" Valign="Middle" Color="990099" />
-    <Xref Database="Ensembl" ID="ENSG00000207790" />
+    <Xref Database="Ensembl" ID="ENSG00000276752" />
   </DataNode>
   <Interaction GraphId="d2919">
     <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0000">
@@ -1060,24 +1060,6 @@
   <Group GroupId="d254c" GraphId="ff3a7" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c9a">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17914240</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The p53-MDM2 network: from oscillations to apoptosis.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biosci</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bose I</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghosh B</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of p53 in response to DNA damage.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lakin ND</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson SP</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cff">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19079265</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1089,6 +1071,26 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ha M</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nam JW</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim VN</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c09">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17404574</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mir-29 regulates Mcl-1 protein expression and apoptosis.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mott JL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kobayashi S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bronk SF</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gores GJ</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of p53 in response to DNA damage.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1999</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lakin ND</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jackson SP</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b2c">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20041405</bp:ID>
@@ -1104,16 +1106,14 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jia WH</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhuang SM</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c09">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17404574</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c9a">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17914240</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mir-29 regulates Mcl-1 protein expression and apoptosis.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The p53-MDM2 network: from oscillations to apoptosis.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biosci</bp:SOURCE>
       <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mott JL</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kobayashi S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bronk SF</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gores GJ</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bose I</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghosh B</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
