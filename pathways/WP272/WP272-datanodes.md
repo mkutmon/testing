@@ -1,11 +1,12 @@
 | Label | Type | ID | Database |
 | ---- | ---- | ---- | ---- |
-|F12 | GeneProduct | 2161 | Entrez Gene |
+|F12 | GeneProduct | ENSG00000131187 | Ensembl |
+|Factor XII | GeneProduct | ENSG00000131187 | Ensembl |
 |F11 | GeneProduct | 2160 | Entrez Gene |
 |F9 | GeneProduct | 2158 | Entrez Gene |
 |F10 | GeneProduct | 2159 | Entrez Gene |
 |F10 | GeneProduct | 2159 | Entrez Gene |
-|VWF | GeneProduct | 7450 | Entrez Gene |
+|VWF | GeneProduct | ENSG00000110799 | Ensembl |
 |F5 | GeneProduct | 2153 | Entrez Gene |
 |F7 | GeneProduct | 2155 | Entrez Gene |
 |F2 | GeneProduct | 2147 | Entrez Gene |
