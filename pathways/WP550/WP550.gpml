@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r81207" Author="AlexanderPico | MaintBot | Khanspers | Thomas | MartijnVanIersel | Christine Chichester | Egonw | Evelo" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r85571" Author="AlexanderPico | MaintBot | Khanspers | Thomas | MartijnVanIersel | Christine Chichester | Egonw | Evelo | AAR&amp;Co" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Biogenic amines are one of two broad classes of classical neurotransmitters (the other being amino acids) and include: acetylcholine, serotonin, histamine, and the catecholamines epinephrine, norepinephrine, and dopamine.
 
 Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.html</Comment>
@@ -50,7 +50,7 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
     <Graphics CenterX="652.4999999999998" CenterY="372.7" Width="38.333333333333485" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1621" />
   </DataNode>
-  <DataNode TextLabel="DDC" GraphId="c29" Type="GeneProduct">
+  <DataNode TextLabel="AADC" GraphId="c29" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="DDC | dopa decarboxylase (aromatic L-amino acid..." />
     <Graphics CenterX="595.6666666666666" CenterY="285.7" Width="60.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="1644" />
@@ -439,8 +439,8 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
   <Legend CenterX="11.666666666666666" CenterY="425.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amine neurotransmitter metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000436</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biogenic amine biosynthetic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001234 </bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d64">
@@ -458,8 +458,8 @@ Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.ht
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Williams, S. Mark.</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">biogenic amine biosynthetic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001234 </bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amine neurotransmitter metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000436</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
   </Biopax>

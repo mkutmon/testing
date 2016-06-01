@@ -6,7 +6,7 @@
 |PNMT | GeneProduct | 5409 | Entrez Gene |
 |PAH | GeneProduct | 5053 | Entrez Gene |
 |TPH1 | GeneProduct | 7166 | Entrez Gene |
-|DDC | GeneProduct | 1644 | Entrez Gene |
+|AADC | GeneProduct | 1644 | Entrez Gene |
 |ASMT | GeneProduct | 438 | Entrez Gene |
 |HDC | GeneProduct | 3067 | Entrez Gene |
 |DDC | GeneProduct | 1644 | Entrez Gene |
