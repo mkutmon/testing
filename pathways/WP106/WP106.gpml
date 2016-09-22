@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r74147" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico | Christine Chichester | Egonw" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r89638" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico | Christine Chichester | Egonw" Organism="Homo sapiens">
   <BiopaxRef>e65</BiopaxRef>
   <BiopaxRef>f1b</BiopaxRef>
   <Graphics BoardWidth="1336.6666666666667" BoardHeight="1243.0" />
@@ -279,7 +279,7 @@
   </DataNode>
   <DataNode TextLabel="L-Asparagine" GraphId="eab" Type="Metabolite">
     <Comment Source="GenMAPP remarks">L-Asparagine</Comment>
-    <Graphics CenterX="950.0" CenterY="1062.0" Width="81.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="954.2016806722689" CenterY="1060.9495798319329" Width="81.33333333333333" Height="15.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
     <Xref Database="CAS" ID="70-47-3" />
   </DataNode>
   <DataNode TextLabel="2-Oxoglutarate" GraphId="eaf40" Type="Metabolite">
@@ -368,7 +368,7 @@
   </DataNode>
   <Interaction GraphId="a00c8">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="909.3333333333333" Y="1062.0" GraphRef="eab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="913.5350140056023" Y="1060.9495798319329" GraphRef="eab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Point X="422.0" Y="1062.8643042350907" GraphRef="fee4c" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="c6529" />
     </Graphics>
@@ -384,7 +384,7 @@
   <Interaction GraphId="a37ff">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="926.1666666666666" Y="963.3333333333334" GraphRef="c02" RelX="0.0" RelY="1.0" />
-      <Point X="950.0" Y="988.174074074074" GraphRef="d9628" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="953.2150015561781" Y="982.8888422035482" GraphRef="d9628" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -534,7 +534,7 @@
   <Interaction GraphId="be995">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="714.3333333333334" Y="1092.0" GraphRef="daf" RelX="0.0" RelY="-1.0" />
-      <Point X="714.4" Y="1062.3457216940362" GraphRef="c6529" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="716.9210084033614" Y="1061.715469593196" GraphRef="c6529" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -622,7 +622,7 @@
   <Interaction GraphId="c8a66">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
       <Point X="917.0" Y="886.0" GraphRef="fb2c2" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="909.3333333333333" Y="1062.0" GraphRef="eab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="913.5350140056023" Y="1060.9495798319329" GraphRef="eab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.5067106271022744" Shape="None" GraphId="ec01f" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -652,7 +652,7 @@
   <Interaction GraphId="ca744">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="919.5" Y="1103.3333333333333" GraphRef="d73" RelX="1.0" RelY="0.0" />
-      <Point X="952.65" Y="1095.3" GraphRef="ce479" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="955.1710084033614" Y="1094.6697478991598" GraphRef="ce479" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -780,7 +780,7 @@
   <Interaction GraphId="df6f0">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="863.1666666666666" Y="987.6666666666666" GraphRef="ab963" RelX="1.0" RelY="0.0" />
-      <Point X="897.0035350932375" Y="973.6940072053569" GraphRef="ec01f" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="897.0046687723576" Y="973.9606807324056" GraphRef="ec01f" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -823,7 +823,7 @@
   </Interaction>
   <Interaction GraphId="e5785">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="950.0" Y="1069.5" GraphRef="eab" RelX="0.0" RelY="1.0" />
+      <Point X="954.201680672269" Y="1068.4495798319329" GraphRef="eab" RelX="0.0" RelY="1.0" />
       <Point X="956.625" Y="1134.0" GraphRef="ca843" RelX="0.5" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="ce479" />
     </Graphics>
@@ -889,7 +889,7 @@
   <Interaction GraphId="eee37">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1051.6666666666665" Y="910.3333333333334" GraphRef="fd0" RelX="0.0" RelY="-1.0" />
-      <Point X="1006.976277379603" Y="971.9466026992849" GraphRef="b1921" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="1006.967166164948" Y="970.6497006475277" GraphRef="b1921" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -998,8 +998,8 @@
   </Interaction>
   <Interaction GraphId="f9b62">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="950.0" Y="906.5" />
-      <Point X="950.0" Y="1054.5" GraphRef="eab" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="952.0" Y="896.0" GraphRef="fb2c2" RelX="0.0" RelY="1.0" />
+      <Point X="954.201680672269" Y="1053.4495798319329" GraphRef="eab" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
       <Anchor Position="0.5518518518518518" Shape="None" GraphId="d9628" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1031,7 +1031,7 @@
   <Interaction GraphId="faa03">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
       <Point X="987.0" Y="886.0" GraphRef="fb2c2" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="990.6666666666667" Y="1062.0" GraphRef="eab" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="994.8683473389358" Y="1060.9495798319329" GraphRef="eab" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
       <Anchor Position="0.49318946281679776" Shape="None" GraphId="b1921" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1095,19 +1095,6 @@
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000028</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amino acid metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f1b">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19455135</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1120,6 +1107,19 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cornish-Bowden A</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cárdenas ML</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dumas R</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amino acid metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
