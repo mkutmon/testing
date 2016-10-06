@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="B Cell Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP23_r78566" Author="A.Pandey | MaintBot | Khanspers | Mkutmon | MartijnVanIersel | NetPath | Christine Chichester" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="B Cell Receptor Signaling Pathway" Data-Source="WikiPathways" Version="WP23_r89899" Author="A.Pandey | MaintBot | Khanspers | Mkutmon | MartijnVanIersel | NetPath | Christine Chichester | Zari" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">The functional B-cell receptor is a multi-protein complex consisting of an antigen binding subunit and a signaling subunit. The antigen binding subunit is the membrane bound immunoglobulin and the signaling subunit consists of the Ig�� and Ig�= proteins, which are covalently bound to each other. Both Ig�� and Ig�= proteins have an immunoreceptor tyrosine -based activation motif (ITAM) each in its cytoplasmic region, which is responsible for the initiation and propagation of signaling. Antigen binding to the immunoglubulin results in the aggregation of both the immunoglobulin and the Ig��/�= subunits. This results in the phosphorylation of the tyrosine residues in the ITAM motif of the Ig��/�= subunits by the src-family of protein tyrosine kinases Lyn and Syk. The Src family kinases are initially in the proximity of the BCR as a result of membrane anchoring by virtue of its their acetylation. The N-terminal region of the kinases can also interact with the non-phosphorylated ITAMs of Ig��. This association is further enhanced upon BCR engagement as a result of accumulation in BCR containing lipid rafts and SH2 domain mediated binding to the phosphorylated tyrosine residues in ITAMs. This increased association helps in amplifying the BCR mediated signaling. Doubly phosphorylated Ig��/�= ITAMs are necessary for efficient recruitment of Syk and its activation. Activated Syk then phsophorylates the adapter molecule B cell linker protein (BLNK), which acts as molecular scaffold for the recruitment of multiple effectors and hence the propagation of multiple signaling pathways. BLNK binds to Btk and PLC�=2 which results in optimal phosphorylation and activation of PLC. This is an important mechanism which links BCR to Ca2+ signaling. Apart from the PLC mediated Ca2+ signaling, BCR triggering also results in the the activaion of phosphatidylinositol-3 kinase (PI-3K). This activation takes place through the recruitment of p85 adaptor subunit of PI-3K to CD19 co-receptor, which is phosphorylated by Lyn on its cytoplasmic Y-X-X-M motif. Alternatively, PI-3K can be recruited to the plasma membrane by other adapter molecules including PIK3AP, CBL or GAB1/2. PI-3K catalyzes the phosphorylation of phosphatidylinositol 4,5-bisphosphate to phosphatidyl inositol 3,4,5-bisphosphate. Akt, a serine threonine kinase, is recruited to the plasma membrane by virtue of its N-terminal PH-domain where it is activated by conformational changes and phosphorylation. Activated Akt phosphorylates several substrates resulting in diverse physiological consequences: Forkhead transcription factors - resulting in its degradation and hence inhibition of expression of pro-apoptotic genes, glycogen synthase kinase-3 GSK3 -leading to its inhibition and hence regulation of cell-cycle. The tanscription factor NF-kappaB is also found to be activated in BCR signaling in a Btk, PI-3K and PKC dependent manner. 
 BCR engagement can also result in the association of GRB2/SOS complex with either SHC or BLNK, which results in the activation of the Ras/Raf/MEK/ERK signaling cascade. This cascade leads to the activation of transcription factors including ELK and MYC. BCR activation also results in the activation of JNKs and p38MAPK.
 
@@ -177,7 +177,7 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   </DataNode>
   <DataNode TextLabel="CD79B" GraphId="cb3fe" Type="Protein">
     <Graphics CenterX="590.0" CenterY="426.0" Width="170.0" Height="20.0" ZOrder="33046" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="Entrez Gene" ID="974" />
   </DataNode>
   <DataNode TextLabel="NFATC3" GraphId="f298b" Type="Protein" GroupRef="c7279">
     <Graphics CenterX="967.25" CenterY="1487.25" Width="57.5" Height="20.0" ZOrder="33048" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -305,7 +305,7 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   </DataNode>
   <DataNode TextLabel="CD79A" GraphId="f2ccc" Type="Protein">
     <Graphics CenterX="420.875" CenterY="426.75" Width="167.75" Height="20.0" ZOrder="33131" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="Entrez Gene" ID="973" />
   </DataNode>
   <DataNode TextLabel="GSK3A" GraphId="b9b18" Type="Protein">
     <Graphics CenterX="445.5" CenterY="1254.111111111105" Width="55.0" Height="20.0" ZOrder="33133" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -313,7 +313,7 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   </DataNode>
   <DataNode TextLabel="CD19" GraphId="f5b41" Type="Protein">
     <Graphics CenterX="816.5" CenterY="430.75" Width="57.0" Height="20.0" ZOrder="33135" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="Entrez Gene" ID="930" />
   </DataNode>
   <DataNode TextLabel="LAT2" GraphId="f5787" Type="Protein">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="" />
@@ -437,7 +437,7 @@ Kandasamy, K., Mohan, S. S., Raju, R., Keerthikumar, S., Kumar, G. S. S., Venugo
   </DataNode>
   <DataNode TextLabel="LCK" GraphId="dab94" Type="Protein">
     <Graphics CenterX="531.1666666666652" CenterY="528.1111111111111" Width="39.0" Height="20.0" ZOrder="33222" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="Entrez Gene" ID="3932" />
   </DataNode>
   <DataNode TextLabel="MAP2K1" GraphId="b381c" Type="Protein">
     <Graphics CenterX="294.05555555555566" CenterY="1046.777777777775" Width="63.0" Height="20.0" ZOrder="33225" FontName="SansSerif" FontWeight="Bold" FontSize="12" Valign="Middle" />

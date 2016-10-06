@@ -35,7 +35,7 @@
 |RPS6KA1 | Protein | 6195 | Entrez Gene |
 |MYC | Protein | 4609 | Entrez Gene |
 |MALT1 | Protein | 10892 | Entrez Gene |
-|CD79B | Protein |  |  |
+|CD79B | Protein | 974 | Entrez Gene |
 |NFATC3 | Protein | 4775 | Entrez Gene |
 |SYK | Protein | 6850 | Entrez Gene |
 |BRAF | Protein | 673 | Entrez Gene |
@@ -62,9 +62,9 @@
 |PIK3AP1 | Protein | 118788 | Entrez Gene |
 |VAV1 | Protein | 7409 | Entrez Gene |
 |ETS1 | Protein | 2113 | Entrez Gene |
-|CD79A | Protein |  |  |
+|CD79A | Protein | 973 | Entrez Gene |
 |GSK3A | Protein | 2931 | Entrez Gene |
-|CD19 | Protein |  |  |
+|CD19 | Protein | 930 | Entrez Gene |
 |LAT2 | Protein | 7462 | Entrez Gene |
 |RAC1 | Protein | 5879 | Entrez Gene |
 |RAPGEF1 | Protein | 2889 | Entrez Gene |
@@ -88,7 +88,7 @@
 |TEC | Protein | 7006 | Entrez Gene |
 |CRKL | Protein | 1399 | Entrez Gene |
 |PTPN18 | Protein | 26469 | Entrez Gene |
-|LCK | Protein |  |  |
+|LCK | Protein | 3932 | Entrez Gene |
 |MAP2K1 | Protein | 5604 | Entrez Gene |
 |FYN | Protein | 2534 | Entrez Gene |
 |MAPK1 | Protein | 5594 | Entrez Gene |
