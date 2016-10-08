@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r84876" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim | Mkutmon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r90044" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim | Mkutmon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Coagulation is a complex process by which blood forms clots. It is an important part of hemostasis (the cessation of blood loss from a damaged vessel), wherein a damaged blood vessel wall is covered by a platelet and fibrin-containing clot to stop bleeding and begin repair of the damaged vessel. Disorders of coagulation can lead to an increased risk of bleeding (hemorrhage) or clotting (thrombosis).
 
 Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
@@ -170,7 +170,6 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="654.6152149944874" Y="263.768467475193" GraphRef="cce" RelX="-1.0" RelY="0.0" />
       <Point X="602.8713708195517" Y="264.00000000000006" GraphRef="fd90f" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Anchor Position="0.4" Shape="None" GraphId="bd8ef" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -294,7 +293,6 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="513.5380374862182" Y="264.00000000000006" GraphRef="fd90f" RelX="-1.0" RelY="0.0" />
       <Point X="453.3824940458185" Y="389.2258441648619" GraphRef="e7fe6" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
-      <Anchor Position="0.24988619223337938" Shape="None" GraphId="f4c41" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -379,13 +377,6 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="id603aeed6">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff3333">
-      <Point X="558.2047041528849" Y="187.72473288684955" GraphRef="a8c75" RelX="0.0" RelY="1.0" />
-      <Point X="558.2047041528849" Y="236.0" GraphRef="fd90f" RelX="0.0" RelY="-1.0" ArrowHead="TBar" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id95bef876">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="466.5983802253101" Y="496.5184849095917" GraphRef="d8abe" RelX="0.0" RelY="1.0" />
@@ -400,44 +391,15 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="idc7ce0d04">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0" Color="ff0000">
-      <Point X="598.2047041528849" Y="177.72473288684955" GraphRef="a8c75" RelX="1.0" RelY="0.0" />
-      <Point X="633.9176773245131" Y="263.86108048511585" GraphRef="bd8ef" RelX="0.0" RelY="0.0" ArrowHead="TBar" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="iddc5f78b4">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0" Color="ff0033">
-      <Point X="518.2047041528849" Y="177.72473288684955" GraphRef="a8c75" RelX="-1.0" RelY="0.0" />
-      <Point X="467.2137884265992" Y="264.00000000000006" GraphRef="f4c41" RelX="0.0" RelY="0.0" ArrowHead="TBar" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="iddd2a9b8">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0033">
+    <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="589.5493592916464" Y="782.826943054255" GraphRef="b6a" RelX="1.0" RelY="0.0" />
       <Point X="639.1016058956184" Y="782.826943054255" GraphRef="b0d" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <GraphicalLine GraphId="cb57e">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0033">
-      <Point X="574.0493592916472" Y="834.9178910976664" />
-      <Point X="574.0493592916472" Y="803.6602763875887" ArrowHead="Arrow" />
-    </Graphics>
-  </GraphicalLine>
-  <GraphicalLine GraphId="efb8c">
-    <Graphics ZOrder="12288" LineThickness="1.0" Color="ff0033">
-      <Point X="543.6473638720829" Y="834.9178910976664" />
-      <Point X="544.3826926249802" Y="803.826943054255" ArrowHead="Arrow" />
-    </Graphics>
-  </GraphicalLine>
   <Label TextLabel="Fibrin Polymer" GraphId="a3f">
     <Graphics CenterX="819.8623864256955" CenterY="681.4224126892664" Width="116.33333333333333" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Env/PrM" GraphId="a8c75">
-    <Graphics CenterX="558.2047041528849" CenterY="177.72473288684955" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Intrinsic Pathway" GraphId="ae4">
     <Graphics CenterX="114.08844713339087" CenterY="143.4166666666667" Width="136.33333333333334" Height="23.166666666666668" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="Rectangle" Color="ff9900" />
@@ -454,9 +416,6 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   <Label TextLabel="Extrinsic Pathway" GraphId="d06">
     <Graphics CenterX="114.08844713339087" CenterY="386.61430423509074" Width="142.33333333333334" Height="22.5" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="Rectangle" Color="ff9900" />
   </Label>
-  <Label TextLabel="+" GraphId="d76">
-    <Graphics CenterX="571.8826926249799" CenterY="754.1602763875884" Width="14.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
   <Label TextLabel="Tissue Injury" GraphId="e0f">
     <Graphics CenterX="92.53097090175737" CenterY="552.4243733794306" Width="86.66666666666667" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
@@ -465,12 +424,6 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </Label>
   <Label TextLabel=" " GraphId="e69">
     <Graphics CenterX="598.2776769509989" CenterY="806.2710391880074" Width="14.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="+" GraphId="e7214">
-    <Graphics CenterX="558.5493592916451" CenterY="798.8269430542542" Width="14.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
-  </Label>
-  <Label TextLabel="Env" GraphId="e794b">
-    <Graphics CenterX="560.1850550565551" CenterY="842.5673636823167" Width="80.0" Height="20.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel=" " GraphId="ebe">
     <Graphics CenterX="241.61101028433168" CenterY="802.9377058546742" Width="14.333333333333334" Height="19.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
