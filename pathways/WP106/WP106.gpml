@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r89638" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico | Christine Chichester | Egonw" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r91240" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico | Christine Chichester | Egonw" Organism="Homo sapiens">
   <BiopaxRef>e65</BiopaxRef>
   <BiopaxRef>f1b</BiopaxRef>
   <Graphics BoardWidth="1336.6666666666667" BoardHeight="1243.0" />
@@ -229,7 +229,7 @@
   </DataNode>
   <DataNode TextLabel="Adenylosuccinate" GraphId="d9688" Type="Metabolite">
     <Graphics CenterX="1214.625" CenterY="752.75" Width="100.75" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="" ID="" />
+    <Xref Database="undefined" ID="undefined" />
   </DataNode>
   <DataNode TextLabel="Oxaloacetate" GraphId="da543" Type="Metabolite">
     <Graphics CenterX="370.0" CenterY="962.0" Width="80.0" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
@@ -354,7 +354,7 @@
     <Graphics CenterX="1051.6666666666663" CenterY="920.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Enzyme Nomenclature" ID="6.3.5.4" />
   </DataNode>
-  <DataNode TextLabel="Reductive carboxylate&#xA;cycle (CO2 fixation)" GraphId="fd73c" Type="Pathway">
+  <DataNode TextLabel="Reductive carboxylate cycle (CO2 fixation)" GraphId="fd73c" Type="Pathway">
     <Graphics CenterX="213.5" CenterY="1011.5" Width="137.0" Height="33.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
     <Xref Database="" ID="" />
   </DataNode>
@@ -1090,11 +1090,14 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Legend CenterX="133.33333333333334" CenterY="129.95553333333334" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alanine, aspartate and glutamate metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000028</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f1b">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19455135</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1105,7 +1108,7 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bastien O</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Robert-Genthon M</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cornish-Bowden A</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cárdenas ML</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CÃ¡rdenas ML</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dumas R</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
@@ -1113,14 +1116,11 @@
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Intestinal mucosal amino acid catabolism.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Nutr</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">1998</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wu G</bp:AUTHORS>
-    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alanine, aspartate and glutamate metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000028</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>
 

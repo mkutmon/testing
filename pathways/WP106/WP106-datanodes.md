@@ -53,7 +53,7 @@
 |Urea cycel and metabolism of amino groups | Pathway | WP497 | WikiPathways |
 |L-Asparagine acid | Metabolite | 70-47-3 | CAS |
 |2.6.1.18 | GeneProduct | 2.6.1.18 | Enzyme Nomenclature |
-|Adenylosuccinate | Metabolite |  |  |
+|Adenylosuccinate | Metabolite | undefined | undefined |
 |Oxaloacetate | Metabolite | C00036 | KEGG Compound |
 |2.6.1.14 | GeneProduct | 2.6.1.14 | Enzyme Nomenclature |
 |Histidine metabolism | Pathway |  |  |
@@ -83,7 +83,6 @@
 |PC | GeneProduct | 5091 | Entrez Gene |
 |GOT1 | GeneProduct | 2805 | Entrez Gene |
 |6.3.5.4 | GeneProduct | 6.3.5.4 | Enzyme Nomenclature |
-|Reductive carboxylate
-cycle (CO2 fixation) | Pathway |  |  |
+|Reductive carboxylate cycle (CO2 fixation) | Pathway |  |  |
 |2-Oxosuccinamate | Metabolite |  |  |
 |L-Argininosuccinate | Metabolite | CHEBI:15682 | ChEBI |
