@@ -1,35 +1,35 @@
 | Label | Type | ID | Database |
 | ---- | ---- | ---- | ---- |
-|NOS3 | GeneProduct | 4846 | Entrez Gene |
-|AGTR2 | GeneProduct | 186 | Entrez Gene |
-|Ang 1-5 | Metabolite | C15852 | KEGG Compound |
-|BDKRB1 | GeneProduct | 623 | Entrez Gene |
+|BDKRB2 | GeneProduct | 624 | Entrez Gene |
+|REN | GeneProduct | 5972 | Entrez Gene |
+|CYP11B2 | GeneProduct | 1585 | Entrez Gene |
+|CTSG | GeneProduct | 1511 | Entrez Gene |
 |TFs | GeneProduct |  |  |
 |AGTR1 | GeneProduct | 185 | Entrez Gene |
 |Aldosterone | Metabolite | HMDB00037 | HMDB |
-|TGFB1 | GeneProduct | 7040 | Entrez Gene |
-|Bradykinin | Metabolite | HMDB04246 | HMDB |
-|CTSG | GeneProduct | 1511 | Entrez Gene |
-|Angiotensin II | Metabolite | HMDB01035 | HMDB |
-|KNG1 | GeneProduct | 3827 | Entrez Gene |
-|Ca++ | Metabolite | HMDB00464 | HMDB |
-|Angiotensin I | Metabolite | 3081372 | PubChem-compound |
-|ACE | GeneProduct | 1636 | Entrez Gene |
-|ACE Inhibitor | Metabolite | CHEBI:35457 | ChEBI |
-|Deoxycorticosterone | Metabolite | HMDB00016 | HMDB |
-|CMA1 | GeneProduct | 1215 | Entrez Gene |
-|Ang 1-7 | Metabolite | 110354 | Chemspider |
-|Prostacyclin | Metabolite | 114805 | PubChem-compound |
-|REN | GeneProduct | 5972 | Entrez Gene |
-|CYP11B2 | GeneProduct | 1585 | Entrez Gene |
-|MAS1 | GeneProduct | 4142 | Entrez Gene |
-|ACE2 | GeneProduct | 59272 | Entrez Gene |
-|AGT | GeneProduct | 183 | Entrez Gene |
-|NR3C2 | GeneProduct | 4306 | Entrez Gene |
-|ATP6AP2 | GeneProduct | 10159 | Entrez Gene |
-|ACE | GeneProduct | 1636 | Entrez Gene |
-|BDKRB2 | GeneProduct | 624 | Entrez Gene |
 |Ang 1-9 | Metabolite | C15851 | KEGG Compound |
+|AGT | GeneProduct | 183 | Entrez Gene |
+|AGTR2 | GeneProduct | 186 | Entrez Gene |
+|Prostacyclin | Metabolite | 114805 | PubChem-compound |
+|Ang 1-5 | Metabolite | C15852 | KEGG Compound |
+|ACE | GeneProduct | 1636 | Entrez Gene |
+|Deoxycorticosterone | Metabolite | HMDB00016 | HMDB |
+|MAS1 | GeneProduct | 4142 | Entrez Gene |
+|TGFB1 | GeneProduct | 7040 | Entrez Gene |
+|CMA1 | GeneProduct | 1215 | Entrez Gene |
+|ACE Inhibitor | Metabolite | CHEBI:35457 | ChEBI |
+|ACE | GeneProduct | 1636 | Entrez Gene |
+|KNG1 | GeneProduct | 3827 | Entrez Gene |
+|NR3C2 | GeneProduct | 4306 | Entrez Gene |
+|BDKRB1 | GeneProduct | 623 | Entrez Gene |
+|NOS3 | GeneProduct | 4846 | Entrez Gene |
+|ATP6AP2 | GeneProduct | 10159 | Entrez Gene |
+|Ang 1-7 | Metabolite | 110354 | Chemspider |
+|Angiotensin II | Metabolite | HMDB01035 | HMDB |
+|Bradykinin | Metabolite | HMDB04246 | HMDB |
+|ACE2 | GeneProduct | 59272 | Entrez Gene |
+|Ca++ | Metabolite | HMDB00464 | HMDB |
 |TFs | GeneProduct |  |  |
+|Angiotensin I | Metabolite | 3081372 | PubChem-compound |
 |ACE | GeneProduct | 1636 | Entrez Gene |
 |ACE2 | GeneProduct | 59272 | Entrez Gene |
