@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r90044" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim | Mkutmon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r92544" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim | Mkutmon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Coagulation is a complex process by which blood forms clots. It is an important part of hemostasis (the cessation of blood loss from a damaged vessel), wherein a damaged blood vessel wall is covered by a platelet and fibrin-containing clot to stop bleeding and begin repair of the damaged vessel. Disorders of coagulation can lead to an increased risk of bleeding (hemorrhage) or clotting (thrombosis).
 
 Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
@@ -144,7 +144,7 @@ Source: [[wikipedia:Coagulation|Wikipedia]]</Comment>
   </DataNode>
   <DataNode TextLabel="Prothrombinase Complex" GraphId="f4e" Type="GeneProduct">
     <Graphics CenterX="498.2592592592586" CenterY="563.2592592592582" Width="173.33333333333334" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
-    <Xref Database="" ID="" />
+    <Xref Database="undefined" ID="" />
   </DataNode>
   <DataNode TextLabel="SERPINE1" GraphId="f7b" Type="GeneProduct" GroupRef="d6cba">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="SERPINE1 | serine (or cysteine) proteinase inhi..." />

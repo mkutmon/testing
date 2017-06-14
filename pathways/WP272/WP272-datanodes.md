@@ -27,7 +27,7 @@
 |FGG | GeneProduct | ENSG00000171557 | Ensembl |
 |Factor VIII | GeneProduct | ENSG00000185010 | Ensembl |
 |Factor VIII A1 | GeneProduct | ENSG00000277203 | Ensembl |
-|Prothrombinase Complex | GeneProduct |  |  |
+|Prothrombinase Complex | GeneProduct |  | undefined |
 |Fibrin | Metabolite | 9001-31-4 | CAS |
 |Zinc | Metabolite | HMDB01303 | HMDB |
 |KLKB1 | GeneProduct | ENSG00000164344 | Ensembl |
