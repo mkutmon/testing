@@ -1,8 +1,8 @@
 | Label | Type | ID | Database |
 | ---- | ---- | ---- | ---- |
-|PMAIP1 | GeneProduct | 5366 | Entrez Gene |
 |MIR29B1 | GeneProduct | ENSG00000274250 | Ensembl |
 |MIR29A | GeneProduct | ENSG00000277934 | Ensembl |
+|PMAIP1 | GeneProduct | 5366 | Entrez Gene |
 |CASP9 | GeneProduct | 842 | Entrez Gene |
 |MDM2 | GeneProduct | 4193 | Entrez Gene |
 |BAK1 | GeneProduct | 578 | Entrez Gene |
