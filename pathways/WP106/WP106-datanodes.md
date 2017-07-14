@@ -5,7 +5,7 @@
 |3.5.1.3 | GeneProduct | 3.5.1.3 | Enzyme Nomenclature |
 |GOT2 | GeneProduct | 2806 | Entrez Gene |
 |3.4.13.3 | GeneProduct | 3.4.13.3 | Enzyme Nomenclature |
-|L-Alanine | Metabolite | 6912-68-1 | CAS |
+|L-Alanine | Metabolite | CHEBI:16977 | ChEBI |
 |ASL | GeneProduct | 435 | Entrez Gene |
 |Lysine biosynthesis | Pathway |  |  |
 |ABAT | GeneProduct | 18 | Entrez Gene |
