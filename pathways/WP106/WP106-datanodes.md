@@ -53,7 +53,7 @@
 |Urea cycel and metabolism of amino groups | Pathway | WP497 | WikiPathways |
 |L-Asparagine acid | Metabolite | 70-47-3 | CAS |
 |2.6.1.18 | GeneProduct | 2.6.1.18 | Enzyme Nomenclature |
-|Adenylosuccinate | Metabolite | undefined | undefined |
+|Adenylosuccinate | Metabolite | CHEBI:15919 | ChEBI |
 |Oxaloacetate | Metabolite | C00036 | KEGG Compound |
 |2.6.1.14 | GeneProduct | 2.6.1.14 | Enzyme Nomenclature |
 |Histidine metabolism | Pathway |  |  |
