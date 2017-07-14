@@ -84,5 +84,5 @@
 |GOT1 | GeneProduct | 2805 | Entrez Gene |
 |6.3.5.4 | GeneProduct | 6.3.5.4 | Enzyme Nomenclature |
 |Reductive carboxylate cycle (CO2 fixation) | Pathway |  |  |
-|2-Oxosuccinamate | Metabolite |  |  |
+|2-Oxosuccinamate | Metabolite | CHEBI:57735 | ChEBI |
 |L-Argininosuccinate | Metabolite | CHEBI:15682 | ChEBI |
