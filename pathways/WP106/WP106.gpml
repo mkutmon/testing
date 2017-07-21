@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r92992" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico | Christine Chichester | Egonw" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Alanine and aspartate metabolism" Data-Source="WikiPathways" Version="WP106_r92993" Author="L.M.Ferrante | MaintBot | Khanspers | Andra | Michiel | MartijnVanIersel | AlexanderPico | Christine Chichester | Egonw" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Converted from rat to human using ortholog information. Link to original KEGG map:  http://www.genome.ad.jp/dbget-bin/show pathway?rno00252.
 Edited by Sebastien Burel.</Comment>
   <BiopaxRef>e65</BiopaxRef>
@@ -32,7 +32,7 @@ Edited by Sebastien Burel.</Comment>
   </DataNode>
   <DataNode TextLabel="ASL" GraphId="ac6" Type="GeneProduct">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="ASL | argininosuccinate lyase" />
-    <Graphics CenterX="1142.6666666666667" CenterY="957.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1136.6666666666667" CenterY="911.0" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="435" />
   </DataNode>
   <DataNode TextLabel="Lysine biosynthesis" GraphId="ac9a7" Type="Pathway">
@@ -153,7 +153,7 @@ Edited by Sebastien Burel.</Comment>
     <Xref Database="Enzyme Nomenclature" ID="3.5.1.38" />
   </DataNode>
   <DataNode TextLabel="4.3.1.1" GraphId="cc2" Type="GeneProduct">
-    <Graphics CenterX="1128.0" CenterY="1014.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1145.0" CenterY="987.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Enzyme Nomenclature" ID="4.3.1.1" />
   </DataNode>
   <DataNode TextLabel="2.3.1.7" GraphId="cc7" Type="GeneProduct">
@@ -353,7 +353,7 @@ Edited by Sebastien Burel.</Comment>
     <Xref Database="Entrez Gene" ID="2805" />
   </DataNode>
   <DataNode TextLabel="6.3.5.4" GraphId="fd0" Type="GeneProduct">
-    <Graphics CenterX="1051.6666666666663" CenterY="920.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
+    <Graphics CenterX="1052.6666666666663" CenterY="948.3333333333334" Width="46.666666666666664" Height="20.0" ZOrder="32768" FontSize="10" Valign="Middle" />
     <Xref Database="Enzyme Nomenclature" ID="6.3.5.4" />
   </DataNode>
   <DataNode TextLabel="Reductive carboxylate cycle (CO2 fixation)" GraphId="fd73c" Type="Pathway">
@@ -465,8 +465,8 @@ Edited by Sebastien Burel.</Comment>
   </Interaction>
   <Interaction GraphId="b4825">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1128.0" Y="1004.3333333333335" GraphRef="cc2" RelX="0.0" RelY="-1.0" />
-      <Point X="1043.0222997551773" Y="1113.694780952381" GraphRef="ab965" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1145.0" Y="977.3333333333334" GraphRef="cc2" RelX="0.0" RelY="-1.0" />
+      <Point X="1095.0" Y="985.4158171399581" GraphRef="ab965" RelX="0.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -489,7 +489,8 @@ Edited by Sebastien Burel.</Comment>
   <Interaction GraphId="b60c0">
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="987.0" Y="886.0" GraphRef="fb2c2" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Point X="1236.6666666666667" Y="1113.694780952381" GraphRef="f149e" RelX="0.0" RelY="0.0" />
+      <Point X="1095.0" Y="946.6787827985058" />
+      <Point X="1214.625" Y="1007.3575655970116" GraphRef="cb3cb" RelX="0.0" RelY="0.0" />
       <Anchor Position="0.5943443529481984" Shape="None" GraphId="ab965" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -506,15 +507,6 @@ Edited by Sebastien Burel.</Comment>
       <Point X="717.25" Y="575.0" GraphRef="d3aab" RelX="0.5" RelY="-1.0" />
       <Point X="717.0833333333333" Y="485.9999999999999" GraphRef="b94" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
       <Anchor Position="0.4" Shape="None" GraphId="e23e0" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="b8884">
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1214.625" Y="762.75" GraphRef="d9688" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
-      <Point X="1216.6666666666667" Y="1186.6666666666667" />
-      <Anchor Position="1.0" Shape="None" GraphId="d4f9f" />
-      <Anchor Position="0.4" Shape="None" GraphId="fff58" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -558,8 +550,8 @@ Edited by Sebastien Burel.</Comment>
   <Interaction GraphId="c1e28">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1151.5" Y="799.0" GraphRef="ff0f1" RelX="0.5" RelY="1.0" ArrowHead="Arrow" />
-      <Point X="1236.6666666666667" Y="1156.7759238095239" GraphRef="b39dc" RelX="0.0" RelY="0.0" />
-      <Anchor Position="0.4" Shape="None" GraphId="b5a33" />
+      <Point X="1214.625" Y="981.0" GraphRef="b580f" RelX="0.0" RelY="0.0" />
+      <Anchor Position="0.4148455098463199" Shape="None" GraphId="b5a33" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -579,8 +571,8 @@ Edited by Sebastien Burel.</Comment>
   </Interaction>
   <Interaction GraphId="c4410">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1166.0000000000005" Y="957.0" GraphRef="ac6" RelX="1.0" RelY="0.0" />
-      <Point X="1185.5666666666666" Y="942.1103695238096" GraphRef="b5a33" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="1160.0000000000005" Y="911.0" GraphRef="ac6" RelX="1.0" RelY="0.0" />
+      <Point X="1177.687122809049" Y="874.5018827920302" GraphRef="b5a33" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -855,7 +847,7 @@ Edited by Sebastien Burel.</Comment>
   <Interaction GraphId="e94bc">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="1260.0" Y="903.6666666666666" GraphRef="fa7" RelX="-1.0" RelY="0.0" />
-      <Point X="1215.4416666666666" Y="932.3166666666667" GraphRef="fff58" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="1214.625" Y="904.0" GraphRef="e37ed" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -890,7 +882,7 @@ Edited by Sebastien Burel.</Comment>
   </Interaction>
   <Interaction GraphId="eee37">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="1051.6666666666665" Y="910.3333333333334" GraphRef="fd0" RelX="0.0" RelY="-1.0" />
+      <Point X="1052.6666666666665" Y="938.3333333333334" GraphRef="fd0" RelX="0.0" RelY="-1.0" />
       <Point X="1006.967166164948" Y="970.6497006475277" GraphRef="b1921" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -1021,15 +1013,6 @@ Edited by Sebastien Burel.</Comment>
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="fa9b4">
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="1216.6666666666667" Y="1186.6666666666667" GraphRef="d4f9f" RelX="0.0" RelY="0.0" />
-      <Point X="82.0" Y="1044.0" GraphRef="f5c18" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
-      <Anchor Position="0.03787252747252745" Shape="None" GraphId="b39dc" />
-      <Anchor Position="0.07057582417582411" Shape="None" GraphId="f149e" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="faa03">
     <Graphics ConnectorType="Curved" ZOrder="12288" LineThickness="1.0">
       <Point X="987.0" Y="886.0" GraphRef="fb2c2" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
@@ -1069,6 +1052,16 @@ Edited by Sebastien Burel.</Comment>
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="ida41eee37">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="1214.625" Y="762.75" GraphRef="d9688" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="82.0" Y="1044.0" GraphRef="f5c18" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Anchor Position="0.09990274953585006" Shape="None" GraphId="e37ed" />
+      <Anchor Position="0.15436300945981787" Shape="None" GraphId="b580f" />
+      <Anchor Position="0.17300508573743192" Shape="None" GraphId="cb3cb" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Label TextLabel="L-Alanyl-tRNA" GraphId="e08">
     <Comment Source="GenMAPP remarks">L-Alanyl-tRNA</Comment>
     <Graphics CenterX="1127.0" CenterY="162.75" Width="82.33333333333333" Height="18.5" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="9" Valign="Middle" ShapeType="Rectangle" />
@@ -1090,13 +1083,7 @@ Edited by Sebastien Burel.</Comment>
   <Group GroupId="f4a1b" GraphId="e5664" Style="Complex" />
   <Group GroupId="dd7c3" GraphId="f59f6" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
-  <Legend CenterX="133.33333333333334" CenterY="129.95553333333334" />
   <Biopax>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amino acid metabolic pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e65">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9687539</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1108,6 +1095,11 @@ Edited by Sebastien Burel.</Comment>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">alanine, aspartate and glutamate metabolic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000028</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amino acid metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000011</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f1b">
