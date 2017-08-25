@@ -30,7 +30,7 @@
 |L-Aspartic acid | Metabolite | C00049 | KEGG Compound |
 |GPT | GeneProduct | 2875 | Entrez Gene |
 |3.5.1.7 | GeneProduct | 3.5.1.7 | Enzyme Nomenclature |
-|N-Acetyl-L-aspartate | Metabolite |  |  |
+|N-Acetyl-L-aspartate | Metabolite | Q28000013 | Wikidata |
 |Pyrimidine metabolism | Pathway |  |  |
 |6.3.5.6 | GeneProduct | 6.3.5.6 | Enzyme Nomenclature |
 |3.5.1.38 | GeneProduct | 3.5.1.38 | Enzyme Nomenclature |
