@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r93003" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno | Egonw | Mkutmon | MirellaKalafati | JosipMadunic" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Apoptosis" Data-Source="WikiPathways" Version="WP254_r95107" Author="A.C.Zambon | MaintBot | AlexanderPico | Thomas | Susan | Angelika | B.Lawlor | MartijnVanIersel | Gillespm | Khanspers | Jildau | Ariutta | Nuno | Egonw | Mkutmon | MirellaKalafati | JosipMadunic" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Apoptosis is a distinct form of cell death that is functionally and morphologically different from necrosis. Nuclear chromatin condensation, cytoplasmic shrinking, dilated endoplasmic reticulum, and membrane blebbing characterize apoptosis in general. Mitochondria remain morphologically unchanged. In 1972 Kerr et al introduced the concept of apoptosis as a distinct form of "cell-death", and the mechanisms of various apoptotic pathways are still being revealed today.  </Comment>
   <Graphics BoardWidth="1358.3333333333333" BoardHeight="846.1666666666666" />
   <DataNode TextLabel="MIR29B1" GraphId="a3e60" Type="GeneProduct" GroupRef="d254c">
@@ -240,7 +240,7 @@
     <Graphics CenterX="630.0000000000005" CenterY="339.33333333333326" Width="60.0" Height="20.0" ZOrder="32858" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8739" />
   </DataNode>
-  <DataNode TextLabel="TP73" GraphId="eba" Type="GeneProduct" GroupRef="ebfe0">
+  <DataNode TextLabel="TP73" GraphId="eba" Type="GeneProduct" GroupRef="b80c8">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="TP73 | tumor protein p73" />
     <Graphics CenterX="860.0" CenterY="540.0" Width="60.0" Height="20.0" ZOrder="32860" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7161" />
@@ -470,7 +470,7 @@
     <Graphics CenterX="281.33333333333326" CenterY="298.66666666666686" Width="60.0" Height="20.0" ZOrder="32950" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="4214" />
   </DataNode>
-  <DataNode TextLabel="TP63" GraphId="ebc" Type="GeneProduct" GroupRef="ebfe0">
+  <DataNode TextLabel="TP63" GraphId="ebc" Type="GeneProduct" GroupRef="b80c8">
     <Graphics CenterX="860.0" CenterY="560.0" Width="60.0" Height="20.0" ZOrder="32952" FontSize="10" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="8626" />
   </DataNode>
@@ -1018,8 +1018,8 @@
   <Label TextLabel="e" GraphId="af9">
     <Graphics CenterX="465.33333333333326" CenterY="561.3333333333334" Width="14.333333333333334" Height="19.0" ZOrder="28702" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
   </Label>
-  <Label TextLabel="p53 Related" GraphId="c3e" GroupRef="b6d5d">
-    <Graphics CenterX="870.0" CenterY="503.3333333333333" Width="80.33333333333333" Height="16.0" ZOrder="28704" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
+  <Label TextLabel="p53 Related" GraphId="c3e" GroupRef="b80c8">
+    <Graphics CenterX="860.0" CenterY="503.3333333333333" Width="80.33333333333333" Height="16.0" ZOrder="28704" FillColor="ffffff" FontWeight="Bold" FontSize="10" Valign="Middle" />
   </Label>
   <Label TextLabel="Inhibitor of Cell Death" GraphId="bee">
     <Graphics CenterX="90.0" CenterY="806.6666666666666" Width="169.33333333333334" Height="19.0" ZOrder="28706" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle" />
@@ -1033,12 +1033,12 @@
   <Shape GraphId="d22">
     <Graphics CenterX="1023.0028788597047" CenterY="533.9942422805894" Width="466.75693333333334" Height="113.2878" ZOrder="16390" FontSize="10" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
+  <Group GroupId="b80c8" Style="Group" />
   <Group GroupId="d7a6b" GraphId="afd71" />
   <Group GroupId="ffcf1" GraphId="b4dc4" />
   <Group GroupId="e0e2c" GraphId="b742d" Style="Complex" />
   <Group GroupId="defd7" GraphId="c5179" />
   <Group GroupId="ff56d" GraphId="ce6a7" />
-  <Group GroupId="b6d5d" GraphId="d5663" />
   <Group GroupId="a85e8" GraphId="dc2d0" />
   <Group GroupId="a904c" GraphId="dce7b" />
   <Group GroupId="cb605" GraphId="e9cdc" />
@@ -1046,12 +1046,39 @@
   <Group GroupId="dbe72" GraphId="f02c5" />
   <Group GroupId="c2232" GraphId="f3348" />
   <Group GroupId="c5ac6" GraphId="f33ed" />
-  <Group GroupId="ebfe0" GraphId="f6030" GroupRef="b6d5d" />
   <Group GroupId="c537f" GraphId="f97a6" />
   <Group GroupId="e38bb" GraphId="fa658" />
   <Group GroupId="d254c" GraphId="ff3a7" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">regulatory pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c09">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17404574</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mir-29 regulates Mcl-1 protein expression and apoptosis.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mott JL</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kobayashi S</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bronk SF</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gores GJ</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cff">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19079265</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">miR-29 miRNAs activate p53 by targeting p85 alpha and CDC42.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nat Struct Mol Biol</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Park SY</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lee JH</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ha M</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nam JW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim VN</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c76">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10618704</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1070,29 +1097,6 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bose I</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ghosh B</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cff">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19079265</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">miR-29 miRNAs activate p53 by targeting p85 alpha and CDC42.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nat Struct Mol Biol</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2009</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Park SY</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lee JH</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ha M</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nam JW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kim VN</bp:AUTHORS>
-    </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="c09">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17404574</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mir-29 regulates Mcl-1 protein expression and apoptosis.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Oncogene</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2007</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mott JL</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kobayashi S</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bronk SF</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gores GJ</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b2c">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20041405</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -1107,11 +1111,6 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jia WH</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhuang SM</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">regulatory pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000004</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
   </Biopax>
 </Pathway>
 
