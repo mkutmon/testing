@@ -1,7 +1,7 @@
 | Label | Type | ID | Database |
 | ---- | ---- | ---- | ---- |
-|MIR29B1 | GeneProduct | ENSG00000274250 | Ensembl |
-|MIR29A | GeneProduct | ENSG00000277934 | Ensembl |
+|MIR29B1 | GeneProduct | ENSG00000283797 | Ensembl |
+|MIR29A | GeneProduct | ENSG00000284032 | Ensembl |
 |PMAIP1 | GeneProduct | 5366 | Entrez Gene |
 |CASP9 | GeneProduct | 842 | Entrez Gene |
 |MDM2 | GeneProduct | 4193 | Entrez Gene |
@@ -95,4 +95,4 @@
 |BCL2L11 | GeneProduct | 10018 | Entrez Gene |
 |MAP3K1 | GeneProduct | 4214 | Entrez Gene |
 |TP63 | GeneProduct | 8626 | Entrez Gene |
-|MIR29B2 | GeneProduct | ENSG00000276752 | Ensembl |
+|MIR29B2 | GeneProduct | ENSG00000284203 | Ensembl |
