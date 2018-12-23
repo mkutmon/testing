@@ -39,7 +39,7 @@
 |tRNA (Asn) | GeneProduct |  |  |
 |1.4.3.15 | GeneProduct | 1.4.3.15 | Enzyme Nomenclature |
 |D-Ala metabolism | Pathway |  |  |
-|Malate | Metabolite | 617-48-1 | CAS |
+|Malate | Metabolite | 6915-15-7 | CAS |
 |3.5.1.1 | GeneProduct | 3.5.1.1 | Enzyme Nomenclature |
 |Cyanoamino acid metabolism | Pathway |  |  |
 |tRNA(Asp) | GeneProduct |  |  |
