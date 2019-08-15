@@ -3,11 +3,11 @@
 |GAD2 | GeneProduct | 2572 | Entrez Gene |
 |DDC | GeneProduct | 1644 | Entrez Gene |
 |Choline | Metabolite | 62-49-7 | CAS |
-|Epinephrine | Metabolite | HMDB00068 | HMDB |
+|Epinephrine | Metabolite | HMDB0000068 | HMDB |
 |5-hydroxy-tryptophan | Metabolite | 4350-09-8 | CAS |
 |TPH1 | GeneProduct | 7166 | Entrez Gene |
 |Acetylserotonin | Metabolite | 1210-83-9 | CAS |
-|GABA | Metabolite | HMDB00112 | HMDB |
+|GABA | Metabolite | HMDB0000112 | HMDB |
 |HDC | GeneProduct | 3067 | Entrez Gene |
 |DBH | GeneProduct | 1621 | Entrez Gene |
 |DDC | GeneProduct | 1644 | Entrez Gene |
@@ -25,7 +25,7 @@
 |Serotonin | Metabolite | 50-67-9 | CAS |
 |AANAT | GeneProduct | 15 | Entrez Gene |
 |Phenylalanine | Metabolite | 63-91-2 | CAS |
-|Melatonin | Metabolite | HMDB01389 | HMDB |
+|Melatonin | Metabolite | HMDB0001389 | HMDB |
 |GAD1 | GeneProduct | 2571 | Entrez Gene |
 |Glutamate | Metabolite | 56-86-0 | CAS |
 |MAOA | GeneProduct | 4128 | Entrez Gene |
