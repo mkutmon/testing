@@ -47,7 +47,7 @@
 |Malonate semialdehyde | Metabolite | 33190 | ChEBI |
 |6.3.2.11 | GeneProduct | 6.3.2.11 | Enzyme Nomenclature |
 |beta-Alanine metabolism | Pathway |  |  |
-|Citric acid | Metabolite | HMDB00094 | HMDB |
+|Citric acid | Metabolite | HMDB0000094 | HMDB |
 |1.4.3.16 | GeneProduct | 1.4.3.16 | Enzyme Nomenclature |
 |6.1.1.22 | GeneProduct | 6.1.1.22 | Enzyme Nomenclature |
 |Urea cycel and metabolism of amino groups | Pathway | WP497 | WikiPathways |
