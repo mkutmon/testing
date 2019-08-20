@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r106192" Author="AlexanderPico | MaintBot | Khanspers | Thomas | MartijnVanIersel | Christine Chichester | Egonw | Evelo | AAR&amp;Co | Mkutmon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Biogenic Amine Synthesis" Data-Source="WikiPathways" Version="WP550_r106312" Author="AlexanderPico | MaintBot | Khanspers | Thomas | MartijnVanIersel | Christine Chichester | Egonw | Evelo | AAR&amp;Co | Mkutmon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Biogenic amines are one of two broad classes of classical neurotransmitters (the other being amino acids) and include: acetylcholine, serotonin, histamine, and the catecholamines epinephrine, norepinephrine, and dopamine.
 
 Source: http://www.whatislife.com/reader2/Metabolism/pathway/Neurotransmitter.html
 
-This pathway is part the [https://assays.cancer.gov/available_assays?wp_id=WP550 CPTAC Assay Portal].</Comment>
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP550 CPTAC Assay Portal]</Comment>
   <BiopaxRef>d64</BiopaxRef>
   <Graphics BoardWidth="818.6666666666664" BoardHeight="694.1937386569878" />
   <DataNode TextLabel="GAD2" GraphId="a07" Type="GeneProduct" GroupRef="e4dfc">
