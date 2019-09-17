@@ -12,7 +12,7 @@
 |KLKB1 | GeneProduct | ENSG00000164344 | Ensembl |
 |Fibrin | Metabolite | 5054 | ChEBI |
 |FGG | GeneProduct | ENSG00000171557 | Ensembl |
-|Zinc | Metabolite | HMDB01303 | HMDB |
+|Zinc | Metabolite | HMDB0001303 | HMDB |
 |Factor X | GeneProduct | ENSG00000126218 | Ensembl |
 |Plasminogen | GeneProduct | ENSG00000122194 | Ensembl |
 |Tissue Factor | GeneProduct | ENSG00000117525 | Ensembl |
