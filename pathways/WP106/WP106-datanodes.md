@@ -1,7 +1,7 @@
 | Label | Type | ID | Database |
 | ---- | ---- | ---- | ---- |
 |Fatty acid metabolism | Pathway | WP143 | WikiPathways |
-|Pyruvate | Metabolite | 32816 | ChEBI |
+|Pyruvate | Metabolite | CHEBI:32816 | ChEBI |
 |3.5.1.3 | GeneProduct | 3.5.1.3 | Enzyme Nomenclature |
 |GOT2 | GeneProduct | 2806 | Entrez Gene |
 |3.4.13.3 | GeneProduct | 3.4.13.3 | Enzyme Nomenclature |
@@ -14,7 +14,7 @@
 |4.1.1.12 | GeneProduct | 4.1.1.12 | Enzyme Nomenclature |
 |DARS | GeneProduct | 1615 | Entrez Gene |
 |ASPA | GeneProduct | 443 | Entrez Gene |
-|N-Carbamoyl-L-aspartate | Metabolite | 15859 | ChEBI |
+|N-Carbamoyl-L-aspartate | Metabolite | CHEBI:15859 | ChEBI |
 |D-Alanine | Metabolite | 338-69-2 | CAS |
 |5.1.1.1 | GeneProduct | 5.1.1.1 | Enzyme Nomenclature |
 |2.6.1.12 | GeneProduct | 2.6.1.12 | Enzyme Nomenclature |
@@ -44,7 +44,7 @@
 |Cyanoamino acid metabolism | Pathway |  |  |
 |tRNA(Asp) | GeneProduct |  |  |
 |Succinate | Metabolite | C00042 | KEGG Compound |
-|Malonate semialdehyde | Metabolite | 33190 | ChEBI |
+|Malonate semialdehyde | Metabolite | CHEBI:33190 | ChEBI |
 |6.3.2.11 | GeneProduct | 6.3.2.11 | Enzyme Nomenclature |
 |beta-Alanine metabolism | Pathway |  |  |
 |Citric acid | Metabolite | HMDB0000094 | HMDB |
