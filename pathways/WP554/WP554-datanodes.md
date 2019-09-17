@@ -6,17 +6,17 @@
 |BDKRB1 | GeneProduct | 623 | Entrez Gene |
 |TFs | GeneProduct |  |  |
 |AGTR1 | GeneProduct | 185 | Entrez Gene |
-|Aldosterone | Metabolite | HMDB00037 | HMDB |
+|Aldosterone | Metabolite | HMDB0000037 | HMDB |
 |TGFB1 | GeneProduct | 7040 | Entrez Gene |
-|Bradykinin | Metabolite | HMDB04246 | HMDB |
+|Bradykinin | Metabolite | HMDB0004246 | HMDB |
 |CTSG | GeneProduct | 1511 | Entrez Gene |
-|Angiotensin II | Metabolite | HMDB01035 | HMDB |
+|Angiotensin II | Metabolite | HMDB0001035 | HMDB |
 |KNG1 | GeneProduct | 3827 | Entrez Gene |
-|Ca++ | Metabolite | HMDB00464 | HMDB |
+|Ca++ | Metabolite | HMDB0000464 | HMDB |
 |Angiotensin I | Metabolite | 3081372 | PubChem-compound |
 |ACE | GeneProduct | 1636 | Entrez Gene |
 |ACE Inhibitor | Metabolite | CHEBI:35457 | ChEBI |
-|Deoxycorticosterone | Metabolite | HMDB00016 | HMDB |
+|Deoxycorticosterone | Metabolite | HMDB0000016 | HMDB |
 |CMA1 | GeneProduct | 1215 | Entrez Gene |
 |Ang 1-7 | Metabolite | 110354 | Chemspider |
 |Prostacyclin | Metabolite | 114805 | PubChem-compound |
