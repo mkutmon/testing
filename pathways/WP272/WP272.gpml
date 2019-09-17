@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r106723" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim | Mkutmon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r107136" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim | Mkutmon" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Coagulation is a complex process by which blood forms clots. It is an important part of hemostasis (the cessation of blood loss from a damaged vessel), wherein a damaged blood vessel wall is covered by a platelet and fibrin-containing clot to stop bleeding and begin repair of the damaged vessel. Disorders of coagulation can lead to an increased risk of bleeding (hemorrhage) or clotting (thrombosis).
 
 Source: [[wikipedia:Coagulation|Wikipedia]]
@@ -52,7 +52,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="Fibrin" GraphId="a53" Type="Metabolite">
     <Graphics CenterX="828.8623864256954" CenterY="821.6921468160116" Width="49.333333333333336" Height="19.0" ZOrder="32768" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="ChEBI" ID="5054" />
+    <Xref Database="ChEBI" ID="CHEBI:5054" />
   </DataNode>
   <DataNode TextLabel="FGG" GraphId="aa3" Type="GeneProduct" GroupRef="cc726">
     <Attribute Key="org.pathvisio.model.BackpageHead" Value="FGG | fibrinogen gamma chain" />

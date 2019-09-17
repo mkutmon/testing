@@ -10,7 +10,7 @@
 |Factor II | GeneProduct | ENSG00000180210 | Ensembl |
 |Factor XII | GeneProduct | ENSG00000131187 | Ensembl |
 |KLKB1 | GeneProduct | ENSG00000164344 | Ensembl |
-|Fibrin | Metabolite | 5054 | ChEBI |
+|Fibrin | Metabolite | CHEBI:5054 | ChEBI |
 |FGG | GeneProduct | ENSG00000171557 | Ensembl |
 |Zinc | Metabolite | HMDB0001303 | HMDB |
 |Factor X | GeneProduct | ENSG00000126218 | Ensembl |
