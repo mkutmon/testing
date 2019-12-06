@@ -5,8 +5,8 @@
 |NFKB1 | Protein | 4790 | Entrez Gene |
 |ILF2 | Rna | 3608 | Entrez Gene |
 |E2F3 | Rna | 1871 | Entrez Gene |
-|RELA | Protein | 5970 | Entrez Gene |
 |REL | Protein | 5966 | Entrez Gene |
+|RELA | Protein | 5970 | Entrez Gene |
 |RAF1 | Protein | 5894 | Entrez Gene |
 |MAP3K7 | Protein | 6885 | Entrez Gene |
 |MEF2D | Rna | 4209 | Entrez Gene |
