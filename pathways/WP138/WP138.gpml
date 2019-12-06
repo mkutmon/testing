@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Androgen receptor signaling pathway" Data-Source="WikiPathways" Version="WP138_r105881" Author="A.Pandey | MaintBot | Nsalomonis | Andra | AlexanderPico | Khanspers | MartijnVanIersel | NetPath | Robertbaertsch | Mkutmon | Zari" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Androgen receptor signaling pathway" Data-Source="WikiPathways" Version="WP138_r108320" Author="A.Pandey | MaintBot | Nsalomonis | Andra | AlexanderPico | Khanspers | MartijnVanIersel | NetPath | Robertbaertsch | Mkutmon | Zari | L Dupuis" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Androgens, mainly testosterone and 5alpha-dihydrotestosterone (DHT) play significant role in the growth and development of the male reproductive organs. These steroid hormones bring about their biological functions through their associations with Androgen receptor (AR), a 110 KDa ligand dependent transcription factor that falls under the group of nuclear receptor superfamily. DHT binds the receptor with high affinity compared to testosterone. The AR gene is located in the X chromosome at Xq11-12 site. AR is cytosolic protein, which in the ligand unbound state, is present as a complex with various Heat shock proteins primarily Hsp70, 90 and 56 as well as p23. Upon ligand binding, it dissociates from the complex. AR is found to be expressed in a number of tissues and cells including prostate, testis, seminal vescicle, epididymis, skin, skeletal muscle, cardiac muscle, liver and central nervous system. The protein has four functional domains- an N terminal domain (NTD), a DNA binding domain (DBD), a hinge region and a Ligand binding Domain (LBD). The DBD is a 658 amino acid residue region that has ZNF motifs which allows it bind to DNA. The rest of the domains are involved in dimerization and ligand binding. Two phosphorylation events are proposed to play very important role in the activation of the receptor upon ligand binding. The first phosphorylation event releases the ligand binding domain for hormone binding. The subsequent phosphorylation event is triggered upon hormone binding. Activated AR upon ligand binding undergoes conformational change to form a homodimer and interacts tightly with the Androgen Response Element (ARE). The androgen receptor is known to bind to many co-regulators at different time points and in different cell types. This DNA protein complex triggers the expression of various target genes that are associated with the male phenotype. Modulation of the AR activity is carried out by several transcription factors like ARA70, TR4, SRC family members and CBP/p300 and other associated proteins. FXXLF and WXXLF motifs containing coactivators such as the p160 members bind with the AF2 region of the Ligand Binding Domain of the AR. Androgen receptors are known to induce apoptosis under certain conditions. Various regulators that regulate androgen induced apoptosis include BRCA1 and Smad3 and Akt. Mutation in AR are also known to be associated in a number of diseases including spinal and bulbar muscular atrophy (SBMA) or Kennedy's disease and Androgen Insensitivity syndrome (AIS). Abnormal amplification of the androgen gene as well as deregulation of AR gene expression have been shown to be associated with prostate cancer.
 
 
@@ -1186,181 +1186,6 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction GraphId="bcfbf">
-    <Graphics ZOrder="33671" LineThickness="2.0">
-      <Point X="1182.999999999997" Y="603.4652880354461" />
-      <Point X="1203.9999999999964" Y="603.4652880354461" ArrowHead="TBar" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="f7990">
-    <Graphics ZOrder="33672" LineThickness="2.0">
-      <Point X="1211.6666666666642" Y="547.79862136878" />
-      <Point X="1211.6666666666642" Y="537.79862136878" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="a194b">
-    <Graphics ZOrder="33673" LineThickness="2.0" Color="00cc00">
-      <Point X="1181.6666666666642" Y="542.79862136878" />
-      <Point X="1240.6666666666642" Y="542.79862136878" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e00e1">
-    <Graphics ZOrder="33684" LineThickness="2.0" Color="ff0033">
-      <Point X="1183.999999999997" Y="887.9999999999945" />
-      <Point X="1248.9999999999964" Y="887.9999999999945" ArrowHead="mim-inhibition" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="fb8b2">
-    <Graphics ZOrder="33685" LineThickness="2.0" Color="9900cc">
-      <Point X="1183.999999999997" Y="788.9999999999945" />
-      <Point X="1241.9999999999964" Y="789.5024647292369" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="c9fbc">
-    <Graphics ZOrder="33686" LineThickness="2.0" Color="cc00cc">
-      <Point X="1183.999999999997" Y="769.6582084822985" />
-      <Point X="1241.9999999999964" Y="769.6582084822985" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="bc9d4">
-    <Graphics ZOrder="33687" LineThickness="2.0" Color="999900">
-      <Point X="1183.999999999997" Y="729.6593972779065" />
-      <Point X="1241.9999999999964" Y="729.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="dabe4">
-    <Graphics ZOrder="33688" LineStyle="Broken" LineThickness="2.0" Color="00cccc">
-      <Point X="1184.9999999999968" Y="907.9999999999945" />
-      <Point X="1242.9999999999964" Y="908.5012759336287" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="d1eee">
-    <Graphics ZOrder="33689" LineThickness="2.0" Color="00ffff">
-      <Point X="1183.999999999997" Y="709.6593972779065" />
-      <Point X="1241.9999999999964" Y="709.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="b38a8">
-    <Graphics ZOrder="33690" LineThickness="2.0" Color="ffcc33">
-      <Point X="1183.999999999997" Y="648.9999999999945" />
-      <Point X="1242.0000017000161" Y="649.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="dbecb">
-    <Graphics ZOrder="33691" LineThickness="3.0">
-      <Point X="1284.0952380952347" Y="437.04761904761654" GraphRef="f450c" RelX="0.0" RelY="1.0" />
-      <Point X="1284.428571428568" Y="463.6666666666631" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="eede0">
-    <Graphics ZOrder="33709" LineThickness="2.0" Color="0000ff">
-      <Point X="1183.999999999997" Y="689.6593972779065" />
-      <Point X="1241.9999999999964" Y="689.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="d8276">
-    <Graphics ZOrder="33710" LineThickness="2.0" Color="ff9933">
-      <Point X="1183.999999999997" Y="669.6593972779065" />
-      <Point X="1241.9999999999964" Y="669.6593972779065" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ab379">
-    <Graphics ZOrder="33717" LineThickness="2.0" Color="cccc00">
-      <Point X="1182.999999999997" Y="748.9999999999945" />
-      <Point X="1241.9999999999964" Y="749.5036535248448" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="f9de5">
-    <Graphics ZOrder="33719" LineThickness="2.0" Color="770000">
-      <Point X="1183.999999999997" Y="809.6570196866903" />
-      <Point X="1241.9999999999964" Y="809.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e93c5">
-    <Graphics ZOrder="33721" LineThickness="2.0" Color="775200">
-      <Point X="1183.999999999997" Y="829.6570196866903" />
-      <Point X="1241.9999999999964" Y="829.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="f20bb">
-    <Graphics ZOrder="33723" LineThickness="2.0" Color="ff6666">
-      <Point X="1183.999999999997" Y="849.6570196866903" />
-      <Point X="1241.9999999999964" Y="849.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="ded37">
-    <Graphics ZOrder="33737" LineThickness="2.0" Color="999999">
-      <Point X="1183.999999999997" Y="869.6570196866903" />
-      <Point X="1241.9999999999964" Y="869.6570196866903" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="eb8be">
-    <Graphics ZOrder="33739" LineThickness="2.0">
-      <Point X="1201.9999999999964" Y="603.4652880354461" />
-      <Point X="1239.6666666666642" Y="603.79862136878" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="cd278">
-    <Graphics ZOrder="33740" LineThickness="2.0">
-      <Point X="1182.999999999997" Y="580.9999999999958" />
-      <Point X="1240.9999999999964" Y="580.9999999999958" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e8a48">
-    <Graphics ZOrder="33741" LineThickness="2.0" Color="00cc00">
-      <Point X="1182.999999999997" Y="520.9999999999964" />
-      <Point X="1240.9999999999964" Y="520.9999999999964" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="d7906">
-    <Graphics ZOrder="33742" LineStyle="Broken" LineThickness="2.0">
-      <Point X="1182.999999999997" Y="562.9999999999961" />
-      <Point X="1240.9999999999964" Y="562.9999999999961" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="e1e0b">
-    <Graphics ZOrder="33743" LineThickness="2.0">
-      <Point X="1230.3333333333298" Y="629.3333333333275" />
-      <Point X="1236.9999999999964" Y="635.9999999999939" ArrowHead="Arrow" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="f512c">
-    <Graphics ZOrder="33746" LineThickness="2.0" Color="ff00ff">
-      <Point X="1238.4837201898356" Y="1025.0887265873953" />
-      <Point X="1238.4837201898356" Y="1050.0887265873953" ArrowHead="mim-conversion" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction GraphId="d995c">
-    <Graphics ZOrder="33747" LineThickness="2.0" Color="ff00ff">
-      <Point X="1238.4546258735204" Y="1036.8977880629868" />
-      <Point X="1238.4546258735204" Y="1016.0266446873065" ArrowHead="mim-conversion" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="db4eb">
     <Graphics ZOrder="33748" LineThickness="3.0" Color="ff3399">
       <Point X="1209.9999999999977" Y="438.465288035447" GraphRef="ffadf" RelX="0.0" RelY="1.0" />
@@ -1368,6 +1193,156 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <GraphicalLine GraphId="a6263">
+    <Graphics ZOrder="33671" LineThickness="2.0">
+      <Point X="1182.999999999997" Y="603.4652880354461" />
+      <Point X="1203.9999999999964" Y="603.4652880354461" ArrowHead="TBar" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a8cf7">
+    <Graphics ZOrder="33672" LineThickness="2.0">
+      <Point X="1211.6666666666642" Y="547.79862136878" />
+      <Point X="1211.6666666666642" Y="537.79862136878" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f06b7">
+    <Graphics ZOrder="33673" LineThickness="2.0" Color="00cc00">
+      <Point X="1181.6666666666642" Y="542.79862136878" />
+      <Point X="1240.6666666666642" Y="542.79862136878" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ba0c8">
+    <Graphics ZOrder="33684" LineThickness="2.0" Color="ff0033">
+      <Point X="1183.999999999997" Y="887.9999999999945" />
+      <Point X="1248.9999999999964" Y="887.9999999999945" ArrowHead="mim-inhibition" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c8373">
+    <Graphics ZOrder="33685" LineThickness="2.0" Color="9900cc">
+      <Point X="1183.999999999997" Y="788.9999999999945" />
+      <Point X="1241.9999999999964" Y="789.5024647292369" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e916c">
+    <Graphics ZOrder="33686" LineThickness="2.0" Color="cc00cc">
+      <Point X="1183.999999999997" Y="769.6582084822985" />
+      <Point X="1241.9999999999964" Y="769.6582084822985" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f8b2e">
+    <Graphics ZOrder="33687" LineThickness="2.0" Color="999900">
+      <Point X="1183.999999999997" Y="729.6593972779065" />
+      <Point X="1241.9999999999964" Y="729.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ec7fb">
+    <Graphics ZOrder="33688" LineStyle="Broken" LineThickness="2.0" Color="00cccc">
+      <Point X="1184.9999999999968" Y="907.9999999999945" />
+      <Point X="1242.9999999999964" Y="908.5012759336287" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e23c4">
+    <Graphics ZOrder="33689" LineThickness="2.0" Color="00ffff">
+      <Point X="1183.999999999997" Y="709.6593972779065" />
+      <Point X="1241.9999999999964" Y="709.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="fcb95">
+    <Graphics ZOrder="33690" LineThickness="2.0" Color="ffcc33">
+      <Point X="1183.999999999997" Y="648.9999999999945" />
+      <Point X="1242.0000017000161" Y="649.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f4af1">
+    <Graphics ZOrder="33691" LineThickness="3.0">
+      <Point X="1284.0952380952347" Y="421.54761904761654" GraphRef="f450c" RelX="0.0" RelY="0.0" />
+      <Point X="1284.428571428568" Y="463.6666666666631" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f20af">
+    <Graphics ZOrder="33709" LineThickness="2.0" Color="0000ff">
+      <Point X="1183.999999999997" Y="689.6593972779065" />
+      <Point X="1241.9999999999964" Y="689.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ce0f8">
+    <Graphics ZOrder="33710" LineThickness="2.0" Color="ff9933">
+      <Point X="1183.999999999997" Y="669.6593972779065" />
+      <Point X="1241.9999999999964" Y="669.6593972779065" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e5262">
+    <Graphics ZOrder="33717" LineThickness="2.0" Color="cccc00">
+      <Point X="1182.999999999997" Y="748.9999999999945" />
+      <Point X="1241.9999999999964" Y="749.5036535248448" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="de412">
+    <Graphics ZOrder="33719" LineThickness="2.0" Color="770000">
+      <Point X="1183.999999999997" Y="809.6570196866903" />
+      <Point X="1241.9999999999964" Y="809.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ebe6a">
+    <Graphics ZOrder="33721" LineThickness="2.0" Color="775200">
+      <Point X="1183.999999999997" Y="829.6570196866903" />
+      <Point X="1241.9999999999964" Y="829.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ce548">
+    <Graphics ZOrder="33723" LineThickness="2.0" Color="ff6666">
+      <Point X="1183.999999999997" Y="849.6570196866903" />
+      <Point X="1241.9999999999964" Y="849.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="dc4bd">
+    <Graphics ZOrder="33737" LineThickness="2.0" Color="999999">
+      <Point X="1183.999999999997" Y="869.6570196866903" />
+      <Point X="1241.9999999999964" Y="869.6570196866903" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="b5299">
+    <Graphics ZOrder="33739" LineThickness="2.0">
+      <Point X="1201.9999999999964" Y="603.4652880354461" />
+      <Point X="1239.6666666666642" Y="603.79862136878" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c1184">
+    <Graphics ZOrder="33740" LineThickness="2.0">
+      <Point X="1182.999999999997" Y="580.9999999999958" />
+      <Point X="1240.9999999999964" Y="580.9999999999958" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d54ce">
+    <Graphics ZOrder="33741" LineThickness="2.0" Color="00cc00">
+      <Point X="1182.999999999997" Y="520.9999999999964" />
+      <Point X="1240.9999999999964" Y="520.9999999999964" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f9319">
+    <Graphics ZOrder="33742" LineStyle="Broken" LineThickness="2.0">
+      <Point X="1182.999999999997" Y="562.9999999999961" />
+      <Point X="1240.9999999999964" Y="562.9999999999961" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d83a5">
+    <Graphics ZOrder="33743" LineThickness="2.0">
+      <Point X="1230.3333333333298" Y="629.3333333333275" />
+      <Point X="1236.9999999999964" Y="635.9999999999939" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="cded2">
+    <Graphics ZOrder="33746" LineThickness="2.0" Color="ff00ff">
+      <Point X="1238.4837201898356" Y="1025.0887265873953" />
+      <Point X="1238.4837201898356" Y="1050.0887265873953" ArrowHead="mim-conversion" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="fb820">
+    <Graphics ZOrder="33747" LineThickness="2.0" Color="ff00ff">
+      <Point X="1238.4546258735204" Y="1036.8977880629868" />
+      <Point X="1238.4546258735204" Y="1016.0266446873065" ArrowHead="mim-conversion" />
+    </Graphics>
+  </GraphicalLine>
   <Label TextLabel="Androgen Receptor Signaling Pathway" GraphId="cf2a6">
     <Graphics CenterX="623.1904761904763" CenterY="159.61904761904762" Width="382.857142857143" Height="36.19047619047619" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="18" Valign="Middle" />
   </Label>
