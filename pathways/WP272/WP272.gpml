@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r107136" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim | Mkutmon" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Blood Clotting Cascade" Data-Source="WikiPathways" Version="WP272_r115461" Author="A.Kwa | MaintBot | Khanspers | Thomas | Andra | Lslabim | Mkutmon | Egonw" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Coagulation is a complex process by which blood forms clots. It is an important part of hemostasis (the cessation of blood loss from a damaged vessel), wherein a damaged blood vessel wall is covered by a platelet and fibrin-containing clot to stop bleeding and begin repair of the damaged vessel. Disorders of coagulation can lead to an increased risk of bleeding (hemorrhage) or clotting (thrombosis).
 
 Source: [[wikipedia:Coagulation|Wikipedia]]
@@ -154,7 +154,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
     <Xref Database="Ensembl" ID="ENSG00000106366" />
   </DataNode>
   <DataNode TextLabel="Fibrin Complement &#xA;Receptor 3 Signaling" GraphId="f9e01" Type="Pathway">
-    <Graphics CenterX="827.7768203064218" CenterY="1044.0" Width="138.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="827.7768203064218" CenterY="1044.0" Width="138.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP4136" />
   </DataNode>
   <DataNode TextLabel="Factor VIII" GraphId="fc4" Type="GeneProduct" GroupRef="f4f2f">
