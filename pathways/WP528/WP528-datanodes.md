@@ -11,7 +11,7 @@
 |Choline | Metabolite | 62-49-7 | CAS |
 |Glycerophosphocholine | Metabolite | 28319-77-9 | CAS |
 |Phosphatidylcholine | Metabolite | HMDB0000564 | HMDB |
-|Pyruvate from Glycolysis | Metabolite | HMDB0000243 | HMDB |
+|Pyruvate from glycolysis | Metabolite | HMDB0000243 | HMDB |
 |Acetyl CoA | Metabolite | 72-89-9 | CAS |
 |PEMT | GeneProduct | 10400 | Entrez Gene |
 |Acetate | Metabolite | 64-19-7 | CAS |
